@@ -1,0 +1,1 @@
+ARRÊTÉ 0049/71 du 25 mars 1971 fixant la composition des commissions médicales et de la commission médicale d’appel prévues par l’article 80 de l’ordonnance 66-464 du 26 août 1966 fixant le statut du personnel de l’Institut national de sécurité sociale.

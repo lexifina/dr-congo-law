@@ -1,0 +1,1 @@
+Article- 1er. Il est créé, sous le nom de "Médaille du: Militant”, une décoration destinée à récomponser ceux qui se distin-guent par un militantisme engagé, au sein • du Mouvement Populaire de la Révolution, Parti-Etat.

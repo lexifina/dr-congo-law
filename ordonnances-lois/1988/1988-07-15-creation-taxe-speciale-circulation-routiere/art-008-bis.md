@@ -1,0 +1,1 @@
+# Art. 8bis. - Vingt pour cent (20 %) des recettes provenant de la taxe spéciale de circulation routière sont rétrocédées à l'Office des voiries et drainage en vue du financement des travaux d'entretien, d'aménagement, de modernisation et de développement des infrastructures urbaines de voirie et de drainage.

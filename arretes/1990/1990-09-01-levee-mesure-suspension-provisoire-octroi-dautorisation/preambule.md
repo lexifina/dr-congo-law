@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 018/90 du 1 er septembre 1990 relatif à la levée de la mesure de suspension provisoire octroi d’autorisation de licenciements des travailleurs. ( Ministère du Travail et de la Prévoyance sociale )

@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 70/0572 du 9 mai 1970 déterminant pour la ville de Lubumbashi le nombre, la dénomination et les limites des communes urbaines ainsi que les limites de la collectivité locale englobée.

@@ -1,0 +1,1 @@
+4 décembre 1986. - ARRÊTÉ INTERDÉPARTEMENTAL 86/ 0663 portant création et composition d'une commission chargée de l'examen des demandes de régularisation des titres de séjour et de circulation des étrangers dans les zones minières. (J.O.Z., n° 7, 1 er avril 1987, p. 28)

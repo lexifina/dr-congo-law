@@ -1,0 +1,1 @@
+Arrêté n. 1440/000207/82 du 20 septembre 1982 portant abrogation de l’Arrêté n. 1440/000152/80 du 3 septembre 1980 ayant déclaré abandon¬née la parcelle résidentielle n. 17r/2 située dans la Zone d’Ibanda à Bukavu.

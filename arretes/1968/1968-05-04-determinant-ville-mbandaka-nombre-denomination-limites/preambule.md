@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 081 du 04 mai 1968 déterminant pour la ville de Mbandaka le nombre, la dénomination et les limites des communes ainsi que le nombre, la dénomination, le chef-lieu et les limites des circonscriptions englobées. (M.C., n°10, 15 mai 1968, p. 871)

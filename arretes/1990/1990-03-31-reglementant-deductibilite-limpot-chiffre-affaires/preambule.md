@@ -1,0 +1,1 @@
+ARRÊTÉ INTERDÉPARTEMENTAL 022 du 31 mars 1990 réglementant la déductibilité de l’impôt sur le chiffre d'affaires à l'importation sur les intrants industriels et les collections M.K.D./C.K.D.. (Ministère des Finances et ministère de l'Économie nationale et de l'Industrie)

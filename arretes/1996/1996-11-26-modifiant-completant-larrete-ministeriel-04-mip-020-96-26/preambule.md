@@ -1,0 +1,1 @@
+20 août 2002. – ARRÊTÉ MINISTÉRIEL 04/MCP/011/ 2002 modifiant et complétant l’arrêté ministériel 04/MIP/020/96 du 26 novembre 1996 portant mesures d’application de la loi 96-002 du 22 juin 1996 fixant les modalités de l’exercice de la liberté de la presse dans la communication audiovisuelle. ( Ministère de la Communication et Presse )

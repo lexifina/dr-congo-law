@@ -1,0 +1,10 @@
+Le Ministre des Affaires Foncières,
+Vu la Constitution de la Transition, spécialement les articles 89, 91 et 94 ;
+Vu la Loi n° 80-008 du 18 juillet 1980 modifiant et complétant la Loi n° 73-021 du 20 juillet 1973 portant régime général des biens, régime foncier et immobilier et régime de sûreté ;
+Vu le Décret n° 03/006 du 30 juin 2003 portant nomination des Ministres et Vice-Ministres du Gouvernement d'union nationale ;
+Attendu qu’au moment de la signature de l’Arrêté Ministériel n° 061/CAB/MIN/AFF.F-ET/2003 du 30 mars 2003 mis en cause, la parcelle n°1603 du plan cadastral de la commune de Kampemba n°3, avenue mandarinier, quartier bel air) faisait partie du patrimoine immobilier de l’entreprise publique City Train, comme le prouvent les attestations de cession du 14 mars 1997 et du 10 février 2004, par lesquelles le liquidateur Mupepe Lebo de l’entreprise publique Ontz confirme avoir cédé ladite parcelle à City Train ;
+Qu’à ce titre, non seulement l’immeuble susvisé ne pouvait pas être concédé sans la formalité préalable de désaffectation, mais aussi ne pouvait être déclaré « bien sans Maître », son nouveau Maître étant bien connu, en l’occurrence l’entreprise CITY TRAIN, qui y a logé son chef d’agence/Lubumbashi ;
+Que c’est donc à tort que l’Arrêté Ministériel n° 061/CAB/MIN/ AF.F-ET/2003 du 30 mars l’a déclaré « bien sans Maître » et repris au domaine privé de l’état, avant qu’il ne soit attribué à Monsieur Luyamba wa Lemba par lettre n° 3438/CAB/MIN/AFF.F-ET/BB/ 2003 du 20 avril 2003 ; Attendu que l’attribution ainsi faite l’a été dans l’irrégularité, et ce, au préjudice du patrimoine immobilier de l’entreprise publique City Train ;
+Vu la requête n° CT/291/ADG/ADGA/11/2003/LM du 02/12/2003 de la direction générale de l’entreprise City Train sollicitant l’annulation de l’Arrêté Ministériel n° 061/CAB/ MIN/AFF.F-ET/2003 incriminé et de la lettre d’attribution à Monsieur Luyamba wa Lemba, de la parcelle mise en cause ;
+Vu l’urgence et la nécessité de protéger le patrimoine des entreprises publiques ;
+ARRETE

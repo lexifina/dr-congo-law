@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 1250/CAB/MIN/S/AJ/MS/012/2001 du 9 décembre 2001 portant dispositions relatives à l’enregistrement et à l’autorisation de mise sur le marché des produits pharmaceutiques. ( Ministère de la Santé )

@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL 002/CAB/MIN/AFF.INTER.&FIN/99 du 20 mai 1999.portant modalités de perception et de répartition des taxes, recettes d’intérêt commun et des impôts cédés aux entités administratives décentralisées. ( Ministère d'État chargé des Affaires intérieures et ministère des Finances et Budget )

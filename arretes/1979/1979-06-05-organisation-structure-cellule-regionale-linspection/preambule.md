@@ -1,0 +1,1 @@
+ARRÊTÉ DÉPARTEMENTAL DE L’ENSEIGNEMENT PRIMAIRE ET SECONDAIRE DEPS/BCE/001/0198/1979 du 5 juin 1979 portant organisation de la structure de la cellule régionale de l’Inspection de l’enseignement primaire et secondaire.

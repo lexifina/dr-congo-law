@@ -1,0 +1,1 @@
+2 février 1984. – ORDONNANCE 84-026 portant abrogation de l’ordonnance 74-152 du 2 juillet 1974 relative aux biens abandonnés ou non mis en valeur et aux autres biens acquis à l’État par l’effet de la loi.

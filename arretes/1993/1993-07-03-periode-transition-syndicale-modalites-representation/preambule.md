@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 12/CAB/MTMOPS/019/93 du 3 juillet 1993 relatif à la période de transition syndicale et modalités de représentation et d’encadrement des travailleurs dans les établissements de toute nature. ( Ministère du Travail et de la Prévoyance sociale )

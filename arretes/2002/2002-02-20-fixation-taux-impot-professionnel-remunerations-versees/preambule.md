@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 083/CAB/MIN/ ECO-FIN&BUD/2002 du 20 février 2002 portant fixation du taux de l'impôt professionnel sur les rémunérations versées au personnel domestique et aux salariés relevant des petites et moyennes entreprises soumises au régime de la patente.( Ministère de l'Économie, Finances et Budget )

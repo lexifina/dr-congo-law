@@ -1,0 +1,3 @@
+# Article 66 quinquies :
+Sera puni des peines prévues à l'article 66 bis celui qui, connaissant la preuve de l'innocence d'une personne incarcérée provisoirement ou jugée pour infraction punissable d'au moins un an, s'abstient volontairement d'en apporter aussitôt le témoignage aux autorités de justice ou de la police judiciaire. Toutefois, aucune peine ne sera prononcée contre celui qui apportera son témoignage tardivement, mais spontanément.
+SECTION V : DES ATTENTATS À LA LIBERTÉ INDIVIDUELLE, À LA DIGNITÉ HUMAINE ET À L'INVIOLABILITÉ DU DOMICILE. (Modifiée par l’article 1er de la Loi n° 22/067 du 26 décembre 2022 modifiant et complétant le Décret du 30 janvier 1940 portant Code pénal congolais)

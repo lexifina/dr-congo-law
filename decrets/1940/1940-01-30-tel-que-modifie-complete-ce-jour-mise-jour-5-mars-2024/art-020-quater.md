@@ -1,0 +1,2 @@
+# Article 20 quater
+En ce qui concerne les poursuites pour les crimes visés au titre IX relatif aux crimes contre la paix et la sécurité de l’humanité, la loi s’applique à tous de manière égale sans aucune distinction fondée sur la qualité officielle. En particulier, la qualité officielle de chef d’Etat ou de gouvernement, de membre du gouvernement, de membre du parlement ou de représentant élu ou d’agent public de l’Etat, n’exonère en aucun cas de la responsabilité pénale, pas plus qu’elle ne constitue en tant que telle un motif de réduction de la peine.

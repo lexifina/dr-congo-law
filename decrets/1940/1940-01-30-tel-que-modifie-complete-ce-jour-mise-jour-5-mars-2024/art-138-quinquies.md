@@ -1,0 +1,5 @@
+# Article 138 quinquies :
+Sera puni selon le droit commun mais avec des circonstances aggravantes, celui qui aura outragé ou frappé soit un membre du bureau politique, soit un membre de l’Assemblée Nationale, soit un membre du Gouvernement, soit un membre de la Cour constitutionnelle, soit un membre du cadre dirigeant du parti, soit un membre des cours et tribunaux, soit un officier du ministère public, soit un officier supérieur des Forces armées et de la police, soit un gouverneur en dehors de l'exercice de son mandat ou de ses fonctions. Toutefois, les circonstances aggravantes ne peuvent pas donner lieu :
+1°. pour les victimes visées aux articles 136, 1° 138°, 138-bis 1° à une peine supérieure à la peine maximum prévue à ces articles ;
+2°. pour les victimes visées aux articles 136, 2°, 138, 2°, 138-bis, 2° à une peine supérieure à la peine maximum prévue à ces articles. Les outrages prévus aux articles 136 et 138-quater ne donneront lieu à aucune action s'il est établi qu'ils ont été précédés de provocations de la part des personnes protégées.
+SECTION II bis : DES OUTRAGES ENVERS L'EMBLEME NATIONAL

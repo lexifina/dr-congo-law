@@ -1,0 +1,6 @@
+# Article 21 ter
+Sont considérés comme complices :
+1. ceux qui auront donné des instructions pour commettre l’infraction ;
+2. ceux qui auront procuré des armes, des instruments ou tout autre moyen qui a servi à l’infraction sachant qu’ils devraient y servir ;
+3. ceux qui auront avec connaissance aidé ou assisté l’auteur ou les auteurs de l’infraction dans les faits qui l’ont préparée ou facilitée ou dans ceux qui l’ont consommée ;
+4. ceux qui, connaissant la conduite criminelle des malfaiteurs exerçant des brigandages ou des violences contre la sûreté de l’Etat, la paix publique, les personnes ou les propriétés, leur auront fourni habituellement logement, lieu de retraite ou de réunion.

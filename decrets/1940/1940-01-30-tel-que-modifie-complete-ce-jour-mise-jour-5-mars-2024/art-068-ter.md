@@ -1,0 +1,2 @@
+# Article 68 ter (Inséré par l’article 3 de la Loi n° 22/067 du 26 décembre 2022 modifiant et complétant le Décret du 30 janvier 1940 portant Code pénal congolais)
+Est puni d'une servitude pénale principale de 5 à 10 ans et d'une amende de 5.000.000 à 10.000.000 de Francs congolais, quiconque obtient ou tente d'obtenir des services sexuels d'une personne sachant que celle-ci est victime d'un ou de plusieurs actes prévus aux articles 68 et 68 bis de la présente Loi.

@@ -1,0 +1,3 @@
+# Article 96 bis :
+Est puni d'une servitude pénale d'un mois à un an et d'une amende de mille à dix mille zaïres ou d'une de ces peines seulement, celui qui, abusant des faiblesses, des passions, des besoins ou de l'ignorance du débiteur, se fait, en raison d'une opération de crédit, d'un contrat de prêt ou de tout autre contrat indiquant une remise de valeur mobilière, quelle que soit la forme apparente du contrat, promettre pour lui-même, ou pour autrui un intérêt ou d'autres avantages excédant manifestement l'intérêt normal. Dans le cas prévu au présent article le juge, à la demande de toute partie lésée, réduit ses obligations conformément à l'article 131 bis du livre troisième du code civil Congolais.
+Paragraphe 4 : Du détournement de main-d’œuvre.

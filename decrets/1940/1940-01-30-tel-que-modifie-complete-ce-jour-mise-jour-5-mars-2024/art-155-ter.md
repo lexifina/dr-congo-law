@@ -1,0 +1,2 @@
+# Article 155 ter :
+Sera puni d'une servitude pénale de deux mois à un an et d'une amende de cinq cents à cinq mille zaïres ou d'une de ces peines seulement, celui qui aura sciemment contribué à la publication, par tous moyens, des photographies, gravures, dessins, portraits ayant pour objet la reproduction de tout ou partie des circonstances d'un meurtre, d'un assassinat ou d'un attentat aux mœurs.

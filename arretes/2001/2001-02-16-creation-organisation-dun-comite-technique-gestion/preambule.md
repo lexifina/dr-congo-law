@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL 004/CAB/MIPLARECO/MINECI/FIN&BUD/2001 du 16 février 2001 portant création et organisation d’un comité technique de gestion des statistiques du commerce extérieur. ( Ministère des Finances et Budget )

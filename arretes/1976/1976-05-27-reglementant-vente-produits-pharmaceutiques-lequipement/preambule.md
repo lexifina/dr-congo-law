@@ -1,0 +1,1 @@
+ARRÊTÉ INTERDÉPARTEMENTAL B C E / ENI/0045/76 du 27 mai 1976.réglementant la vente des produits pharmaceutiques, de l’équipement médical et du matériel d’optique dans la République du Zaïre. (Ministère de l’Économie et Industrie)

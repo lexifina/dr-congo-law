@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL MJSL/CAB/2100/006/96 du 24 février 1996 portant reconnaissance et fixant des critères de collaboration entre le ministère de la Jeunesse, des Sports et Loisirs et les centres et maisons d’apprentissage professionnel. ( Ministère de la Jeunesse, Sports et Loisirs )

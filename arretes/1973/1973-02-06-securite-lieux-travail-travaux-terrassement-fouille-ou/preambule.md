@@ -1,0 +1,1 @@
+ARRÊTÉ 0017/73 du 6 février 1973 relatif à la sécurité sur les lieux de travail pour les travaux de terrassement, de fouille, ou d’excavation de toute espèce et les travaux de l’industrie du bâtiment.

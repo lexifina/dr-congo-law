@@ -1,0 +1,1 @@
+DÉCRET 0048 du 22 novembre 1996, déterminant les spécifications techniques des nouvelles plaques d'immatriculation relevant de la compétence de la direction générale des contributions. (Ministère des Transports et Communications)

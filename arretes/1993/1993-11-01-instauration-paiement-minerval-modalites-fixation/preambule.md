@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 051/CAB/MJCA/93 du 1 er novembre 1993 portant instauration du paiement de minerval:modalités de fixation et de répartition des frais de formation dans les centres de formation professionnelle de la jeunesse. ( Ministère de la Jeunesse, de la Culture et des Arts )

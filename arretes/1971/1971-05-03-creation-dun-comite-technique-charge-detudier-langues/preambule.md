@@ -1,0 +1,1 @@
+ARRÊTÉ ED.NAT/CAB/0001/0007/71 bis du 3 mai 1971 portant création d’un comité technique chargé d’étudier les langues nationales congolaises, d’en assurer et d’en contrôler la diffusion sur le plan pratique de l’enseignement.

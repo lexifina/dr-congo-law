@@ -1,0 +1,1 @@
+ARRÊTÉ DÉPARTEMENTAL D. SAS S /1250/0002/82 du 20 juin 1982 déterminant les règles générales de tarification des prestations sanitaires, la valeur numérique des lettres clés ainsi que les frais d’hospitalisation dans les formations médicales.

@@ -1,0 +1,2 @@
+ARRÊTÉ MINISTÉRIEL 037/MENIC/ CAB/91 du 31 décembre 1991 réglementant le calcul du prix de vente et l’approvisionnement en pièces détachées et accessoires pour véhicules automobiles, le calcul du prix de vente des véhicules importés et la détermination du taux horaire des garages. (Ministère de l’Économie et Industrie)
+CHAPITRE Ier DU CALCUL DU PRIX DE VENTE ET DE L’APPROVISIONNEMENT EN PIÈCES DÉTACHÉES ET ACCESSOIRES POUR AUTOMOBILES

@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 1250/CAB/06 du 12 octobre 1968 portant tarif de fourniture de lunettes et des appareils d’orthopédie et de prothèse aux travailleurs et à leur famille. ( Ministère du Travail et de la Prévoyance sociale )

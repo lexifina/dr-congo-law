@@ -1,0 +1,15 @@
+Le Ministre des Affaires Foncières, Environnement et Tourisme,
+Vu, tel que modifié et complété à ce jour, le Décret-loi Constitutionnel n° 003 du 27 mai 1997 relatif à l’organisation et à l’exercice du pouvoir en République Démocratique du Congo ;
+Vu, telle que modifiée et complétée à ce jour, la Loi n° 73-021 du 20 juillet 1973 portant régime général des biens, régime foncier et immobilier et régime des sûretés, spécialement en ses articles 12, 107, 204, 224, 225, 228, 229, 231, 234, 235, 237 et 372 ;
+Vu l’Ordonnance n° 74-148 du 02 juillet 1974 portant mesures d’exécution de la Loi n° 73-021 du 18 juillet 1973 telle que modifiée et complétée à ce jour ;
+Vu le Décret n° 025/2001 du 14 avril 2001 portant nomination des membres du Gouvernement ;
+Considérant la lettre n° SC/294/BVGV/DMA/SLM/2000 du 09 mai 2000 du Vice-Gouverneur de la ville de Kinshasa adressée au Procureur Général de la République, relative à la Constitution d’une commission chargée d’enquêter sur de faux titres de propriété en circulation ;
+Attendu que, par sa lettre n° 2.452.3/110/2000 du 11 septembre 2000, le Conservateur des Titres Immobiliers de Mont-Amba a stigmatisé l’injection d’un certain nombre de faux certificats d’enregistrement dans le circuit normal de service et classés dans les archives d’enregistrement ;
+Attendu qu’il ressort du rapport de la mission effectuée du 21 octobre au 20 novembre 2000 dans la Circonscription Foncière du Mont-Amba par la commission mixte constituée par l’Arrêté ministériel n° CAB/MIN/AFF-EDT/01/103/2000 du 21 septembre 2000 ainsi que celui du Parquet Général près la Cour d’Appel de Kinshasa/Matete transmis au Ministre de la Justice et Garde des Sceaux par la lettre n° 626/030/PG-MAT/1607/SEC/2002 que les certificats d’enregistrement incriminés ont été établis soit sur de fausses données, soit sur des éléments tout simplement inexistants pour s’octroyer illicitement la propriété des immeubles auxquels ils se rapportent au préjudice de l’Etat qui aurait dû les reprendre dans son patrimoine ;
+Attendu qu’en l’espèce, le droit de propriété sur la parcelle n° 5737 du plan cadastral de la Commune de Limete est constaté par le certificat d’enregistrement sans numéros du Volume et du folio, au nom d'Efika Malala ;
+Qu’il ressort du contrôle effectué que le numéro d’ordre général AMA 0011.396 et le numéro spécial DV/00327 ne sont pas répertoriés dans le livre d’enregistrement de la Conservation des Titres Immobiliers de Mont-Amba ;
+Attendu que l’inobservation des formes et le défaut d’authenticité dans l’établissement du certificat d’enregistrement couvrant la parcelle n° 5737 du plan cadastral de Limete entraînent sa nullité et celle des droits réels qu’il constate ;
+Considérant que l’occupation actuelle de l’immeuble n’est pas fondée sur un titre authentique ;
+Considérant qu’au regard de ce qui précède, il y a lieu de déclarer le bien ci-haut décrit Bien sans Maître devant faire retour au domaine privé foncier et immobilier de l’Etat.
+Vu la nécessité et l’urgence.
+ARRETE

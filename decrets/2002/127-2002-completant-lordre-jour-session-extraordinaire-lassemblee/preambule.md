@@ -1,0 +1,4 @@
+1. Projet de loi portant régime d’exemption relatif à la restructuration de la Banque Centrale du Congo (BCC) ;
+2. Projet de loi portant ratification du Décret n° 125/2002 du 20 septembre 2002 approuvant l’Accord de prêt n° 2100150006886 conclu, le 22 juillet 2002, entre la République Démocratique du Congo et le Fonds Africain de Développement au titre du mécanisme de financement supplémentaire pour l’année 2002-MFS 2002 ;
+3. Projet de loi portant ratification du Décret n° 126/2002 du 20 septembre 2002 approuvant l’Accord de Crédit de Développement n° 3703-DRC relatif au projet Multisectoriel d’Urgence, de Réhabilitation et de Reconstruction conclu, en date du 14 août 2002, entre la République Démocratique du Congo et l‘Association Internationale de Développement ;
+4. Projet de loi habilitant le Gouvernement à prendre par Décret des mesures relevant du domaine de la loi.

@@ -1,0 +1,1 @@
+# Art. 36 bis. — Sous réserve d’un accord de réciprocité, les mutations, opérées au profit d’un État étranger, d’immeubles destinés, soit à l’installation des services de l’ambassade ou des consulats de cet État» soit à l’habitation des chefs des missions diplomatiques ou consulaires de cet État, sont exonérées des droits proportionnels.

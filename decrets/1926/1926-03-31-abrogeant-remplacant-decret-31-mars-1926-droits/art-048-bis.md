@@ -1,0 +1,1 @@
+# Art. 48 bis . — Sans préjudice de l’application de l’article 5 du présent décret, pendant une période d’un an à dater du 15 avril 1956, l’article 2 bis du décret du 31 mars 1926 reste applicable en cas de contrats ayant pour objet l’acquisition en propriété d’un terrain à bâtir, qui ont date certaine et sont antérieurs au 15 avril 1956.

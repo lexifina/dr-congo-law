@@ -1,0 +1,2 @@
+# Art. 17bis. - Les personnes appelées, de par leur profession, à consulter fréquemment les documents dont question à l'article 13 ci-dessus, peuvent, moyennant paiement d'u ne taxe annuelle forfaitaire de Z. 2.400,00.00, obtenir un abonnement à la consultation ordinaire. Cette taxe est due au prorata des mois entiers qui restent à courir dans l'année, à dater du paiement.
+CHAPITRE V FRAIS DE MESURAGE ET DE BORNAGE

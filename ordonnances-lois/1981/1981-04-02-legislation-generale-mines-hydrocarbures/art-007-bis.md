@@ -1,0 +1,2 @@
+# Art. 7 bis. — Tout opérateur minier est tenu de réaliser, dans son rayon d’action, des programmes d’investissement agricole et social ou l’un de ces deux, dans les six mois qui suivent la première année d’exploitation ou d’agrément.
+Par opérateur minier, il faut entendre toute personne physique ou morale détentrice d’un permis d’exploitation minière ou agréée au titre de comptoir d’achat des substances précieuses. [5]

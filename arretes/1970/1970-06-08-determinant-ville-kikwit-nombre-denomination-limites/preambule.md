@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 0761 du 08 juin 1970 modi fiant l’arrêté ministériel 0402 du 7 avril 1970 déterminant pour la ville de Kikwit, le nombre, la dénomination et les limites des communes. (M.C., n°23, 1er décembre 1970, p. 783)

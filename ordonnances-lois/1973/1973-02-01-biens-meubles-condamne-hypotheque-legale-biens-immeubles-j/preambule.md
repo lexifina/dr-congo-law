@@ -1,0 +1,1 @@
+20 septembre 1971. ORDONNANCE-LOI 71-089 accordant à l'État, pour le recouvrement des amendes et des frais de justice en matière pénale, un privilège général sur les biens meubles du condamné et une hypothèque légale sur ses biens immeubles. (J. D.Z. , n°3, 1 er février 1973, p. 165)

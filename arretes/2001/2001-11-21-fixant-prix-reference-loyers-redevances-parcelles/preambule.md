@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL CAB/ MIN/ECO-FIN&BUD/ AF.F-E.T /064/2001du 21 novembre 2001 fixant les prix de référence, loyers et redevances des parcelles domaniales situées dans les circonscriptions foncières de la ville de Kinshasa. (Ministère de l'Économie, Finances et Budget)

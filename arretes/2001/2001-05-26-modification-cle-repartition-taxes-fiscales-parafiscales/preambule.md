@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL 002/CAB/MIN/ECO-FIN&BUD/2001 et 004/MIN/MINES-HYDRO/2001 du 26 mai 2001. portant modification de la clé de répartition des taxes fiscales et parafiscales sur les produits pétroliers.

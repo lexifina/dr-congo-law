@@ -1,0 +1,1 @@
+ARRÊTÉ DÉPARTEMENTAL DENI/CAB/ 06/012/87 du 26 mai 1987 portant création et fonctionnement de la Commission de sauvegarde de la dignité et de l'intégrité des agents et fonctionnaires du département de l'Économie nationale et de l'Industrie.

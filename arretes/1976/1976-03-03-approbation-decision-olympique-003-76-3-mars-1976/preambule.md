@@ -1,0 +1,1 @@
+1 er décembre 1976. – ARRÊTÉ DÉPARTEMENTAL BCE/ 2100/0040/76 portant approbation de la décision olympique 003/76 du 3 mars 1976 relative à la protection des emblèmes olympiques du Comité national olympique zaïrois.

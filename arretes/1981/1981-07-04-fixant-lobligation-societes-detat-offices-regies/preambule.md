@@ -1,0 +1,1 @@
+ARRÊTÉ DÉPARTEMENTAL 81/070 du 4 juillet 1981 fixant l’obligation pour les sociétés d’État, offices, régies, établissements publics, organismes parastataux, services publics de l’État et associations sans but lucratif de déclarer, à l’exclusion des salaires, toutes les sommes versées à des tiers. ( Ministère des Finances et Budget )

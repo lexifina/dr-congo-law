@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL 001/CAB/MIN/AFF.INTER.&FIN/99 du 20 mai 1999.portant fixation des taux de taxes administratives d’intérêt commun et de taxes spécifiques des entités administratives décentralisées. ( Ministère d’État chargé des Affaires intérieures et ministère des Finances et Budget )

@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 12/CAB/MTPS/092/96 du 29 avril 1996 portant abrogation de l’arrêté 12/MTMOPS/CAB/016/93 du 6 juillet 1993 fixant la dénomination, le siège et le ressort territorial des services de l’inspection générale du travail. ( Ministère du Travail et de la Prévoyance sociale )

@@ -1,0 +1,1 @@
+ARRÊTÉ DÉPARTEMENTAL BCE/ENI/083/78 du 14 septembre 1978 relatif à l'application des taxes sur le chiffre d'affaires, sur les produits de fabrication locale, sur les prestations de service et sur la construction.

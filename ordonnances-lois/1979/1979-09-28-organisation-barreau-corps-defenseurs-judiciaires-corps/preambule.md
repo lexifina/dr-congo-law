@@ -1,0 +1,7 @@
+ORDONNANCE-LOI 79-028 du 28 septembre 1979 portant organisation du barreau, du corps des défenseurs judiciaires et du corps des mandataires de l’État.
+Table
+TITRE Ier DES AVOCATS CHAPITRE 1 er DISPOSITIONS GÉNÉRALES CHAPITRE II DE L’ACCÈS À LA PROFESSION D’AVOCAT Section Ire Des conditions générales d’accès à la profession Section II Du stage Section III De l’inscription au tableau CHAPITRE III DE L’ORGANISATION ET DE L’ADMINISTRATION DES BARREAUX Section Ire De l’assemblée générale Section 2 Du conseil de l’Ordre Section III Du bâtonnier Section IV Dispositions communes CHAPITRE IV DE L’EXERCICE DE LA PROFESSION D’AVOCAT Section I Des incompatibilités Section II Des associations et de la collaboration entre avocats Section III Des droits et des devoirs des avocats Section IV Des honoraires et de la comptabilité des avocats CHAPITRE V DE LA DISCIPLINE CHAPITRE VI DES AVOCATS À LA COUR SUPRÊME DE JUSTICE CHAPITRE VII DE L’ORDRE NATIONAL DES AVOCATS Section Ier Dispositions générales Section II De l’assemblée générale Section III Du conseil national de l’Ordre et du bâtonnier national
+TITRE II DES DÉFENSEURS JUDICIAIRES CHAPITRE Ier DÉFINITION ET ACCÈS À LA PROFESSION CHAPITRE II DES ORGANES DU CORPS DES DÉFENSEURS JUDICIAIRES CHAPITRE III DES DROITS ET DES DEVOIRS DES DÉFENSEURS CHAPITRE IV DU RÉGIME DISCIPLINAIRE CHAPITRE V PROTECTION DU TITRE DE DÉFENSEUR JUDICIAIRE
+TITRE III DES MANDATAIRES DE L’ÉTAT TITRE IV DISPOSITIONS FINALES
+TITRE Ier DES AVOCATS
+CHAPITRE 1 er DISPOSITIONS GÉNÉRALES Table

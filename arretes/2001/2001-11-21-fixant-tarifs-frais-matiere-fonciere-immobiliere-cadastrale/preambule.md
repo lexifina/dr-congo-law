@@ -1,0 +1,1 @@
+ARRÊTÉ INTERMINISTÉRIEL CAB/ MIN/ECO-FIN&BUD/ AF.F-E.T /063/2001 du 21 novembre 2001. fixant les tarifs de frais en matière foncière, immobilière, cadastrale et de régime des eaux et d'enregistrement en République démocratique du Congo. (Ministère de l'Économie, finances et Budget et ministère des Affaires foncières, Environnement et Tourisme)

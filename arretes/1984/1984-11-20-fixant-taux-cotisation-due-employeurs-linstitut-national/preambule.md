@@ -1,0 +1,1 @@
+ARRÊTÉ INTERDÉPARTEMENTAL 0011 du 20 novembre 1984 fixant le taux de la cotisation due par les employeurs à l’Institut national de préparation professionnelle.( Ministère du Travail et de la Prévoyance sociale )

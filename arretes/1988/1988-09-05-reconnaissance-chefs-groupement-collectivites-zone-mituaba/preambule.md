@@ -1,0 +1,1 @@
+Vu les avis favorables émis par le Président Régional du Mouvement Populaire de la Révolution et Gouverneur de 1 a Région du Shaba par sa lettre n ° 10/01139/CAB/PR-MPR/GR/SH/88 du 5 août 1988 transmettant 1 a 1 iste des chefs en place non contestés par leurs populations;

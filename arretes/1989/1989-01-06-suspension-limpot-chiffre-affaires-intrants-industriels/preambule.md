@@ -1,0 +1,1 @@
+ARRÊTÉ INTERDÉPARTEMENTAL 004 du 6 janvier 1989 portant suspension de l’impôt sur le chiffre d'affaires sur les intrants industriels indiscutables et sur les prestations de service à façon du secteur industriel de montage automobile. (Département des Finances et département de l'Économie nationale et de l'Industrie)

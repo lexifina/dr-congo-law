@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL CAB/MIN.TP/01/003/97 du 22 juillet 1997 portant création et organisation de la Commission de reconstitution du patrimoine immobilier de l’État. ( Ministère des Travaux publics, Aménagement du territoire, Urbanisme et Habitat )

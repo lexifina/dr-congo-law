@@ -1,0 +1,1 @@
+LOI 78-007 du 20 janvier 1978 instaurant un droit annuel de validation pour les permis de conduire ordinaires et pour les certificats de sélection à percevoir par le département des Finances – Service des contributions.

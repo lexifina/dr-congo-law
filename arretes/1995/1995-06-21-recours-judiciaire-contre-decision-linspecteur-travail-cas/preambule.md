@@ -1,0 +1,1 @@
+ARRÊTÉ MINISTÉRIEL 036/95 du 21 juin 1995 relatif au recours judiciaire contre la décision de l’inspecteur du travail en cas de licenciement ou de mutation d’un délégué titulaire ou suppléant. ( Ministère du Travail et de la Prévoyance sociale )

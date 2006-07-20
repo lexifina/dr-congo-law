@@ -1,0 +1,3 @@
+Revu l'Arrêté Interministériel n°005/CAB/MIN/ENV/2005 et n°107/CAB/MIN/FINANCES/2005 du 25 juillet 2005 fixant les taux des droits, taxes et redevances à percevoir à l'initiative du Ministère de l'Environnement, Conservation de la Nature, Eaux et Forêts;
+Considérant la nécessité de promouvoir la gestion durable des forêts et permettre à celles-ci de contribuer au développement économique national;
+ARRETENT:

@@ -1,0 +1,11 @@
+Exposé des Motifs
+Dans son programme d’actions, l’amélioration de la qualité de vie du Kinois constitue une préoccupation majeure du Gouvernement Provincial.
+Le secteur de la publicité, mieux cerné et maîtrisé, y contribue sans nul doute.
+Malheureusement, ce secteur présente un visage peu reluisant pour plusieurs raisons, notamment :
+- le caractère obsolète de l’ordonnancement juridique régissant actuellement cette matière au regard des spécificités environnementales et urbanistiques, ainsi que des objectifs à atteindre ;
+- le conflit de compétences existant entre les différents services intervenant dans ce secteur (Services centraux et Services urbains), dû notamment à une interprétation plurielle et/ou erronée des textes légaux et réglementaires en la matière ;
+- la dispersion des ressources financières générées dans ce secteur au préjudice des Trésors Public et Urbain ;
+- la dégradation de l’espace vital de la Ville de Kinshasa due essentiellement à l’implantation multiple et désordonnée des panneaux et dispositifs publicitaires au mépris de la réglementation en vigueur et des normes urbanistiques requises ;
+- l’anarchie décelée dans le chef des professionnels de la publicité (Organes conseils, agences de publicité, éditeurs de publicité, annonceurs…) dont le nombre précis n’est pas connu et qui sont livrés à la merci des sollicitations des Services intervenants (centraux et urbains).
+De ce qui précède, étant donné que la Constitution ne règle pas cette matière de manière expresse, en ce qui concerne la répartition des compétences entre le pouvoir central et les provinces, d’une part, et, considérant les dispositions pertinentes de l’Ordonnance n°97 / 327 du 15 Octobre 1955 sur la publicité extérieure, qui désignent expressis verbis le Gouverneur de Province comme Autorité habilitée à ce faire, d’autre part, l’Exécutif Provincial de Kinshasa a voulu réglementer ce secteur dans l’intérêt des habitants de Kinshasa qui, chaque jour, subissent, tant sur leur milieu environnemental que dans leur intégrité aussi bien visuelle, morale que psychique, les effets et contrecoups des dispositifs publicitaires implantés dans leur Ville.
+TITRE I : DES REGLES GENERALES : DEFINITIONS DES CONCEPTS ET DES SUPPORTS PUBLICITAIRES

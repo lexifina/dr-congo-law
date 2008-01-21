@@ -1,0 +1,16 @@
+Le Ministre de l’Urbanisme et Habitat ;
+Vu la Constitution, spécialement en son article 93 ;
+Vu le Décret du 20 juin 1957 sur l’Urbanisme, spécialement en ses articles 5, 8, 17, 20, 21 et 27 ;
+Vu la Loi n° 73-021 du 20 juillet 1973, telle que modifiée et complété par la Loi n° 80-008 du 18 juillet 1980 portant régime général des biens, régime foncier et immobilier et régime des sûretés, spécialement en ses articles 180 et 183 ;
+Vu l’Ordonnance n° 74-148 du 02 juillet 1974 portant mesures d’exécution de la Loi n° 73-021 du 20 juillet 1973, telle que telle que modifiée et complété par la Loi n° 80-008 du 18 juillet 1980 portant régime général des biens, régime foncier et immobilier et régime des sûretés ;
+Vu l’Ordonnance n° 07/017 du 03 mai 2007 portant organisation et fonctionnement du Gouvernement, modalités pratiques de collaboration entre le Président de la République et le Gouvernement ainsi qu’entre les membres du Gouvernement spécialement en ses articles 14 et 27 ;
+Vu l’Ordonnance n° 07/018 du 16 mai 2007 fixant les attributions des Ministères, spécialement en son article 1er, point B, numéro 34 alinéas 1 et 4 ;
+Considérant le procès-verbal de la réunion de la Commission Gouvernementale pour la Reconstruction et le Développement tenue en date du 09 août 2005 avec à l’ordre du jour la nécessité de la désaffectation des sites qui abritaient les immeubles du domaine privé de l’Etat consumés par l’éruption volcanique du 17 au 18 janvier 2002 ;
+Considérant que le terrain cadastré sous le n° 239 dans la Commune Ville de Goma demeure un bien public de l’Etat géré par le Ministère ayant l’Urbanisme et Habitat dans ses attributions ;
+Considérant que, dans le cadre de la réalisation de la vision des cinq chantiers de la République Démocratique du Congo, le Chef de l’Etat encourage les investisseurs tant publics que privés, nationaux et étrangers, notamment dans le domaine de la promotion des activités à caractères industriel et commercial ;
+Considérant que la société Bralima Sarl dont les activités impriment un impact économique non négligeable dans la Province du Nord-Kivu projette de construire et d’installer une unité de production de glace dans la Ville de Goma, Chef lieu de la Province du Nord-Kivu ;
+Considérant que les études de faisabilité faites par la requérante, la société Bralima Sarl, et que cette usine créera des emplois importants et contribuera à l’assiette fiscale de l’Etat par le paiement de l’impôt et des taxes auxquels elle sera assujettie.
+Considérant l’intérêt que suscite ce projet de la société Bralima Sarl pour la Province du Nord-Kivu, l’autorité urbaine a marqué son soutien à la procédure de désaffectation et d’attribution en sa faveur dudit terrain par le fait de l’existence d’un certain nombre d’actes pris par le Ministère de l’Urbanisme et Habitat ainsi que par la Commission Gouvernementale chargée de Reconstruction et de Développement ;
+Considérant, à cet effet, la nécessité de faire jouir paisiblement la société Bralima Sarl de ses droits fonciers et la réalisation de ce projet vital, pour la Province du Nord-Kivu, qui entre dans le programme des cinq chantiers de la République Démocratique du Congo et Chef de l’Etat.
+Considérant l’urgence et la nécessité ;
+ARRETE

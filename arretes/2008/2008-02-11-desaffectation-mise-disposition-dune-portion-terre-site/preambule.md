@@ -1,0 +1,15 @@
+Le Ministre de l’Urbanisme et Habitat ;
+Vu la Constitution, spécialement en son article 93 ;
+Vu le Décret du 20 juin 1957 sur l’Urbanisme, spécialement en ses articles 5, 8, 17, 20, 21 et 27 ;
+Vu la Loi n° 73-021 du 20 juillet 1973, telle que modifiée et complétée par la Loi n° 80-008 du 18 juillet 1980 portant régime général des biens, régime foncier et immobilier et régime des sûretés, spécialement en ses articles 180 et 183 ;
+Vu l’Ordonnance n° 74-148 du 02 juillet 1974 portant mesures d’exécution de la Loi n° 73-021 du 20 juillet 1973, telle que telle que modifiée et complétée par la Loi n° 80-008 du 18 juillet 1980 portant régime général des biens, régime foncier et immobilier et régime des sûretés ;
+Vu l’Ordonnance n° 07/017 du 03 mai 2007 portant organisation et fonctionnement du Gouvernement, modalités pratiques de collaboration entre le Président de la République et le Gouvernement ainsi qu’entre les membres du Gouvernement spécialement en ses articles 14 et 27 ;
+Vu l’Ordonnance n° 007/071 du 25 novembre 2007 portant nomination des Ministres d’Etat, Ministres et Vice-ministres ;
+Vu l’Ordonnance n° 07/018 du 16 mai 2007 fixant les attributions des Ministères, spécialement en son article 1er, point B, numéro 34 alinéas 1 et 4 ;
+Considérant que le Gouvernement de la République Démocratique du Congo est soucieux d’améliorer le bien-être de sa population, en lui procurant de l’emploi, d’une part et, d’autre part, en lui offrant un cadre de vie par la production des logements et la modernisation de la Ville de Kinshasa en particulier, et de la République Démocratique du Congo en général ;
+Considérant que dans le cadre de la réalisation de la vision des cinq chantiers de la République Démocratique du Congo, le Chef de l’Etat encourage les investisseurs tant publics que privés, nationaux et étrangers, notamment dans le domaine de la promotion de l’immobilier ;
+Considérant que la société Pionner International Development (PID) a présenté au Gouvernement congolais un concept d’investissement concernant la construction de 5.000 maisons d’habitation de diverses catégories y compris les infrastructures techniques d’accompagnement, aux normes internationalement admises, et a sollicité l’obtention d’un certain nombre de terrain et d’espaces ;
+Considérant les recommandations du Plan National pour l’Habitat approuvé en conseil des Ministres du Gouvernement de la République Démocratique du Congo en date du 03 mars 2002 ainsi que les options du schéma Directeur d’Aménagement urbain de la Ville Province de Kinshasa qui prévoit l’aménagement des sites d’accueil, différents niveaux de service ou d’équipement adaptés aux possibilités des différents strates de la population ;
+Considérant, à cet effet, le protocole d’accord du 13 juillet 2007 signé entre le Gouvernement de la République Démocratique du Congo, représentée par son Excellence Monsieur le Ministre de l’Urbanisme et Habitat et la société Pionner International Development Sprl ;
+Considérant l’urgence et la nécessité ;
+ARRETE

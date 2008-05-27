@@ -1,0 +1,46 @@
+Le Gouverneur de Province
+Vu la Constitution de la République Démocratique du Congo, spécialement en son article 204, point 24 ;
+Vu, tel que modifié et complété à ce jour, le Décret-loi n° 081 du 2 juillet 1998 portant organisation territoriale et administrative de la République Démocratique du Congo, spécialement en son article 15;
+Vu l’Ordonnance n° 07/018 du 16 mai 2007 fixant les attributions des Ministères ;
+Vu la loi n° 73-021 du 20 juillet 1973 telle que modifiée et complétée par la Loi n° 80-008 du 18 juillet 1980 portant régime général des biens, régime foncier et immobilier et régime des sûretés ;
+Vu le Décret du 20 juin 1957 sur l’Urbanisme ;
+Vu l’Arrêté Ministériel n° 013/CAB/MIN.URB-HAB/2005 du 06 mai 2005 modifiant l’Arrêté Départemental n° CE/URB/012/88 du 22 octobre 1988 réglementant la délivrance de l’Autorisation de Bâtir ;
+Vu l’Ordonnance n° 7/002 du 24 février 2007 portant investiture du Gouverneur et du Vice- Gouverneur de la Province du Katanga ;
+Vu l’Arrêté provincial n° 2007/0064/Katanga du 27 avril 2007 portant nomination des Membres du Gouvernement provincial du Katanga ;
+Vu la motion n° 001/AP/KATANGA/2007 du 9 mai 2007 portant approbation du programme du Gouvernement provincial et investiture de ses membres ;
+Considérant la nécessité d’adapter l’Arrêté Départemental n° CAB/CE/URB-HAB/013/88 du 14 novembre 1988 portant création de la Commission Urbaine et de la Commission Régionale de l’Autorisation de Bâtir ;
+Vu l’opportunité et l’urgence ;
+1. Construction à usage social et habitat économique dont le coefficient est l’équivalent en Francs congolais de 1.000USD/m2 et que l’indice est de 0,2 (superficie x coefficient x 0,2) : 100.
+2. Superficie construite comprise entre 9 m2 à 100 m2 dont le coefficient est l’équivalent en Francs congolais de 1.250 USD/m2.
+a) Située dans une zone urbanisée non équipé dont l’indice est de 0,3, c’est-à-dire un quartier pourvu de routes en terre mais sans addution d’eau, sans raccordement au réseau électrique et sans ouvrages d’assainissements : (superficie x coefficient x 0,3) : 100.
+b) Située dans une zone urbanisée et assez équipée dont l’indice est de 0,75, c’est-à-dire un quartier pourvu de routes en terre stabilisées avec addution d’eau et raccordement au réseau électrique mais sans ouvrages d’assainissement : (superficie x coefficient x 0,75) : 100.
+c) Située dans une zone urbanisée et totalement équipée dont l’indice est de 1, c’est-à-dire un quartier pourvu de routes et de toutes les infrastructures (routes asphaltées, addution d’eau, raccordement au réseau électrique et ouvrages d’assainissement) : (superficie x coefficient x 1) : 100.
+3. Superficie construite comprise entre 100 m2 et plus dont le coefficient est l’équivalent en Francs congolais de 1.500 USD/m2.
+a) Située dans une zone urbanisée non équipée dont l’indice est de 0,85, c’est-à-dire un quartier pourvu de routes en terre mais sans addution d’eau, sans raccordement au réseau électrique et sans ouvrages d’assainissement : (superficie x coefficient x 0,85) : 100.
+b) Située dans une zone urbanisée et assez équipée dont l’indice est de 1, c’est-à-dire un quartier pourvu de routes en terres stabilisées avec addution d’eau et raccordement au réseau électrique mais sans ouvrages d’assainissement : (superficie x coefficient x 1) : 100.
+c) Situé dans une zone urbanisée et totalement équipée dont l’indice est de 1,25 c’est-à-dire un quartier pourvu de routes, de toutes les infrastructures (routes asphaltées, addution d’eau, raccordement au réseau électrique et ouvrages d’assainissement : (superficie x coefficient x 1,25) : 100.
+4. Superficie aire bétonnée ou cimentée dont le coefficient est l’équivalent en Francs congolais de 500 USD/m2 (voir points a, b et c).
+5. Piscine (mètre cube) dont le coefficient est l’équivalent en Francs congolais de 1.000 USD/m3 (voir points a, b et c).
+6. Mur de clôture (mètre linéaire) dont le coefficient est l’équivalent en Francs congolais de 1.000 USD/mètre linéaire (voir points a, b et c).
+7. Station Service (carburant) superficie du terrain à occuper dont le coefficient est l’équivalent en Francs congolais de 1.250 USD/m2 (voir points a, b et c).
+8. Construction à caractère commercial et industriel dont le coefficient est l’équivalent en Francs congolais de 4.000 USD/m2 (voir points a, b et c).
+9. Antennes :
+a) Antenne de commercialisation fixée au sol dont le coefficient est l’équivalent en Francs congolais de 1.500 USD par antenne ;
+b) Antenne de commercialisation fixée au toit dont le coefficient est l’équivalent en Francs congolais de 6000 USD par antenne ;
+c) Antenne parabolique fixée au sol ou au toit à usage commercial ou privé : 10% du prix d’achat et du coût d’installation.
+10. démolition en zone urbanisée et équipée dont le coefficient est de deux tiers du coût de la taxe de bâtisse.
+11. Modification ou transformation de bâtiment en zone urbanisée et équipé dont le coefficient est de 50% du coût de la taxe de bâtisse.
+12. Les frais administratifs et techniques additionnels à percevoir au compte du Ministère Provincial des Infrastructures, Urbanisme et Transports valent le cinquième de la Taxe de bâtisse.
+II. Habitat
+Législation des contrats de baux à loyer pour usage résidentiel, commercial et industriel de l’ordre de 10% non remboursables à percevoir sur la garantie locative dont 5% à verser au compte du Gouvernorat, 3% des frais administratifs à verser au compte du Ministère provincial des Infrastructures, Urbanisme et Transports et 2% pour le compte de la Commune ou du Territoire où se situe la bâtisse.
+III. Reconversion des titres parcellaires
+1). Avis sur vente et expertise.
+Sans distinctions de Commune : 1,25%
+2). Pourcentage sur vente d’immeubles non enregistrés au service des Titres Immobiliers : 2,5 % du prix de la vente de l’immeuble.
+3). Attestation de droit d’occupation parcellaire.
+Sans distinction de Commune : équivalent en Francs congolais de 25 USD.
+4). Mutation de la parcelle
+Sans distinction de commune : équivalent en Francs congolais de 100 USD.
+5). Morcellement de la parcelle
+Sans distinction de Commune : 1% du prix de la vente ou de l’achat dû au morcellement.
+6). Les frais techniques et administratifs additionnels pour le compte du Ministère provincial des Infrastructures, Urbanisme et Transports sont fixés à 0,5% par rubrique.

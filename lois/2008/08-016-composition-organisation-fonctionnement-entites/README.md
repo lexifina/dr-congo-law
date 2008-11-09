@@ -1,0 +1,22 @@
+# Loi organique n° 08/016 du 07 octobre 2008 portant composition, organisation et fonctionnement des Entités Territoriales Décentralisées et leurs rapports avec l’Etat et les Provinces
+
+Journal officiel (JO N°Sp) du 2008-10-10. Texte : <https://journalofficiel.cd/publication/019ee245-d384-7144-a85a-2925541b28fb/apercu>.
+
+En vigueur : 2008-11-09 (« La loi entre en vigueur trente jours après sa publication au Journal officiel à moins qu’elle n’en dispose autrement. »).
+
+| Fichier | Début |
+| --- | --- |
+| [preambule](preambule.md) | Exposé des motifs |
+| [art-001](art-001.md) | Article 1er |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |
+| [art-004](art-004.md) | Article 4 |
+| [art-005](art-005.md) | Article 5 |
+| [art-006](art-006.md) | Article 6 |
+| [art-007](art-007.md) | Article 7 |
+| [art-008](art-008.md) | Article 8 |
+| [art-009](art-009.md) | Article 9 |
+| [art-010](art-010.md) | Article 10 |
+| [art-011](art-011.md) | Article 11 |
+| [art-012](art-012.md) | Article 12 |
+| [art-013](art-013.md) | Article 13 |

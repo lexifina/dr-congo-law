@@ -1,0 +1,14 @@
+Le Ministre chargé des Infrastructures, Travaux Publics et Reconstruction;
+Vu la Constitution de la République;
+Vu la Loi n°08/006 du 07 juillet 2008 portant création d'un Fonds National d'Entretien Routier, en sigle « FONER » ;
+Vu le Décret n°08/27 du 24 décembre 2008 portant création d'un Etablissement Public dénommé Fonds National d'Entretien Routier « FONER » ;
+Vu l’Ordonnance n°08/067 du 26 octobre 2008 portant Nomination des Vice-premiers Ministres, Ministres et Vice - ministres;
+Vu l’Ordonnance n°71/078 du 26 mars 1971 portant Classification des Routes en République Démocratique du Congo;
+Vu l’Ordonnance n°08/073 du 24 décembre 2008 portant organisation et fonctionnement du Gouvernement, modalités pratiques de collaboration entre le Président de la République et le Gouvernement ainsi qu'entre les Membres du Gouvernement, spécialement en article 19 ;
+Vu l’Ordonnance n° 08/74 du 24 novembre 2008 fixant les Attributions des Ministres;
+Attendu que l'entretien, la maintenance des routes d'intérêt général ainsi que l'organisation du péage sont de la compétence du Gouvernement Central;
+Vu l'Arrêté Interministériel n°09/CAB/MIN-ITPR/002/KM/2009 du 06 mars 2009, n° CAB/FINANCES/DTS/2009 du 06 mars 2009, n°001/CAB/MIN/ECONAT & COM/2009 du 06 mars 2009 et n°409/CAB/MIN/TVC/007/2009 du 06 mars 2009 portant fixation des taux, montant et modalités de perception des ressources du Fonds National d'Entretien Routier, FONER en sigle, spécialement en ses articles 13,14,15,16 et 17;
+Attendu qu'un péage de fait existe sur la traversée du poste frontalier pont Ruzizi I et Il ;
+Vu l'impérieuse nécessité d'assurer l'entretien permanent et ordonné dudit axe;
+Vu la nécessité et l'urgence;
+ARRETE:

@@ -1,0 +1,10 @@
+Exposé des Motifs
+La conférence générale de l’Organisation des Nations Unies pour l’Education, la Science et la Culture, « UNESCO » en sigle, organisme spécialisé des Nations Unies dont la République Démocratique du Congo est membre, a adopté, le 20 octobre 2005 à Paris, la Convention sur la Protection et la Promotion de la Diversité des expressions culturelles.
+Cette Convention vise à protéger et à promouvoir la diversité des expressions culturelles dans un contexte de mondialisation où les cultures des pays puissants sont de nature à engloutir, à éliminer ou à modifier les cultures des pays pauvres, à cause, notamment, des nouvelles technologies de l’information et de communication de masse dont ils disposent.
+Devant ce risque de déséquilibre culturel ou d’extinction des cultures des pays pauvres, qui conduit inexorablement à la perte de leur identité propre, la réaction de l’UNESCO a été de soumettre aux Etats, aux territoires autonomes et aux organisations d’intégration régionale, une Convention qui protège la diversité des expressions culturelles.
+La République Démocratique du Congo, pays à la culture aussi riche que diversifiée, trouve son intérêt à ratifier cette convention et à l’intégrer dans son arsenal juridique interne, afin d’assurer le plein épanouissement de ses expressions culturelles à l’ère de la mondialisation.
+La protection et la promoion de la diversité des expressions culturelles procèdent du respect des droits de l’homme et des libertés fondamentales universellement reconnues aux pays, groupe et individus.
+En ratifiant la Convention sur la protection et la promotion de la diversité des expressions culturelles, la République Démocratique du Congo bénéficie des avantages préférentiels dans les échanges culturels avec le reste du monde, notamment par la création et le renforcement des industries culturelles, le transfert de technologies et de savoir-faire ainsi que par les aides financières à travers le Fonds international pour la diversité culturelle.
+Loi
+L’Assemblée nationale et le Sénat ont adopté ;
+Le Président de la République promulgue la loi dont la teneur suit :

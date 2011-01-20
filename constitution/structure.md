@@ -20,7 +20,7 @@ Paragraphe 1er : De l’Assemblée nationale
 Paragraphe 2 : Du Sénat
 Paragraphe 3 : Des immunités et des incompatibilités
 Paragraphe 4 : Des droits des députés nationaux ou des sénateurs
-Paragraphe 5 : De la fin du mandat de député national ou de sénateur
+Paragraphe 5 : De la fin et de la suspension du mandat de député national ou de sénateur
 Paragraphe 6 : Du fonctionnement de l’Assemblée nationale et du Sénat
 Section 3 : Des rapports entre le pouvoir exécutif et le pouvoir législatif.
 Section 4 : Du pouvoir judiciaire

@@ -23,8 +23,8 @@ Paragraphe 4 : Des droits des députés nationaux ou des sénateurs
 Paragraphe 5 : De la fin et de la suspension du mandat de député national ou de sénateur
 Paragraphe 6 : Du fonctionnement de l’Assemblée nationale et du Sénat
 Section 3 : Des rapports entre le pouvoir exécutif et le pouvoir législatif.
-Section 4 : Du pouvoir judiciaire
-Paragraphe 1er : Des dispositions générales
+Section 4 : Du Pouvoir judiciaire
+Paragraphe 1 : Dispositions générales
 Paragraphe 2 : Des juridictions de l’ordre judiciaire
 Paragraphe 3 : Des juridictions de l’ordre administratif
 Paragraphe 4 : Des juridictions militaires
@@ -39,13 +39,13 @@ Paragraphe 1er : De la Police nationale
 Paragraphe 2 : Des Forces armées
 Section 7 : De l’Administration publique
 Chapitre 2 : Des provinces
-Section 1ère : Des institutions politiques provinciales
+Section 1 : Des institutions politiques provinciales
 Section 2 : De la répartition des compétences entre le pouvoir central et les provinces
 Section 3 : De l’autorité coutumière
 TITRE IV : DU CONSEIL ECONOMIQUE ET SOCIAL
 TITRE V : DES INSTITUTIONS D’APPUI A LA DEMOCRATIE
 Chapitre 1er : De la Commission électorale nationale indépendante
-Chapitre 2 : Du Conseil supérieur de l’audiovisuel et de la communication
+Chapitre 2 : Du conseil supérieur de l’audiovisuel et de la communication
 TITRE VI : DES TRAITES ET ACCORDS INTERNATIONAUX
 TITRE VII : DE LA REVISION CONSTITUTIONNELLE
 TITRE VIII : DES DISPOSITIONS TRANSITOIRES ET FINALES

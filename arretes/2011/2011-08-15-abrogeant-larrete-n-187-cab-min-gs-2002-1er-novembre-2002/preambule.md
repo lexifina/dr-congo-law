@@ -1,0 +1,19 @@
+Le Ministre de la Justice et Droits Humains,
+Vu la Constitution, spécialement en ses articles 22, 93 et 221 ;
+Vu la Loi n°004/2001 du 20 juillet 2001 portant dispositions générales applicables aux associations sans but lucratif et aux établissements d’utilité publique, spécialement en ses articles 10, 11 et 57 ;
+Vu l’Ordonnance n° 08/064 du 10 octobre 2008 portant nomination d’un Premier Ministre, Chef du Gouvernement ;
+Vu l’Ordonnance n° 08/073 du 24 décembre 2008 portant organisation et fonctionnement du Gouvernement, modalités pratiques de collaboration entre le Président de la République et le Gouvernement ainsi qu’entre les membres du Gouvernement, spécialement en son article 19, alinéa 2 ;
+Vu l’Ordonnance n°08/074 du 24 décembre 2008 fixant les attributions des Ministères, spécialement en son article 1er, B, point n°6 ;
+Vu l’Ordonnance n°10/025 du 19 février 2010 portant nomination des Vice-premiers Ministres, Ministres et Vice - Ministres ;
+L’Ordonnance du 1er décembre 1960 accordant la personnalité juridique à l’association sans but lucratif confessionnelle dénommée l’Eglise du Christ au Congo/31eCommunauté Presbytérienne au Congo, en sigle « ECC/31eCPC » ;
+Vu l’Arrêté ministériel n° 60/CAB/MIN/J&GS/2001 approuvant la nomination des personnes chargées de l’administration ou de la direction de l’ECC/31e CPC ;
+Vu l’Arrêté n° 187/CAB/MIN/J&GS/2002 modifiant partiellement l’Arrêté n° 60 précité ;
+Vu l’Arrêté n° 519/CAB/MIN/J&GS/2003 du 23 septembre 2003 abrogeant l’Arrêté n° 187 susvisé ;
+Vu l’Arrêté n° 197/CAB/MIN/J&DH/2011 abrogeant l’Arrêté n° 519 susmentionné ;
+Vu le recours de la 31eCommunauté Presbytérienne au Congo « 31e /CPC » daté du 13 mai 2011 introduit par ses conseils, porteurs d’une procuration donnée par le Secrétaire général et Représentant légal national de la 31eCPC ;
+Vu le rapport de la commission chargée de l’examen du recours contre l’Arrêté n° 197/CAB/MIN/J&DH/2011 du 11 mai 2011 précité ;
+Attendu que par la déclaration du 4 août 2000 de Katubwe, la majorité des membres effectifs de l’ECC/31eCPC désigna les personnes chargées de son administration dont le révérend Mbaya Tshiakani en qualité de représentant légal au Kasaï-Oriental et que par celle du 9 février 2001 de Tshikaji et suite aux manquements constatés dans l’exercice de son mandat, elle le révoqua de ses fonctions, l’excommunia et désigna le révérend Tshibemba Tshimpaka en qualité de représentant légal au Kasaï-Oriental ;
+Attendu qu’après avoir approuvé les deux déclarations sus indiquées, l’Arrêté n° 60 du 6 décembre 2001 retint le nom du révérend Tshibemba Tshimpaka, mais que prétendant corriger l’erreur commise par cet Arrêté d’avoir remplacé le nom de Mbaya par celui de Tshibamba, alors qu’il n’a fait qu’appliquer la déclaration du 9 février 2001, l’Arrêté n° 187 a abrogé l’Arrêté n° 60 et replacé le révérend Mbaya Tshiakany comme représentant légal pour le Kasaï-Oriental, et ce, en ignorant complètement la déclaration de sa révocation et en violation des articles 10 et 11 de la loi n° 004/2001 du 20 juillet 2001 portant dispositions générales applicables aux associations sans but lucratif et établissements d’utilité publique, comme relevé dans l’Arrêté n° 519 du septembre 2003 ;
+Attendu qu’en réhabilitant le révérend Mbaya Tshiakany en application de l’Arrêté n° 187 susvisé, l’Arrêté n° 197 critiqué a fait sienne la violation des dispositions légales sus invoquées d’autant plus que la déclaration de révocation du Révérend Mbaya, qui s’est fait sacrer Evêque contrairement au mode d’organisation congregationniste de la 31eCPC, est jusqu’à ce jour valable pour n’avoir ébranlée ni par une déclaration de la majorité des membres effectifs de la 31eCPC ni par une décision de justice rendue entre les parties ;
+Attendu qu’il échet de rétablir la légalité ;
+ARRETE

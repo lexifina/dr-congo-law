@@ -1,0 +1,2 @@
+ARRETENT
+Il est créé, un Comité de suivi de la perception et de l’affectation des recettes de la redevance logistique terrestre de la SCTP Sarl, conformément à l’Arrêté interministériel n° 004/CAB/MIN/ECO&COM/2012, n° 101/CAB/MIN/TVC/2012 et n° 557/CAB/MIN/FINAN CES/2012 du 12 septembre 2012, fixant les modalités de perception de la redevance logistique terrestre au profit exclusif de la SCTP Sarl (ex-Onatra).

@@ -1,0 +1,16 @@
+Loi organique n° 13/011 du 21 mars 2013 portant institution, organisation et fonctionnement de la Commission Nationale des Droits de l'Homme
+Exposé des motifs
+Le respect de la dignité et de la valeur humaine constitue la substance des Droits de l'Homme. Ces derniers jouissent, sur le plan international, d'une légitimité qui leur confère un poids moral incontestable et qui conduit les Etats et Gouvernements membres des Nations Unies à ratifier des traités et à se soumettre librement aux obligations contraignantes en la matière. Ce même effort a prévalu en République Démocratique du Congo, à travers la mise en place de plusieurs structures, notamment celle du Ministère des Droits et Libertés des Citoyens, diversement dénommé selon les époques, ainsi que celle de l'Observatoire National des Droits de l'Homme, institué par le Parlement de Transition en application de la résolution n° 8/DIC/CHSC du Dialogue Intercongolais.
+Par ailleurs, il est important de souligner la détermination dont la société civile congolaise a fait montre dans ce domaine ces vingt dernières années. En dépit de ces multiples entreprises pour la promotion et la protection des Droits de l'Homme, la République Démocratique du Congo accuse, dans ce secteur, un déficit qui impose des innovations induites par le processus démocratique, cristallisé dans la Constitution du 18 février 2006 telle que modifiée par la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles.
+En effet, pour réaffirmer son attachement au respect des Droits de l'Homme et aux libertés fondamentales, la Constitution s'appesantit largement sur les droits civils et politiques, les droits économiques, sociaux et culturels, ainsi que sur les droits collectifs garantis par l'Etat. Pour confirmer cette volonté politique, elle offre, dans son article 222, alinéa 3, la possibilité de créer une institution d'appui à la démocratie. Cette institution, en l'occurrence la Commission Nationale des Droits de l'Homme, est un mécanisme mis en place par la présente Loi qui s'assigne comme objectif d'aider les pouvoirs publics à assumer correctement leurs obligations constitutionnelles en la matière. La Commission Nationale des Droits de l'Homme, CNDH en sigle, est un organisme technique, consultatif, indépendant, pluraliste, apolitique, doté de la personnalité juridique et émargeant au budget de l'Etat. En vue de préserver son indépendance et sa crédibilité, aucun organe national, étranger ou international ne peut lui donner injonction.
+Sa mission, ses attributions, son organisation, sa composition et son fonctionnement sont déterminés par la présente Loi qui s'articule de la manière suivante :
+Titre I er : Des dispositions générales
+Titre II : De la mission et des attributions
+Titre III : De l'organisation, de la composition et du fonctionnement
+Titre IV : Des ressources
+Titre V : De la procédure devant la CNDH
+Titre VI : Des Immunités et du privilège de juridiction
+Titre VII : Des dispositions finales Telle est l'économie générale de la présente Loi.
+Loi
+L'Assemblée Nationale et le Sénat ont adopté; La Cour Suprême de Justice a statué; Le Président de la République promulgue la Loi dont la teneur suit:
+TITRE I er : DES DISPOSITIONS GENERALES

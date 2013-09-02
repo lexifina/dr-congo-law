@@ -1,0 +1,13 @@
+Exposé des motifs
+La République Démocratique du Congo, a édicté la Loi n° 10/010 du 27 avril 2010 relative aux marchés publics, abrogeant l’Ordonnance n° 69-054 du 05 décembre 1969 ainsi que ses mesures d’exécutions devenues obsolètes.
+La Loi sus-évoquée, ayant un caractère national, couvre tout le pays parce qu’elle régit tous les marchés publics passés par l’Etat, les Provinces, les Entités territoriales décentralisées ainsi que leurs entreprises et établissements publics.
+Néanmoins, parce que, selon l’article 3 de la Constitution, les Provinces et les Entités territoriales décentralisées sont dotées de la personnalité juridique et sont gérées par les organes locaux, il sied d’adapter les dispositions de la Loi relative aux marchés publics à cette nouvelle donne.
+Aux termes de dispositions des articles 204, point 11 de la Constitution ainsi que 35, point 6 de la Loi n° 08/012 du 31 juillet 2008 portant Principes Fondamentaux relatifs à la libre administration des Provinces, « les travaux et marchés publics d’intérêt provincial et local sont de la compétence exclusive des provinces ».
+En outre, l’article 50, point 8 de la Loi organique n° 08/016 du 07 octobre 2008 portant composition, organisation et fonctionnement des Entités territoriales décentralisées et leurs rapports avec l’Etat et les Provinces dispose que : « le Conseil communal délibère sur les matières d’intérêt communal notamment ; l’aménagement, l’entretien et la gestion des marchés publics d’intérêt communal ».
+Par ailleurs, la Loi n° 10/010 du 27 avril 2010 portant passation des marchés publics en son article 1er, alinéa 2 dispose que : « les Edits provinciaux organisent les dispositions spécifiques relatives aux marchés et délégations des services publics passés par les Provinces et les Entités territoriales décentralisées ».
+Pour cette raison, il convient d’édicter un texte qui régisse certains aspects spécifiques des marchés et délégations des services publics en Province et dans les Entités territoriales décentralisées, à savoir : la ville, la commune, le secteur et la chefferie.
+Telle, est l’économie générale du présent Edit qui est la matérialisation de la volonté du législateur exprimée à travers l’article 1er de la Loi relative aux marchés publics qui dispose que les Edits provinciaux organisent les dispositions spécifiques relatives aux marchés publics passés par les Provinces et les Entités territoriales décentralisées.
+L’Assemblée provinciale a adopté,
+Le Gouverneur de la province de l’Equateur promulgue l’Edit dont la teneur suit :
+Chapitre I : Des dispositions générales
+Section 1 : De l’objet et du champ d’application.

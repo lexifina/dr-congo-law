@@ -1,0 +1,31 @@
+Loi n° 15/003 du 12 février 2015 relative au crédit-bail,
+
+Exposé des motifs
+
+La République Démocratique du Congo s’est engagée dans le programme d’amélioration du climat des affaires. A l’instar d’autres dispositifs mis en place dans ce cadre, la présente loi organise le crédit-bail ou leasing en tant que mode de financement des entreprises, particulièrement les Petites et Moyennes Entreprises, pour encourager et favoriser davantage une croissance économique soutenue par le secteur privé.
+
+Conformément aux dispositions de l’article 7 paragraphe 2 de la Loi n°003/002 du 02 février 2002 relative à l’activité et au contrôle des établissements de crédit, le crédit-bail est assimilé aux opérations de crédit.
+
+Classé parmi les opérations commerciales les plus spécialisées, le crédit-bail donne la possibilité aux promoteurs d’initiatives de production ne disposant pas de moyens financiers suffisants pour acquérir de biens d’exploitation appropriés, grâce au recours à un financierbailleur.
+
+Le cadre fiscal concédé au crédit-bail dans la présente loi constitue un accompagnement qui garantit la création des richesses, des emplois et l’accroissement de l’assiette fiscale. Par ailleurs, le crédit-bail portant sur les équipements et matériels ou sur les biens immobiliers est soumis à l’inscription au Registre du Commerce et du Crédit Mobilier dans le ressort duquel le crédit-preneur est immatriculé ou auprès du conservateur des titres immobiliers du ressort, selon le cas. Cette publicité permet l’opposabilité des droits du créditbailleur aux créanciers ou aux ayants cause du créditpreneur. Le contrat de crédit-bail est plus spécifique et différent des autres contrats commerciaux notamment la location, la vente, la location-vente, la vente avec réserve de propriété, la vente à crédit ou à tempérament, en ce qu’il : - garantit au crédit-preneur l’utilisation et la jouissance du bien loué pendant un délai minimum à un prix fixé d’avance, comme s’il en était propriétaire ; - assure au crédit-bailleur la perception d’un certain montant de loyers pour une période appelée période irrévocable, pendant laquelle il ne peut être, en principe, mis fin à la location ; - permet au crédit-preneur, à l’expiration de la période irrévocable de location, d’acquérir le bien loué pour une valeur résiduelle tenant compte des loyers perçus, s’il décide de lever l’option d’achat, sans que cela limite le droit des parties au contrat de renouveler la location pour une durée et moyennant un loyer à convenir, ni le droit du crédit-preneur de restituer le bien loué à la fin de la période initiale de location.
+
+La présente loi comprend 56 articles répartis en 6 chapitres intitulés comme suit :
+
+- Chapitre 1 : Des dispositions générales ;
+
+- Chapitre 2 : Du contrat de crédit-ba il ;
+
+- Chapitre 3 : Du régime fiscal de crédit-bail ;
+
+- Chapitre 4 : De l’inscription et de la publicité de créditbail ;
+
+- Chapitre 5 : Des dispositions particulières ;
+
+- Chapitre 6 : Des dispositions transitoires, abrogatoires et finales.
+
+Telle est l’économie générale de la présente loi. LOI L’Assemblée nationale et le Sénat ont adopté, Le Président de la République promulgue la Loi dont la teneur suit :
+
+Chapitre 1 : Des dispositions générales
+
+Section 1 : De l’objet et des définitions

@@ -1,0 +1,6 @@
+Vu l’Arrêté interministériel n° 12/MTPS/123, n° 007/CAB/MIN/FINANCES/2006, n° 001/CAB/MIN/ BUD/2006 du 14 février 2006 fixant le taux de la cotisation due par les employeurs à l’INPP ;
+Vu l’Arrêté ministériel n° 049/CAB/MIN/ETPS/ MBL/2012 du 10 décembre 2012 relatif à l’affiliation des employeurs, à l’immatriculation des travailleurs ainsi qu’aux modalités et conditions de versement des cotisations de la sécurité sociale, spécialement en ses articles 19, 20 et 27 ;
+Vu l’Arrêté ministériel n° 125/CAB/MIN/ETPS/ MBL/DKL/dag/2013 du 26 septembre 2013 modifiant et complétant l’Arrêté ministériel n° 028/CAB/MIN/ ETPS/MBL/DKL/dag/2013 du 18 mars 2013 portant fixation du taux de la contribution patronale mensuelle due par les employeurs à l’Office National de l’Emploi, « ONEM » en sigle, spécialement en son article 2 ;
+Considérant la nécessité de simplifier les procédures et les formalités en matière de déclaration et de paiement des impôts, cotisations sociales et contributions patronales sur les rémunérations dues respectivement à la Direction Générale des Impôts « DGI », l’Institut National de Sécurité Sociale « INSS », l’Institut National de Préparation Professionnelle « INPP » et l’Office National de l’Emploi « ONEM » ;
+Considérant l’amélioration de l’assiette ; Considérant la nécessité d’améliorer le climat des affaires et des investissements ;
+ARRETENT

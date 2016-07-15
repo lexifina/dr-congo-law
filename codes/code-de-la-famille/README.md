@@ -1,8 +1,8 @@
-# Loi n° 87-010 du 1er août 1987 portant Code de la famille
+# Code de la famille (Loi n° 87-010 du 1er août 1987 modifiée par la Loi n° 16/008 du 15 juillet 2016)
 
-Texte : Leganet, <https://www.leganet.be/Legislation/Code%20de%20la%20famille/Table.htm>.
+Texte : Leganet, <https://www.leganet.be/Legislation/Code%20de%20la%20famille/Loi.15.07.2016.html>.
 
-Version en vigueur au 1988-08-01 (douze mois après sa promulgation du 1er août 1987).
+Version en vigueur au 2016-07-15 (Loi n° 16/008, en vigueur à la date de sa promulgation).
 
 Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repris : la page de Leganet porte à sa place la Loi n° 04/024 du 12 novembre 2004 relative à la nationalité congolaise. L'article 506 manque dans la transcription de Leganet.
 
@@ -240,7 +240,6 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-285](art-285.md) |
 | [art-286](art-286.md) |
 | [art-287](art-287.md) |
-| [art-288](art-288.md) |
 | [art-289](art-289.md) |
 | [art-290](art-290.md) |
 | [art-291](art-291.md) |
@@ -310,9 +309,6 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-355](art-355.md) |
 | [art-356](art-356.md) |
 | [art-357](art-357.md) |
-| [art-358](art-358.md) |
-| [art-359](art-359.md) |
-| [art-360](art-360.md) |
 | [art-361](art-361.md) |
 | [art-362](art-362.md) |
 | [art-363](art-363.md) |
@@ -370,10 +366,7 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-415](art-415.md) |
 | [art-416](art-416.md) |
 | [art-417](art-417.md) |
-| [art-418](art-418.md) |
-| [art-419](art-419.md) |
 | [art-420](art-420.md) |
-| [art-421](art-421.md) |
 | [art-422](art-422.md) |
 | [art-423](art-423.md) |
 | [art-424](art-424.md) |
@@ -402,7 +395,6 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-447](art-447.md) |
 | [art-448](art-448.md) |
 | [art-449](art-449.md) |
-| [art-450](art-450.md) |
 | [art-451](art-451.md) |
 | [art-452](art-452.md) |
 | [art-453](art-453.md) |
@@ -449,11 +441,9 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-494](art-494.md) |
 | [art-495](art-495.md) |
 | [art-496](art-496.md) |
-| [art-497](art-497.md) |
 | [art-498](art-498.md) |
 | [art-499](art-499.md) |
 | [art-500](art-500.md) |
-| [art-501](art-501.md) |
 | [art-502](art-502.md) |
 | [art-503](art-503.md) |
 | [art-504](art-504.md) |
@@ -466,7 +456,6 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-512](art-512.md) |
 | [art-513](art-513.md) |
 | [art-514](art-514.md) |
-| [art-515](art-515.md) |
 | [art-516](art-516.md) |
 | [art-517](art-517.md) |
 | [art-518](art-518.md) |
@@ -482,13 +471,11 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-528](art-528.md) |
 | [art-529](art-529.md) |
 | [art-530](art-530.md) |
-| [art-531](art-531.md) |
 | [art-532](art-532.md) |
 | [art-533](art-533.md) |
 | [art-534](art-534.md) |
 | [art-535](art-535.md) |
 | [art-536](art-536.md) |
-| [art-537](art-537.md) |
 | [art-538](art-538.md) |
 | [art-539](art-539.md) |
 | [art-540](art-540.md) |
@@ -603,8 +590,10 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-649](art-649.md) |
 | [art-650](art-650.md) |
 | [art-651](art-651.md) |
+| [art-651-bis](art-651-bis.md) |
 | [art-652](art-652.md) |
 | [art-653](art-653.md) |
+| [art-653-bis](art-653-bis.md) |
 | [art-654](art-654.md) |
 | [art-655](art-655.md) |
 | [art-656](art-656.md) |
@@ -620,6 +609,7 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-666](art-666.md) |
 | [art-667](art-667.md) |
 | [art-668](art-668.md) |
+| [art-668-bis](art-668-bis.md) |
 | [art-669](art-669.md) |
 | [art-670](art-670.md) |
 | [art-671](art-671.md) |
@@ -643,6 +633,7 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-689](art-689.md) |
 | [art-690](art-690.md) |
 | [art-691](art-691.md) |
+| [art-691-bis](art-691-bis.md) |
 | [art-692](art-692.md) |
 | [art-693](art-693.md) |
 | [art-694](art-694.md) |
@@ -763,6 +754,8 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-809](art-809.md) |
 | [art-810](art-810.md) |
 | [art-811](art-811.md) |
+| [art-811-bis](art-811-bis.md) |
+| [art-811-ter](art-811-ter.md) |
 | [art-812](art-812.md) |
 | [art-813](art-813.md) |
 | [art-814](art-814.md) |
@@ -786,7 +779,6 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-832](art-832.md) |
 | [art-833](art-833.md) |
 | [art-834](art-834.md) |
-| [art-835](art-835.md) |
 | [art-836](art-836.md) |
 | [art-837](art-837.md) |
 | [art-838](art-838.md) |
@@ -866,24 +858,14 @@ Livres II à V (articles 56 à 935). Le Livre Ier (nationalité) n'est pas repri
 | [art-912](art-912.md) |
 | [art-913](art-913.md) |
 | [art-914](art-914.md) |
-| [art-915](art-915.md) |
-| [art-916](art-916.md) |
-| [art-917](art-917.md) |
-| [art-918](art-918.md) |
-| [art-919](art-919.md) |
-| [art-920](art-920.md) |
-| [art-921](art-921.md) |
-| [art-922](art-922.md) |
+| [art-920-bis](art-920-bis.md) |
 | [art-923](art-923.md) |
+| [art-923-bis](art-923-bis.md) |
 | [art-924](art-924.md) |
 | [art-925](art-925.md) |
 | [art-926](art-926.md) |
 | [art-927](art-927.md) |
 | [art-928](art-928.md) |
 | [art-929](art-929.md) |
-| [art-930](art-930.md) |
-| [art-931](art-931.md) |
-| [art-932](art-932.md) |
-| [art-933](art-933.md) |
 | [art-934](art-934.md) |
 | [art-935](art-935.md) |

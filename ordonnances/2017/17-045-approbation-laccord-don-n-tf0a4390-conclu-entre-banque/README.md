@@ -1,0 +1,10 @@
+# Ordonnance n° 17/045 du 15 juillet 2017 portant approbation de l’Accord de don n° TF0A4390 conclu entre la République Démocratique du Congo et la Banque mondiale, au titre de projet de renforcement des services Hydrométéorologiques et climatiques « HYDROM…
+
+Journal officiel (JO N°14) du None. Texte : <https://journalofficiel.cd/publication/019ee243-6934-70bf-8857-4471ae85195e/apercu>.
+
+En vigueur : 2017-07-15 (« La présente Ordonnance entre en vigueur à la date de sa signature »).
+
+| Fichier | Début |
+| --- | --- |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |

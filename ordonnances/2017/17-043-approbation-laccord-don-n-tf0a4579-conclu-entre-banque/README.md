@@ -1,0 +1,10 @@
+# Ordonnance n° 17/043 du 15 juillet 2017 portant approbation de l’Accord de don n° TF0A4579 conclu entre la République Démocratique du Congo et la Banque mondiale, au titre de financement additionnel du Projet de Développement du Système de Santé pour amél…
+
+Journal officiel (JO N°14) du None. Texte : <https://journalofficiel.cd/publication/019ee243-6917-70b7-a47d-e7713b463391/apercu>.
+
+En vigueur : 2017-07-15 (« La présente Ordonnance entre en vigueur à la date de sa signature »).
+
+| Fichier | Début |
+| --- | --- |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |

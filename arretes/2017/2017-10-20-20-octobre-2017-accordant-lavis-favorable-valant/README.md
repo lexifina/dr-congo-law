@@ -1,0 +1,11 @@
+# Arrêté ministériel n°122/CAB/MIN/AGRI/ ABC/ LTN/2017 du 20 octobre 2017 accordant l’avis favorable valant autorisation provisoire de fonctionnement à l'Association sans but lucratif dénommée « Union pour la Promotion et Orientation Nationale de Développem…
+
+Journal officiel (JO N°1) du 2018-01-01. Texte : <https://journalofficiel.cd/publication/019ee243-1165-73fe-9f23-fff2041a3f36/apercu>.
+
+En vigueur : 2017-10-20 (« Le Secrétaire général à l'Agriculture, Pêche et Elevage est chargé de l'exécution du présent Arrêté qui entre en vigueur à la date de sa signature »).
+
+| Fichier | Début |
+| --- | --- |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |

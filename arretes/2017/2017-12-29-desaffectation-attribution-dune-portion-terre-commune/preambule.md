@@ -1,0 +1,1 @@
+Est désaffectée du domaine privé de l’Etat et affectée à usage mixte, la portion de terre d’une superficie de 4 000 m2, soit 4 ha, contigüe à la concession Chanimetal, située dans la Commune de Ngaliema, Ville-Province de Kinshasa, telle que liserée sur le plan de situation en annexe.

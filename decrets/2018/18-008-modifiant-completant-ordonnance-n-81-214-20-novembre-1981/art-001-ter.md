@@ -1,0 +1,2 @@
+# Article 1 ter
+La portion de la zone de protection relative définie à la litera b) de l'article 2 de l'Ordonnance n° 81-213 du 20 novembre 1981, limitant la concession et l'utilisation des terres dans le périmètre de Moanda - Banana, qui est comprise à l'intérieur de la nouvelle superficie des sites industriels du domaine franc de Moanda - Banana tels que définis à l'alinéa précédent fait partie intégrante de la zone de protection absolue.

@@ -1,0 +1,4 @@
+# Article 2 bis
+L'octroi des nouveaux droits de concession, à quelque titre qu'il soit, dans le périmètre du projet est strictement interdit.
+Tous les droits de concession dûment et antérieurement concédés aux privés dans le périmètre du projet feront l'objet d'une procédure d'expropriation pour cause d'utilité publique conformément à la législation en la matière en République Démocratique du Congo.
+Toutefois, les questions des droits antérieurs dûment acquis dans le périmètre du projet par les personnes morales de droit public et les sociétés commerciales dans lesquelles l'Etat congolais participe au capital social seront réglées conformément à la législation y afférente en République Démocratique du Congo et feront l'objet des actes réglementaires interministériels entre les Ministres des Transports et Communications, l'Urbanisme et les Affaires Foncières selon le cas, avec chacun des Ministres ayant dans ses attributions le secteur d'activités y relatif.

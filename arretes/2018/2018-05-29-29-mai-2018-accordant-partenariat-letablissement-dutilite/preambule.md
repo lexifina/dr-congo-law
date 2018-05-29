@@ -1,0 +1,1 @@
+Est accordé le statut de partenaire à l’Etablissement d’utilité publique dénommé « Ferme Kibwanga/ Kimbumba Nkwasa » en sigle « FKN Sarl » ayant son siège social au Village Kimbumba, Groupement Nkwasa, Secteur Mikwi, Territoire de Bulungu, Province de Kwilu.

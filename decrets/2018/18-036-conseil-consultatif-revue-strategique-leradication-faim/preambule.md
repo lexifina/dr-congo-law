@@ -1,0 +1,1 @@
+Le présent Décret a pour objet la création, l’organisation et le fonctionnement du Conseil consultatif de la revue stratégique sur l’éradication de la faim en République Démocratique du Congo, ci-dessous dénommé « Conseil consultatif ».

@@ -1,0 +1,12 @@
+Le Ministre des Affaires Foncières,
+Vu la Constitution, telle que modifiée et complétée à ce jour par la Loi n°11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo, spécialement en son article 93 ;
+Vu la Loi n°73-021 du 21 juillet 1973, portant régime général des biens, régime foncier et immobilier et régime de sûretés, telle que modifiée et complétée par la Loi n°80-008 du 18 juillet 1980 spécialement en ses articles 12, 145 alinéa 2 et 181 ;
+Vu telle que modifiée l’Ordonnance n°74-148 du 02 juillet 1974 portant mesure d’exécution de la Loi n°73-021 du 20 juillet 1973 portant régime général des biens, régime foncier et immobilier et régime des sûretés, telle que modifiée et complétée par la Loi n°80-008 du 18 juillet 1980, spécialement en ses articles 16 alinéa 2, 19 ;
+Vu l’Ordonnance n°17/004 du 07 avril 2017 portant nomination d’un Premier ministre, Chef du Gouvernement de la République ;
+Vu l’Ordonnance n°17/005 du 08 mai 2017 portant nomination des Vice-premiers Ministres, Ministres d’Etat, Ministres, Ministres délégués et Vice-ministres ;
+Vu le rapport administratif n° 317/2018 transmis par la lettre n° 2.441.60/034/2018 du 27 décembre 2018 de Monsieur le Chef de division du cadastre de la circonscription foncière de Limete, en réponse de la réquisition à expert n°1870/PG030/017/PG-MAT/KIS et de la réquisition d’information n°1871/PG030/ 017/PG-MAT/KIS prises par Monsieur le Procureur général près la Cour d’appel de Kinshasa/Matete le 26 décembre 2018, consécutivement auscellé de la parcelle n°167 de la Commune de Limete sous RI 0195/0390 du 08 octobre 2018 ;
+Affirmant la caducité du contrat de location Na 50533 du 05 octobre 1973 et celle du certificat d’enregistrement volume A 184 folio 53 établi consécutivement au contrat de concession ordinaire n°181 du 25 mai …, couvrant une superficie de 51 a 76 ca 92% ;
+Considérant que le concessionnaire ordinaire Kambana André n’a pas sollicité le renouvellement de son contrat dans la forme et dans le délai de la loi, ne paye les redevances et taxes connexes, causant ainsi d’énormes préjudices à l’Etat ;
+Convaincu par conséquent qu’il n’y a pas lieu d’autoriser le transfert des droits établis sur cette parcelle à la succession du concessionnaire défaillant du fait de son décès, mais en revanche il y a lieu de remettre la parcelle n°167 du plan cadastral de la Commune de Limete dans le domaine privé de l’Etat pour sa remise sur le marché ;
+Vu l’urgence et la nécessité ;
+ARRETE

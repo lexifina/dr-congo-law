@@ -1,0 +1,16 @@
+# Arrêté n°CAB.MIND/IND/CJA/003/03/2020 du 16 mars 2020 portant création du Comité d’inspection, de contrôle et de Suivi de la conformité aux normes nationales ou internationales relatives aux eaux usées industrielles, CCEI en sigle
+
+Texte : FAOLEX (LEX-FAOC200214), <https://faolex.fao.org/docs/pdf/cng200214.pdf>.
+
+En vigueur : 2020-03-16 (« Le Secrétaire général à l’Industrie est chargé de l’exécution du présent Arrêté qui entre en vigueur à la date de sa signature »).
+
+| Fichier | Début |
+| --- | --- |
+| [preambule](preambule.md) | Arrêté n° CAB.MIND/IND/CJA/003/03/2020 du 16 mars 2020 portant |
+| [art-001](art-001.md) | Article 1 |
+| [art-002](art-002.md) | Article 2 |
+| [art-003](art-003.md) | Article 3 |
+| [art-004](art-004.md) | Article 4 |
+| [art-005](art-005.md) | Article 5 |
+| [art-006](art-006.md) | Article 6 |
+| [art-007](art-007.md) | Article 7 |

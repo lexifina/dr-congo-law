@@ -1,0 +1,20 @@
+Arrêté provincial n°20/046/CAB/PROGOU /WIA /KLU/2020 du 29 juillet 2020 modifiant et complètant l’Arrêté provincial n°20/006/CAB/PROGOU/WIA /KLU/2020 du 13 fevrier 2020 portant fixation des taux des droits, taxes et redevances dus à la Province du Kwilu.
+Le Gouverneur de Province,
+Vu la Constitution de la République Démocratique du Congo telle que modifiée à ce jour, par la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution du 18 février 2006, spécialement en ses articles 3 alinéa 1 er , 195, 198, 203 et 204 ;
+Vu la Loi organique n°08/016 du 07 octobre 2008 portant composition, organisation et fonctionnement des Entités Territoriales Décentralisées et leurs rapport avec l’Etat et les Provinces ;
+Vu la Loi organique n° 15/006 du 25 mars 2015 portant fixation des limites des Provinces et celles de la Ville de Kinshasa, spécialement en son article 15 ;
+Vu la Loi organique n° 16/001 du 03 mai 2016 fixant organisation et fonctionnement des services publics du Pouvoir central, des Provinces et des Entité Territoriales Décentralisées;
+Vu la Loi n° 08/012 du 31 juillet 2008 portant principes fondamentaux relatifs à la libre administration des Provinces ; spécialement en ses articles 22, 23, 28, 29, 48 et 49 ;
+Vu la Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques ;
+Vu l’Ordonnance-loi n° 18/004 du 13 mars 2019 fixant la nomenclature des impôts, droits, taxes et redevances de la Province et de l’Entité Territoriale Décentralisée ainsi que les modalités de leur répartition ;
+Vu l’Ordonnance présidentielle n° 19/039 du 9 avril 2019 portant investiture du Gouverneur et du Vice gouverneur de la Province du Kwilu ;
+Vu le Décret n° 13/050 du 6 novembre 2013 portant règlement général sur la comptabilité publique ; Vu le Décret n° 11/03 du 21 janvier 2011 portant interdiction des contrôles et recouvrements des impôts, droits, taxes et autres redevances dus à l’Etat sans requête des régies financières ;
+Vu l’Arrêté interministériel n° 001/CAB/MIN/ AFF.INTER-FIN/99 du 20 mai 1999 portant fixation des taux et taxes administratives d’intérêt commun et des taxes spécifiques des Entités Administratives Décentralisées ;
+Vu l’Arrêté interministériel n° 002/CAB/MIN/AFF. INTER-FIN/99 du 20 mai 1999 portant modalités de perception et de répartition des taxes d’intérêt commun et des contributions cédées aux Entités administratives décentralisées ;
+Vu la note circulaire n° 002/CAB/MINI/ FINANCES/2011 du 10 février 2011 relative aux modalités pratiques de prise en charge par les Provinces des actes générateurs attachés à leurs compétences exclusives ;
+Vu l’Arrêté provincial n° 19/008/CAB/PROGOU/ WIA/2019 du 12 juin 2019 portant nomination des Ministres provinciaux du Kwilu ; Vu l’Arrêté provincial n° 19/009/CAB/PROGOU/ WIA/KLU/2019 du 12 juin 2019 portant nomination des Commissaires provinciaux du Kwilu ;
+Vu l’Arrêté provincial n° 19/0014/CAB/PROGOU/ WIA/KLU/2019 du 12 juin 2019 portant organisation et fonctionnement du Gouvernement provincial de la Province du Kwilu ;
+Vu l’Arrêté provincial n°24/CAB/PROGOU/GKK/KLU/2016 du 10 septembre 2016 portant création, organisation et fonctionnement de la Direction Généraledes Recettes du Kwilu, DGREK en sigle ;Revu l’Arrêté provincial n° 20/006/CAB/PROGOU/WIA/KLU/2020 du 13 février 2020 portant fixation des taux des droits, taxes et redevances dus à la Province du Kwilu ;
+Considérant la nécessité d’adapter, dans certains cas spécifiques, quelques taux des droits, taxes et redevances, à la réalité sur terrain ; Sur proposition du Ministre provincial en charge des Finances ; Le Conseil des Ministres entendu ;
+Vu la nécessité et l’urgence,
+ARRETE

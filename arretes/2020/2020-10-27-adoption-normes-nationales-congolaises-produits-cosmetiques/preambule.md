@@ -1,0 +1,26 @@
+Arrêté n° CAB.MIN/IND/CJA/10/10/2020 du 27 octobre 2020 portant adoption des normes nationales congolaises sur les produits cosmétiques et détergents, les lubrifiants et produits pétroliers, les ciments, les peintures et
+vernis, l'électrotechnique, la technologie de l'information et la sécurité, le management sécurité routière et l'approvisionnement, l'assainissement, l'environne ment, eaux usées et de forage et leur mise en application.
+Le Ministre de l'Industrie ;
+Vu la Constitution, telle que modifiée par la Loi n°11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution du 18 janvier 2006, spécialement en son article 93 ;
+Vu la Loi n°82 - 001 du 07 janvier 1982 régissant la propriété industrielle ;
+Vu la Loi n° 11/011 du 13 juillet 2011 relative aux Finances publiques ;
+Vu l'Ordonnance-loi n° 18/003 du 13 fixant la nomenclature des droits, taxes et redevances du Pouvoir central ;
+Vu l'Ordonnance-loi n°13/003 du 23 février 2013 portant réforme des procédures relatives à l'assiette, au contrôle et aux modalités de recouvrement des recettes non fiscales ;
+Vu l'Ordonnance n°75-71 du 22 août 1975 portant création d'un Comité National de Normalisation, telle que modifiée et complétée par l'Ordonnance n°87-017 du 19 janvier 1987, spécialement à son article 3, alinéa 2 ;
+Vu l’Ordonnance n°89-173 du 07 août 1989, portant mesures d'application de la Loi n°82-001 du 07 janvier 1982 régissant la propriété industrielle ;
+Vu l’Ordonnance n° 19/056 du 20 mai 2019 portant nomination d'un Premier ministre ;
+Vu l'Ordonnance n°019/077 du 26 août 2019 portant nomination des Vice-premiers Ministres, des Ministres d'Etat, des Ministres et des Vice-ministres ;
+Vu l'Ordonnance n°20/016 du 27 mars 2020 portant organisation et fonctionnement du Gouvernement, modalités de collaboration entre le Président de la République et le Gouvernement,
+ainsi qu'entre les membres du Gouvernement ;
+Vu l'Ordonnance n°20/017 du 27 mars 2020 fixant les attributions des Ministères ;
+Vu le Décret du 17 août 1910, tel que modifié et complété par le Décret du 31 mars 1959 instituant le système métrique décimal des poids et mesures ;
+Vu le Décret du 25 novembre 1913 relatif à la surveillance des instruments de pesage réglementaires ;
+Vu le Décret n°007/2002 du 02 février 2002 relatif au mode de paiement des dettes envers l’Etat, tel que modifié et complété par le Décret n°011/20 du 14 avril 2011 ;
+Vu l’Arrêté ministériel n° DENI/CAB/031/ 88 du 19 août 1988 portant statut et gestion de la marque nationale de conformité aux normes ;
+Vu l'Arrêté ministériel n°CAB.MIN/IND/CNM/008/09/2020 du 15 septembre 2020 portant création des commissions techniques chargées d'examiner des normes internationales sur les produits spécifiques en
+vue de leur adoption en normes nationales congolaises ;
+Attendu que le Comité National de Normalisation a pour mission d'établir les normes nationales afin de rendre les produits et services conformes audites normes ;
+Vu l'urgence et la nécessité ;
+Le Comité National de Normalisation entendu ;
+Sur proposition du Secrétaire général à l'Industrie, président du Comité National de Normalisation;
+ARRETE

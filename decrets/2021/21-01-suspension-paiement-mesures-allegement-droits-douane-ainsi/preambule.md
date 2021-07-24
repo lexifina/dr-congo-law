@@ -1,0 +1,35 @@
+Décret n° 21/01 du 24 juillet 2021 portant suspension de paiement et mesures d'allègement des droits de douane ainsi que de la taxe sur la valeur ajoutée en faveur du secteur de l'aviation civile
+
+Le Premier ministre,
+
+Vu la Constitution, telle que modifiée et complétée par la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo du 18 février 2006, spécialement en ses articles 92 et 174 ;
+
+Vu la Loi n° 10/014 du 31 décembre 2010 relative à l'aviation civile, spécialement en son article 31 litera a ;
+
+Vu la Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques, telle que modifiée et complétée à ce jour, spécialement en ses articles 9, 106 et 107 ;
+
+Vu l'Ordonnance-loi n° 10/001 du 20 août 2010 portant institution de la taxe sur la valeur ajoutée, telle que modifiée et complétée à ce jour, spécialement en son article 35 ;
+
+Vu l'Ordonnance-loi n° 010/002 du 20 août 2010 portant Code des douanes, telle que modifiée et complétée à ce jour, spécialement en son article 52 ;
+
+Vu l'Ordonnance-loi n° 011/2012 du 21 septembre 2012 instituant un nouveau tarif des droits et taxes à l'importation, telle que modifiée et complétée à ce jour, spécialement en ses dispositions préliminaires paragraphes 2 et 16 ;
+
+Vu l'Ordonnance n° 20/016 du 27 mars 2020 portant organisation et fonctionnement du Gouvernement, modalités de collaboration entre le Président de la République et le Gouvernement ainsi qu'entre les membres du Gouvernement, spécialement en ses articles 9 alinéas 2 et 4, et 26 ;
+
+Vu l'Ordonnance n° 20/017 du 27 mars 2020 fixant les attributions des Ministères, spécialement en son article 1er A premier tiret et B point 18 ;
+
+Vu l'Ordonnance n° 21/006 du 14 février 2021 portant nomination d'un Premier ministre ;
+
+Vu l'Ordonnance n° 21/012 du 12 avril 2021 portant nomination des Vice-premiers Ministres, des Ministres d'Etat, des Ministres, des Ministres délégués et des Vice-ministres ;
+
+Vu les décisions prises lors de la neuvième réunion du Conseil des Ministres, tenue en date du 25 juin 2021, relatives à la révision des tarifs des services aériens ;
+
+Considérant la nécessité d'alléger les prix des titres de voyage par avions afin de faciliter les déplacements de la population à travers toute l'étendue du territoire national et de relever les taux de rotation et d'occupation des avions en vue d'une meilleure rentabilité économique des compagnies aériennes nationales ;
+
+Considérant l'urgence et la nécessité de mettre en application les prescrits du paragraphe 16 des dispositions préliminaires du tarif des droits et taxes à l'importation en vue de soutenir le secteur national de l'aviation civile ;
+
+Sur proposition du Ministre des Finances ;
+
+Le Conseil des Ministres entendu,
+
+DECRETE

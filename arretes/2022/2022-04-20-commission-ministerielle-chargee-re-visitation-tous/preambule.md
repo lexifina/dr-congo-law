@@ -1,0 +1,1 @@
+Arrêté ministériel n°016/CAB/VPM-MIN/EDD /EBM/CMB-TSB-PDK/02/ 2022 du 20 avril 2022 portant création, organisation et fonctionnement de la commission Ministérielle chargée de la ré-visitation de tous les contrats de concessions forestières d’exploitation et de conservation octroyées à ce jour par la République Démocratique du Congo

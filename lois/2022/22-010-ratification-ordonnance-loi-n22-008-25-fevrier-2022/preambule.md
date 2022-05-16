@@ -1,0 +1,1 @@
+Loi n° 22/010 du 16 mai 2022 portant ratification de l'Ordonnance - loi n°22/008 du 25 février 2022 autorisant la ratification de l'Accord de crédit n°6962-ZR du 17 juillet 2021 conclu entre la République Démocratique du Congo et l'Association Internationale de Développement au titre du financement additionnel des projets de préparation stratégique et de réponse à la COVID-19

@@ -1,0 +1,1 @@
+la Commune de Maluku, Ville de Kinshasa, la parcelle de terre à usage agricole portant le n°33.058 du plan cadastral de la circonscription foncière de Maluku, d'une superficie de 10 ha 59 ares 83 ca 00%, dont les limites, tenants et aboutissants sont représentés au croquis annexé au présent Arrêté, dressé à l'échelle de l/10.000e.

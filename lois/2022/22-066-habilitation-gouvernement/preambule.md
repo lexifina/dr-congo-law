@@ -1,0 +1,4 @@
+Exposé des motifs
+En vue de résoudre le problème de l'insécurité dans la partie Est de notre pays, le Président de la République a proclamé, conformément aux articles 61, 84, 144 et 145 de la Constitution, l'état de siège dans les Provinces de l'Ituri et du Nord-Kivu.
+Compte tenu de l'ampleur de la situation sur terrain, due notamment à l'activisme du mouvement terroriste M23 soutenu par le Rwanda, et dans la perspective de consolider les efforts des Forces Armées de la République Démocratique du Congo en attendant la table ronde sur la requalification de l'état de siège, il est indispensable que cette mesure soit maintenue et renouvelée suivant les échéances déterminées par la Constitution.
+Par ailleurs, dans le cadre de la coopération économique dans le domaine de télécommunications et de la cybercriminalité, la République Démocratique du Congo a conclu des accords de coopération dont l'entrée en vigueur est conditionnée par leur ratification en vertu de la loi.

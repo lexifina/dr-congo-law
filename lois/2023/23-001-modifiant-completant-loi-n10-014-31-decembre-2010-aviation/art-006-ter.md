@@ -1,0 +1,6 @@
+# Article 6 ter :
+La République Démocratique du Congo prête son concours pour atteindre le plus haut degré réalisable d'uniformité dans les règlements, les normes, les procédures et l'organisation relatifs aux aéronefs, au personnel, aux voies aériennes et aux services auxiliaires, dans toutes les matières pour lesquelles une telle uniformité facilite et améliore la navigation aérienne.
+A cette fin, l'Autorité de l'Aviation Civile élabore, amende et publie les règlements et procédures relatifs aux domaines de supervision couverts par les annexes à la Convention de Chicago.
+Les règlements d'exploitation spécifiques visés ci-dessus sont dénommés Règlements Aéronautiques de la République Démocratique du Congo.
+Ils ont pour objet, en référence à l'article 37 de la Convention de Chicago, de transposer en République Démocratique du Congo les normes et pratiques recommandées ainsi que les procédures pour les services de navigation aérienne contenues dans les Annexes à ladite Convention.
+L'Autorité de l'Aviation Civile propose au Ministre ayant l'aviation civile dans ses attributions, à la demande dudit Ministre ou de sa propre initiative, les avant-projets de lois, d'ordonnances, de décrets et d'arrêtés du secteur de l'aviation civile.

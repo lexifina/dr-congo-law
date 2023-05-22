@@ -1,0 +1,1 @@
+ratifiée, conformément aux articles 129 alinéas 2 et 3 de la Constitution et 4 de la Loi n°22/066 du 26 décembre 2022 portant habilitation du Gouvernement, l'Ordonnance-loi n°23/010 du 13 mars 2023 modifiant le Code du Numérique.

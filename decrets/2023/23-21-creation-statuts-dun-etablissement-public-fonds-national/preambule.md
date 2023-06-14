@@ -1,0 +1,3 @@
+DECRETE
+TITRE I : DES DISPOSITIONS GENERALES
+Chapitre 1 : De la création

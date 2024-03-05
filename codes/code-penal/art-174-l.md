@@ -1,0 +1,2 @@
+# Article 174 l
+Sera puni de cinq à quinze ans de servitude pénale, quiconque aura commis sur une personne un acte à la priver de la capacité biologique et organique de reproduction sans qu’un tel acte ait préalablement fait l’objet d’une décision médicale justifiée et d’un libre consentement de la victime.

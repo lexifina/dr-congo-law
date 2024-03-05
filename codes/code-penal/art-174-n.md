@@ -1,0 +1,2 @@
+# Article 174 n
+Sera puni de servitude pénale de cinq à vingt ans et d’une amende de deux cent mille Francs congolais constants, quiconque aura utilisé un enfant de moins de 18 ans aux fins des activités sexuelles contre rémunération ou toute autre forme d’avantage. Si l’infraction a été commise par une personne exerçant l’autorité parentale ou tutélaire, le coupable sera en outre déchu de l’exercice de l’autorité parentale ou tutélaire conformément à l’article 319 du Code de la famille.

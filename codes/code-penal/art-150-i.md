@@ -1,0 +1,2 @@
+# Article 150 i
+Seront exemptés de la peine portée par l'article précédent, ceux qui auront fait connaître l'auteur ou l'imprimeur ; les crieurs, afficheurs, vendeurs ou distributeurs qui auront fait connaître la personne de laquelle ils tiennent l'écrit incriminé.

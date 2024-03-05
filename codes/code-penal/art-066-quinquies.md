@@ -1,0 +1,2 @@
+# Article 66 quinquies
+Sera puni des peines prévues à l'article 66 bis celui qui, connaissant la preuve de l'innocence d'une personne incarcérée provisoirement ou jugée pour infraction punissable d'au moins un an, s'abstient volontairement d'en apporter aussitôt le témoignage aux autorités de justice ou de la police judiciaire. Toutefois, aucune peine ne sera prononcée contre celui qui apportera son témoignage tardivement, mais spontanément.

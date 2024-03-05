@@ -1,0 +1,2 @@
+# Article 135 ter
+Quiconque aura, d'une manière quelconque, provoqué des militaires à se détourner de leurs devoirs militaires et de l'obéissance qu'ils doivent à leurs chefs dans tout ce qu'ils leur commandent pour l'exécution des lois et de règlements militaires, sera puni d'une servitude pénale de deux mois à trois ans et d'une amende de mille à dix mille zaïres, ou d'une de ces peines seulement.

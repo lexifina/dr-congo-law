@@ -1,0 +1,2 @@
+# Article 174 w
+Le chantage est le fait d'obtenir contre le gré d'une personne, en menaçant de révéler ou d'imputer des faits de nature à porter atteinte à son honneur ou à sa considération, en raison de son sexe, soit une signature, un engagement ou une renonciation, soit la révélation d'un secret, soit la remise de fonds, de valeurs ou d'un bien quelconque, ou d'obtenir une faveur de nature sexuelle. Celui qui aura commis le chantage sera puni d'une peine de servitude pénale principale d'un an à trois ans et d'une amende de 500.000 à 1.000.000 de Francs congolais.

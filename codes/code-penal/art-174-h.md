@@ -1,0 +1,2 @@
+# Article 174 h
+Sera puni de cinq à dix ans de servitude pénale et d’une amende de deux cent mille Francs congolais constants, quiconque aura, par ruse, violences, menaces ou par toute forme de coercition ou artifice, contraint une personne à avoir des relations sexuelles avec un animal. La personne qui, volontairement, aura eu des rapports sexuels avec un animal sera punie des mêmes peines que celles prévues à l’alinéa 1er du présent article.

@@ -1,0 +1,2 @@
+# Article 174 k
+Sera puni d’une peine de servitude pénale de dix à vingt ans, quiconque aura détenu une ou plusieurs femmes rendues enceintes de force ou par ruse.

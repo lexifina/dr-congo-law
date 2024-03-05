@@ -1,0 +1,2 @@
+# Article 174 v
+Le voyeurisme est le fait d'user de tout moyen afin d'apercevoir des parties intimes d'une personne que celle-ci, du fait de son habillement ou de sa présence dans un lieu clos, a caché à la vue des tiers, lorsqu'il est commis à l'insu ou sans le consentement de la personne. Le voyeurisme est puni d'une peine d'un an à trois ans de servitude pénale principale et d'une amende de 500.000 à 1.000.000 de Francs congolais.

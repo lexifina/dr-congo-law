@@ -1,0 +1,2 @@
+# Article 14 i
+A l'expiration de la peine principale, le Gouverneur de province dans le ressort de laquelle le condamné est détenu, décide s'il est mis en liberté ou interné. S'il est mis en liberté, il peut pour cause d'inconduite, être interné par décision du Commissaire de District du ressort où a eu lieu l'inconduite. Le Commissaire de District prend avis du ministère public. L’intéressé peut introduire un recours contre cette décision devant le Gouverneur de province. Les formes de ce recours sont déterminées par le Président de la République.

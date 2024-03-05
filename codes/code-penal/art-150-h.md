@@ -1,0 +1,2 @@
+# Article 150 h
+Toute personne qui aura sciemment contribué à la publication ou à la distribution de tout écrit dans lequel ne se trouve pas l'indication vraie du nom et du domicile de l'auteur ou de l'imprimeur, sera punie d'une servitude pénale ne dépassant pas deux mois et d'une amende de deux mille zaïres au maximum ou de l'une de ces peines seulement. Toutefois la servitude pénale ne pourra être prononcée lorsque l'écrit publié sans les indications requises fait partie d'une publication dont l'origine est connue par son apparition antérieure.

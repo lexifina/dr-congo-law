@@ -1,0 +1,2 @@
+# Article 14 e
+Lorsqu'un condamné a été mis à la disposition du Gouvernement par deux décisions successives pour des infractions non concurrentes, si la mise à la disposition du Gouvernement prononcée par la décision première en date n'a pas atteint son terme à l'expiration de la peine de servitude pénale prononcée par la seconde décision, la seconde mise à la disposition du Gouvernement ne prend cours qu'à l'expiration de la première.

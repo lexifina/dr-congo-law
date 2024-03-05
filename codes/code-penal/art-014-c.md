@@ -1,0 +1,2 @@
+# Article 14 c
+Les peines prévues par la présente section prennent cours, lorsqu'elles sont prononcées en vertu de l'article 14 a), à la date fixée par le jugement. Lorsqu'elles sont prononcées en vertu de l'article 14 b) elles prennent cours à la date à laquelle le condamné est libéré, soit définitivement, par expiration ou remise de la peine de servitude pénale, soit conditionnellement. La réincarcération du condamné, pour quelque cause que ce soit, n'entraîne pas prolongation de la durée de ces peines.

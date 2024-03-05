@@ -1,0 +1,2 @@
+# Article 174 f
+Sans préjudice de l’article 336 du Code de la famille, sera punie d’une peine de un à douze ans de servitude pénale et d’une amende ne pouvant être inférieur à cent mille Francs congolais constants, toute personne qui, exerçant l’autorité parentale ou tutélaire sur une personne mineure ou majeure, l’aura donnée en mariage, ou en vue de celui-ci, ou l’aura contrainte à se marier. Le minimum de la peine prévu à l’aliéna 1er est doublé lorsqu’il s’agit d’une personne âgée de moins de 18 ans.

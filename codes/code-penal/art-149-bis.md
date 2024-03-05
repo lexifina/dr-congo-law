@@ -1,0 +1,7 @@
+# Article 149 bis : (modifié par l’article 3 de la Loi n° 05/006 du 29 mars 2005 modifiant et complétant le Décret du 30 janvier 1940 portant Code Pénal Congolais)
+Outre les peines prévues à l’article 149, la juridiction compétente, saisie d’une infraction de corruption, prononcera au profit de l’Etat la confiscation du produit ou moyen de la corruption de la personne condamnée ainsi que la rétribution perçue. Elle pourra ordonner le gel, la saisie, la confiscation et le rapatriement du produit de la corruption, conformément à la législation sur l’entraide judiciaire et l’extradition ou aux accords bilatéraux existants en la matière. En outre, la personne reconnue coupable de corruption active ou passive sera condamnée à :
+1. l’interdiction, pour une période de cinq ans au moins et de 10 ans au plus, après l’exécution de la peine, du droit de vote et du droit d’éligibilité ;
+2. l’interdiction, pour la même période, du droit d’accès aux fonctions publiques et paraétatiques quel qu’en soit l’échelon et du droit d’exercer, directement ou indirectement, certaines activités, notamment la profession de banquier, d’agent de change, d’agent comptable, d’importateur ou d’exportateur ;
+3. l’interdiction de soumissionner dans tous les marchés publics pour une période de cinq ans ;
+4. la privation du droit à la condamnation ou à la libération conditionnelle ;
+5. l’expulsion définitive du territoire de la République Démocratique du Congo, après l’exécution de la peine, si le condamné est étranger.

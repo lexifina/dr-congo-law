@@ -1,0 +1,2 @@
+# Article 68 octies (Inséré par l’article 3 de la Loi n° 22/067 du 26 décembre 2022 modifiant et complétant le Décret du 30 janvier 1940 portant Code pénal congolais)
+Est puni d'une servitude pénale principale de 10 à 15 ans et d'une amende de 10.000.000 à 30.000.000 de Francs congolais, quiconque contraint une personne débitrice, ses enfants ou ses dépendants à s'engager à fournir à autrui ou à soi-même des services sexuels ou personnels en garantie d'un paiement.

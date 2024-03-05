@@ -1,0 +1,2 @@
+# Article 68 nonies (Inséré par l’article 3 de la Loi n° 22/067 du 26 décembre 2022 modifiant et complétant le Décret du 30 janvier 1940 portant Code pénal congolais)
+Est puni d'une servitude pénale principale de 5 à 10 ans et d'une amende de 5.000 000 à 10 000 000 de francs congolais, quiconque organise la mendicité d'autrui en vue d'en tirer profit ou qui embauche, entraîne ou détourne une personne en vue de la livrer à la mendicité ou d'exercer sur elle une pression pour qu'elle mendie ou continue de le faire.

@@ -1,0 +1,11 @@
+Loi n° 24/018 du 30 décembre 2024 autorisant la ratification des accords de prêts relatifs au Projet d’Appui au Développement des Chaînes de Valeur en soutien au Programme de Transformation de l’Agriculture (PADCV-PTA)
+Législation congolaise — LEGANET.BE
+Exposé des motifs
+et le Fonds Africain de Développement n° 590015000-4101 et d’autre part entre la République Démocratique du Congo et le Fonds Africain de Développement n° 2100150044496 tous deux au titre de financement du Projet d’Appui au Développement des Chaines de Valeur en soutien au Programme de Transformation de l’Agriculture (PADCV-PTA) Exposé des motifs La République Démocratique du Congo, a conclu en date du 28 septembre 2024 d'une part avec la Banque Africaine de Développement et le Fonds Africain de
+Développement un Accord de prêt n°590015000-4101 d'un montant de 7.558.000 UC (sept millions cinq cent cinquante-huit mille Unités de compte, et d'autre part avec le Fonds Africain de Développement n°2100150044496 d'un montant de 190.000.000 Unités
+de compte tous au titre de financement du Projet d'Appui au Développement des Chaines de Valeur en soutien au
+Programme de Transformation de l'Agriculture (PADCV-PTA). Le projet vise à réduire l'incidence de l'insécurité alimentaire et les importations des produits alimentaires en République Démocratique du Congo, tout en adoptant une approche préventive dans la réponse aux effets néfastes des chocs exogènes, y compris du changement climatique et des conflits armés. Il s'articule autour de trois (3) composantes pour le premier accord et quatre (4) pour le second. Il s'agit de : Composante 1 : Appui à l'alimentation du climat des investissements ; Composante 2 : Appui à l'amélioration de la qualité de la main d'œuvre et de l'entrepreneuriat des jeunes et des femmes ; Composante 3 : Coordination et gestion du projet ; Composante 4 : Accroissement de la productivité et de la production agricole ; Composante 5 : Développement des infrastructures résilientes et inclusives ;
+Composante 6 : Structuration et financement des acteurs/actrices des filières ; Composante 7 : Coordination et gestion du projet. La durée du projet est de cinq (5) ans, soit du 31
+Loi
+L’Assemblée nationale et le Sénat ont adopté ;
+Le Président de la République promulgue la Loi dont la teneur suit :

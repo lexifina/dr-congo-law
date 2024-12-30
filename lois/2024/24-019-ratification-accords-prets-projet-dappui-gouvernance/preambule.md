@@ -1,0 +1,10 @@
+Loi n° 24/019 du 30 décembre 2024 portant ratification des accords de prêts relatifs au Projet d’Appui à la Gouvernance et au Développement des Compétences en soutien au Programme de Transformation de l’Agriculture (PAGDC-PTA)
+Législation congolaise — LEGANET.BE
+Exposé des motifs
+n°2100150044343 et n°5900150003951 du 25 mars 2024 entre la République Démocratique du Congo et le Fonds Africain de Développement « FAD » ainsi que la facilitation d’appui à la transition au titre de financement des Projets d’Appui à la Gouvernance et au Développement des Compétences en soutien au Programme de Transformation de l’Agriculture (PAGDC-PTA) Exposé des motifs Par la Loi n°24/001 du 20 juin 2024 portant habilitation du Gouvernement, le Parlement a conféré au Gouvernement, pour une durée allant du 20 juin 2024 jusqu'à l'ouverture de la session ordinaire de septembre 2024, le pouvoir de légiférer par Ordonnance-loi sur des mesures limitativement déterminées qui sont normalement du domaine de la Loi. En vertu de cette habilitation, le Président de la République a signé l'Ordonnance-loi n°24/014 du 08
+Gouvernance et au Développement des Compétences en soutien au Programme de Transformation de l’Agriculture, en sigle « PAGDC-PTA ». Article 2 La présente Loi entre en vigueur à la date de sa promulgation. Fait à Kinshasa, le 30 décembre 2024. Félix-Antoine TSHISEKEDI TSHILOMBO ___________
+des Chaines de Valeur en soutien au Programme de Transformation de l’Agriculture (PADCV-PTA). les chaines de valeurs agricoles que le programme de transformation de l'agriculture PTA a été initié.
+n° 2100150044343 d'un montant de 39.900.000 USD et n° 5900150003951 d'un montant de 78.800.000 USD conclus le 25 mars 2024 entre la République Démocratique du Congo et le Fonds Africain de Développement (FAD) ainsi que la facilitation d'appui à la transition au titre de projet d'appui à la Gouvernance et au développement des compétences en soutien au
+Loi
+L’Assemblée nationale et le Sénat ont adopté ;
+Le Président de la République promulgue la Loi dont la teneur suit :

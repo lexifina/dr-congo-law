@@ -15,7 +15,7 @@ SRC_2011 = LEGANET + '/JO/2011/JOS.05.02.2011.pdf'
 SRC_LAW_11_002 = LEGANET + '/JO/2011/JOS.01.02.2011.pdf'
 
 HEADER = re.compile(r'^\s*(Journal Officiel\b.*Constitution.*|\d{1,3}|_{3,}|E-mail.*|Sites?\s*:.*|www\..*)\s*$', re.I)
-ART = re.compile(r'^\s*Articles?\s+(\d+)(?:er|ère)?\b\s*(.*)$')
+ART = re.compile(r'^\s*Articles?\s+(\d+)(?:er|ère)?\b\s*[,.:]?\s*(.*)$')
 STRUCT = re.compile(r'^\s*(TITRE|Chapitre|CHAPITRE|Section|SECTION|Paragraphe|PARAGRAPHE)\s+([0-9IVX]+(?:er|ère|e)?)\s*:?\s*(.*)$')
 NOTE = re.compile(r'\((?:modifiée?|révisée?)\s+par l’article.*?\)', re.I | re.S)
 

@@ -1,0 +1,31 @@
+{
+ "country": "CD",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République Démocratique du Congo du 18 février 2006",
+   "url": "https://www.leganet.be/Legislation/JO/2011/JOS.05.02.2011.pdf",
+   "versions": [
+    {
+     "from": "2006-02-18",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/JO/2006/JO.18.02.2006.pdf",
+     "sha256": "471ebb78b5d50bc3d0f3ca3a1d1aaafadc7f874d60db6f8c1be024bb5fa8e30c"
+    },
+    {
+     "from": "2011-01-20",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/JO/2011/JOS.01.02.2011.pdf",
+     "sha256": "139f664e69789e4ad35dadf1ed59ea4bb1a29ce5925986fc25648cd3eb17512c"
+    },
+    {
+     "from": "2011-02-05",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/JO/2011/JOS.05.02.2011.pdf",
+     "sha256": "c41c9888b0203a57772d1a909c07224eeb494b07f4b4311cf878772e645569c3"
+    }
+   ]
+  }
+ ]
+}

@@ -103,7 +103,6 @@ def parse_law_11_002() -> tuple[dict[str, dict], str]:
     """The replacement articles of Loi n° 11/002 (art. 1er) and the new heading of § 5 (art. 2), from the JO of
     1 February 2011. pdftotext without -layout keeps the two columns in reading order. The exposé des motifs on
     page 1 has a broken font encoding; its lines are dropped (they are not part of the operative text)."""
-    from textlib import cache_path  # noqa: F401  (cache only)
     import subprocess
     import tempfile
     from pathlib import Path

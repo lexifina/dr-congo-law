@@ -106,14 +106,13 @@ def parse_law_11_002() -> tuple[dict[str, dict], str]:
     import fitz  # PyMuPDF keeps line-end hyphens; pdftotext's raw mode drops them (Kasaï-Occidental)
     from fetch import cache_path as cp
     doc = fitz.open(stream=cp(SRC_LAW_11_002).read_bytes(), filetype='pdf')
-    raw = '
-'.join(page.get_text() for page in doc)
+    raw = '\n'.join(page.get_text() for page in doc)
     text = norm_chars(raw)
     lines = [l for l in text.split('\n') if not GARBLED.search(l) and not re.fullmatch(r'\s*\d{1,2}\s*', l)
              and not l.strip().startswith('Dans cette perspective, la présente révision')]
     body = '\n'.join(lines)
     a = body.index('sont modifiés comme suit :') + len('sont modifiés comme suit :')
-    b = body.index('\nArticle 2 ')
+    b = re.search(r'\nArticle 2\s*\n', body).start()
     ops = body[a:b].strip()
     ops = re.sub(r'^«\s*', '', ops)
     ops = re.sub(r'\s*»\s*\.?\s*$', '', ops)

@@ -94,7 +94,7 @@ def same(a: dict, b: dict) -> bool:
     return flat(a['text']) == flat(b['text'])
 
 
-GARBLED = re.compile(r'[̀-Ͽ]')
+GARBLED = re.compile('[\\u0340-\\u03ff]')  # was: r'[̀-Ͽ]')
 AMENDED = (71, 110, 126, 149, 197, 198, 218, 226)
 OLD_P5 = 'Paragraphe 5 : De la fin du mandat de député national ou de sénateur'
 
@@ -124,8 +124,8 @@ def parse_law_11_002() -> tuple[dict[str, dict], str]:
         label = f'Article {n}'
         out[f'art-{n:03d}'] = {'label': label, 'kind': 'art', 'text': '\n'.join([f'# {label}'] + paras) + '\n'}
     assert sorted(out) == [f'art-{n:03d}' for n in AMENDED], sorted(out)
-    m = re.search(r'est modifié comme suit : (Paragraphe 5 : .*?)\.?\n', body[b:])
-    return out, m.group(1).strip()
+    m = re.search(r'est modifié comme suit :\s*(Paragraphe 5 : .*?)\.?\s*\nArticle 3', body[b:], re.S)
+    return out, re.sub(r'\s+', ' ', m.group(1)).strip()
 
 
 def versions() -> list[dict]:

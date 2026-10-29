@@ -58,6 +58,9 @@ def paragraphs(lines: list[str]) -> list[str]:
             paras.append(cur)
             cur = ''
         gap = False
+        if cur and re.fullmatch(r'\d+[.°)]|[a-z]\)|[-–]', cur):
+            cur = cur + ' ' + line  # a list marker alone on its line
+            continue
         if cur and (END_PARA.search(cur) or LIST_START.match(line)):
             paras.append(cur)
             cur = ''

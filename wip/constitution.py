@@ -101,17 +101,14 @@ OLD_P5 = 'Paragraphe 5 : De la fin du mandat de député national ou de sénateu
 
 def parse_law_11_002() -> tuple[dict[str, dict], str]:
     """The replacement articles of Loi n° 11/002 (art. 1er) and the new heading of § 5 (art. 2), from the JO of
-    1 February 2011. pdftotext without -layout keeps the two columns in reading order. The exposé des motifs on
+    1 February 2011. MuPDF reads the two columns in order. The exposé des motifs on
     page 1 has a broken font encoding; its lines are dropped (they are not part of the operative text)."""
-    import subprocess
-    import tempfile
-    from pathlib import Path
+    import fitz  # PyMuPDF keeps line-end hyphens; pdftotext's raw mode drops them (Kasaï-Occidental)
     from fetch import cache_path as cp
-    with tempfile.TemporaryDirectory() as d:
-        src = Path(d) / 'in.pdf'
-        src.write_bytes(cp(SRC_LAW_11_002).read_bytes())
-        raw = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(src), '-'], capture_output=True, check=True).stdout
-    text = norm_chars(raw.decode('utf-8'))
+    doc = fitz.open(stream=cp(SRC_LAW_11_002).read_bytes(), filetype='pdf')
+    raw = '
+'.join(page.get_text() for page in doc)
+    text = norm_chars(raw)
     lines = [l for l in text.split('\n') if not GARBLED.search(l) and not re.fullmatch(r'\s*\d{1,2}\s*', l)
              and not l.strip().startswith('Dans cette perspective, la présente révision')]
     body = '\n'.join(lines)

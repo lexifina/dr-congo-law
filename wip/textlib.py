@@ -41,6 +41,10 @@ def norm_chars(s: str) -> str:
 
 LIST_START = re.compile(r'^(\d+[.°)]|\d+\s*[-–]|[a-z]\)|[a-z][.]\s|[-–•]\s|[ivx]+\)|[A-Z][.)]\s)')
 END_PARA = re.compile(r'[.;:!?»]$')
+# no paragraph ends on one of these words: a line ending on one continues after a page break or blank line
+# ("... aux articles 218 à" / "220 de la présente Constitution ;", "... du parquet près cette" / "Cour ;")
+OPEN_TAIL = re.compile(r'(?:^|\s)(?:à|au|aux|de|des|du|la|le|les|ce|cet|cette|ces|et|ou|près|en|par|pour|sur|dans|'
+                       r'un|une|entre)$', re.I)
 
 
 def paragraphs(lines: list[str]) -> list[str]:
@@ -54,7 +58,8 @@ def paragraphs(lines: list[str]) -> list[str]:
         if not line:
             gap = True
             continue
-        if cur and gap and not (line[0].islower() and not END_PARA.search(cur)):
+        if cur and gap and not (line[0].islower() and not END_PARA.search(cur)) \
+                and not (OPEN_TAIL.search(cur) and not LIST_START.match(line)):
             paras.append(cur)
             cur = ''
         gap = False

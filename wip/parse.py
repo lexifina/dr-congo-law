@@ -30,7 +30,12 @@ def main() -> None:
         'sources': [{'name': 'Journal officiel PDFs hosted by Leganet (leganet.be, formerly leganet.cd)',
                      'url': 'https://www.leganet.be/JO.htm', 'retrieved': RETRIEVED, 'requests': 6,
                      'licence': 'Official texts; Leganet states no licence; robots.txt absent (404).',
-                     'notes': 'Text-layer PDFs; journalofficiel.cd itself sells full texts (4-page free preview).'}],
+                     'notes': 'Text-layer PDFs; journalofficiel.cd itself sells the PDFs.'},
+                    {'name': 'Journal officiel de la RDC (journalofficiel.cd), Textes phares: Constitution',
+                     'url': constitution.JO_SITE, 'retrieved': '2026-10-29', 'requests': 1,
+                     'licence': 'Official text; the site states no licence.',
+                     'notes': 'Used only to verify the latest version (verify_jo.py): the page embeds the coordinated '
+                              'text of 5 February 2011 with legal_status "in_force".'}],
         'laws': {
             'constitution-2006': {'label': 'Constitution du 18 février 2006', 'kind': 'referendum',
                                   'title': 'Constitution de la République Démocratique du Congo',
@@ -55,6 +60,9 @@ def main() -> None:
             'Loi n° 11/002 in force on 2011-01-20: its art. 3, "entre en vigueur à la date de sa promulgation"; signed 20 January 2011.',
             'The 2011-01-20 version is the 2006 text with the eight articles of Loi 11/002 art. 1er and the § 5 heading of art. 2 replaced by the law\'s own wording (JO 1 February 2011).',
             'The JO coordinated text of 5 February 2011 differs editorially from the promulgated wording; those differences are a separate publisher commit labelled unexplained, not credited to Loi 11/002.',
+            'The 2011-02-05 version is read from Leganet\'s Droit Public/Constitution.2011.pdf, not from its JO/2011/JOS.05.02.2011.pdf: both carry the header of the JO numéro spécial of 5 February 2011 but differ in 83 units, and the Journal officiel\'s own site text agrees with the first in 78 of them and with the second (a 2012 reprint) in none.',
+            'Checked against the Journal officiel\'s site text (verify_jo.py): 901 of 906 paragraphs of the 2011-02-05 version appear verbatim; the other 5 differ only where the site\'s own text is broken (a final full stop missing before the next article, or another article\'s text spliced in).',
+            'A paragraph or heading that ends on a word such as "à", "de", "les", "au" or "cette" continues on the next line, across a blank line or page break (Constitution art. 119, 153, 200 heading, § 3 heading).',
             'Units whose wording is identical apart from line breaks keep the earlier version\'s lines.',
             'Structural headings (titres, chapitres, sections, paragraphes) are kept in one unit, constitution/structure.',
             'The garbled exposé des motifs on page 1 of the JO of 1 February 2011 (broken font encoding) is not used; only the operative articles are.',

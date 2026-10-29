@@ -1,7 +1,14 @@
-"""The Constitution of 18 February 2006: parse the two Journal officiel texts into units.
+"""The Constitution of 18 February 2006: parse the Journal officiel texts into units.
 
     v1  JO numéro spécial, 18 February 2006: the Constitution as promulgated.
-    v2  JO numéro spécial, 5 February 2011: "textes coordonnés" as revised by Loi n° 11/002 of 20 January 2011.
+    v2  v1 with the replacement articles of Loi n° 11/002 (JO of 1 February 2011), from its promulgation day.
+    v3  JO numéro spécial, 5 February 2011: "textes coordonnés" as revised by Loi n° 11/002 of 20 January 2011.
+
+Leganet holds two typesettings that both carry the header of the JO numéro spécial of 5 February 2011:
+Droit Public/Constitution.2011.pdf (Word 2007, April 2011) and JO/2011/JOS.05.02.2011.pdf (PDFCreator, August 2012,
+titled "Constitution de la RDC _Révisée_"). They differ in punctuation and capitals in 83 units. The Journal officiel's
+own site (journalofficiel.cd/textes-phares/constitution, legal_status "in_force") agrees with the first in 78 of them
+and with the second in none, so v3 is read from the first. verify_jo.py repeats that comparison.
 """
 from __future__ import annotations
 
@@ -11,12 +18,16 @@ from textlib import flat, norm_chars, paragraphs, pdf_text
 
 LEGANET = 'https://www.leganet.be/Legislation'
 SRC_2006 = LEGANET + '/JO/2006/JO.18.02.2006.pdf'
-SRC_2011 = LEGANET + '/JO/2011/JOS.05.02.2011.pdf'
+SRC_2011 = LEGANET + '/Droit%20Public/Constitution.2011.pdf'
+SRC_2011_REPRINT = LEGANET + '/JO/2011/JOS.05.02.2011.pdf'  # not used for text: see the module docstring
+JO_SITE = 'https://journalofficiel.cd/textes-phares/constitution'
 SRC_LAW_11_002 = LEGANET + '/JO/2011/JOS.01.02.2011.pdf'
 
 HEADER = re.compile(r'^\s*(Journal Officiel\b.*Constitution.*|\d{1,3}|_{3,}|E-mail.*|Sites?\s*:.*|www\..*)\s*$', re.I)
 ART = re.compile(r'^\s*Articles?\s+(\d+)(?:er|ère)?\b\s*[,.:]?\s*(.*)$')
 STRUCT = re.compile(r'^\s*(TITRE|Chapitre|CHAPITRE|Section|SECTION|Paragraphe|PARAGRAPHE)\s+([0-9IVX]+(?:er|ère|e)?)\s*:?\s*(.*)$')
+# a heading that ends on one of these words wraps onto the next line ("... et au" / "Gouvernement.")
+HEAD_TAIL = re.compile(r'\b(?:et|ou|de|des|du|la|le|les|au|aux|à|entre)$', re.I)
 NOTE = re.compile(r'\((?:modifiée?|révisée?)\s+par l’article.*?\)', re.I | re.S)
 
 
@@ -69,8 +80,8 @@ def parse(url: str) -> dict[str, dict]:
                 nxt = body[i + 1].strip()
                 if not nxt or ART.match(body[i + 1]) or STRUCT.match(body[i + 1]):
                     break
-                if head.endswith(('ET', 'DE', 'DES', 'DU', 'LA', 'LE', 'ou de', 'et', 'entre le pouvoir', 'de', 'des',
-                                  'du', 'la', 'le', 'du', 'et de')) or (head.isupper() and nxt.isupper()):
+                if (head.endswith('entre le pouvoir') or HEAD_TAIL.search(head)
+                        or (head.isupper() and nxt.isupper())):
                     head = head + ' ' + nxt
                     i += 1
                 else:
@@ -153,9 +164,10 @@ def versions() -> list[dict]:
     out.append({'from': '2011-02-05', 'source_url': SRC_2011, 'sha256': sha256(SRC_2011), 'units': v3,
                 'credits': {},
                 'note': ('Textes coordonnés published by the Journal officiel (numéro spécial, 5 February 2011). '
-                         f'They differ from the promulgated wording in {len(changed)} units (punctuation, '
-                         'capitalisation, spelling); no law made these differences, so they are committed by the '
-                         'publisher as unexplained. The Journal officiel lists this text as the one in force.')})
+                         f'They differ from the promulgated wording in {len(changed)} units (punctuation, capitals, '
+                         'spelling and a few small words such as articles and conjunctions); no law made these '
+                         'differences, so they are committed by the publisher as unexplained. The Journal officiel '
+                         'lists this text as the one in force.')})
     return out
 
 

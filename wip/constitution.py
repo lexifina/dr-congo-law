@@ -94,7 +94,7 @@ def same(a: dict, b: dict) -> bool:
     return flat(a['text']) == flat(b['text'])
 
 
-GARBLED = re.compile('[\\u0340-\\u03ff]')  # was: r'[̀-Ͽ]')
+GARBLED = re.compile(r'[\u0340-\u03ff]')
 AMENDED = (71, 110, 126, 149, 197, 198, 218, 226)
 OLD_P5 = 'Paragraphe 5 : De la fin du mandat de député national ou de sénateur'
 

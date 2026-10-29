@@ -48,13 +48,16 @@ def paragraphs(lines: list[str]) -> list[str]:
     starts at a list marker. Hyphenated line ends are joined without a space."""
     paras: list[str] = []
     cur = ''
+    gap = False
     for raw in lines:
         line = re.sub(r'\s+', ' ', raw).strip()
         if not line:
-            if cur:
-                paras.append(cur)
-                cur = ''
+            gap = True
             continue
+        if cur and gap and not (line[0].islower() and not END_PARA.search(cur)):
+            paras.append(cur)
+            cur = ''
+        gap = False
         if cur and (END_PARA.search(cur) or LIST_START.match(line)):
             paras.append(cur)
             cur = ''

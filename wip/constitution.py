@@ -94,6 +94,76 @@ def same(a: dict, b: dict) -> bool:
     return flat(a['text']) == flat(b['text'])
 
 
+GARBLED = re.compile(r'[̀-Ͽ]')
+AMENDED = (71, 110, 126, 149, 197, 198, 218, 226)
+OLD_P5 = 'Paragraphe 5 : De la fin du mandat de député national ou de sénateur'
+
+
+def parse_law_11_002() -> tuple[dict[str, dict], str]:
+    """The replacement articles of Loi n° 11/002 (art. 1er) and the new heading of § 5 (art. 2), from the JO of
+    1 February 2011. pdftotext without -layout keeps the two columns in reading order. The exposé des motifs on
+    page 1 has a broken font encoding; its lines are dropped (they are not part of the operative text)."""
+    from textlib import cache_path  # noqa: F401  (cache only)
+    import subprocess
+    import tempfile
+    from pathlib import Path
+    from fetch import cache_path as cp
+    with tempfile.TemporaryDirectory() as d:
+        src = Path(d) / 'in.pdf'
+        src.write_bytes(cp(SRC_LAW_11_002).read_bytes())
+        raw = subprocess.run(['pdftotext', '-enc', 'UTF-8', str(src), '-'], capture_output=True, check=True).stdout
+    text = norm_chars(raw.decode('utf-8'))
+    lines = [l for l in text.split('\n') if not GARBLED.search(l) and not re.fullmatch(r'\s*\d{1,2}\s*', l)
+             and not l.strip().startswith('Dans cette perspective, la présente révision')]
+    body = '\n'.join(lines)
+    a = body.index('sont modifiés comme suit :') + len('sont modifiés comme suit :')
+    b = body.index('\nArticle 2 ')
+    ops = body[a:b].strip()
+    ops = re.sub(r'^«\s*', '', ops)
+    ops = re.sub(r'\s*»\s*\.?\s*$', '', ops)
+    parts = re.split(r'(?:^|\n|\s)Article (\d+) :\s*', ops)
+    out: dict[str, dict] = {}
+    for num, chunk in zip(parts[1::2], parts[2::2]):
+        n = int(num)
+        paras = paragraphs(chunk.split('\n'))
+        label = f'Article {n}'
+        out[f'art-{n:03d}'] = {'label': label, 'kind': 'art', 'text': '\n'.join([f'# {label}'] + paras) + '\n'}
+    assert sorted(out) == [f'art-{n:03d}' for n in AMENDED], sorted(out)
+    m = re.search(r'est modifié comme suit : (Paragraphe 5 : .*?)\.?\n', body[b:])
+    return out, m.group(1).strip()
+
+
+def versions() -> list[dict]:
+    """v1 as promulgated; v2 = v1 + Loi 11/002 on its promulgation day; v3 = the JO's coordinated text."""
+    from textlib import sha256
+    v1 = parse(SRC_2006)
+    law, p5 = parse_law_11_002()
+    v2 = {k: dict(u) for k, u in v1.items()}
+    v2.update(law)
+    st = v2['structure']['text']
+    assert OLD_P5 in st, 'old § 5 heading not found'
+    v2['structure'] = dict(v2['structure'], text=st.replace(OLD_P5, _tidy_heading(p5)))
+    v3 = parse(SRC_2011)
+    # where the coordinated text says the same thing with other line breaks, keep the earlier lines
+    for k, u in v3.items():
+        if k in v2 and same(u, v2[k]):
+            v3[k] = v2[k]
+    out = [
+        {'from': '2006-02-18', 'source_url': SRC_2006, 'sha256': sha256(SRC_2006), 'units': v1,
+         'credits': {}},
+        {'from': '2011-01-20', 'source_url': SRC_LAW_11_002, 'sha256': sha256(SRC_LAW_11_002), 'units': v2,
+         'credits': {k: ['loi-11-002'] for k in sorted(v2) if v2[k] != v1.get(k)}},
+    ]
+    changed = sorted(k for k in set(v2) | set(v3) if v2.get(k) != v3.get(k))
+    out.append({'from': '2011-02-05', 'source_url': SRC_2011, 'sha256': sha256(SRC_2011), 'units': v3,
+                'credits': {},
+                'note': ('Textes coordonnés published by the Journal officiel (numéro spécial, 5 February 2011). '
+                         f'They differ from the promulgated wording in {len(changed)} units (punctuation, '
+                         'capitalisation, spelling); no law made these differences, so they are committed by the '
+                         'publisher as unexplained. The Journal officiel lists this text as the one in force.')})
+    return out
+
+
 if __name__ == '__main__':
     import sys
     v1, v2 = parse(SRC_2006), parse(SRC_2011)

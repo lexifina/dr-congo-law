@@ -1,0 +1,59 @@
+{
+ "country": "CD",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République Démocratique du Congo du 18 février 2006",
+   "url": "https://www.leganet.be/Legislation/Droit%20Public/Constitution.2011.pdf",
+   "versions": [
+    {
+     "from": "2006-02-18",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/JO/2006/JO.18.02.2006.pdf",
+     "sha256": "471ebb78b5d50bc3d0f3ca3a1d1aaafadc7f874d60db6f8c1be024bb5fa8e30c"
+    },
+    {
+     "from": "2011-01-20",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/JO/2011/JOS.01.02.2011.pdf",
+     "sha256": "139f664e69789e4ad35dadf1ed59ea4bb1a29ce5925986fc25648cd3eb17512c"
+    },
+    {
+     "from": "2011-02-05",
+     "units": 232,
+     "source_url": "https://www.leganet.be/Legislation/Droit%20Public/Constitution.2011.pdf",
+     "sha256": "64193e2f7fbcac9a6a03640956cf2b81dae306571ce58f306c125b7195082225"
+    }
+   ]
+  },
+  {
+   "slug": "code-procedure-penale",
+   "short": "CPP",
+   "title": "Décret du 6 août 1959 portant Code de procédure pénale",
+   "url": "https://journalofficiel.cd/textes-phares/codes-en-vigueur",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 183,
+     "source_url": "https://journalofficiel.cd/textes-phares/codes-en-vigueur",
+     "sha256": "0627681371e78c96cf71ea29b4b033b583779628d3bdfa95167705997c53061d"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "Code du travail",
+   "title": "Loi n° 015/2002 du 16 octobre 2002 portant Code du travail",
+   "url": "https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf",
+   "versions": [
+    {
+     "from": "2002-10-16",
+     "units": 337,
+     "source_url": "https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf",
+     "sha256": "6714d0d16da2756f32c3c2e9e6f00cbe34923990f6e8aa4e37598fdd6baca432"
+    }
+   ]
+  }
+ ]
+}

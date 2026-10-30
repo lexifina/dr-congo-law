@@ -1,0 +1,32 @@
+The legal texts come from official publications of the Democratic Republic of the Congo:
+
+  Journal officiel de la République Démocratique du Congo, numéro spécial du 18 février 2006, Constitution de la
+  République Démocratique du Congo, https://www.leganet.be/Legislation/JO/2006/JO.18.02.2006.pdf;
+  Journal officiel de la République Démocratique du Congo, numéro spécial du 1er février 2011, Loi n° 11/002 du
+  20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo
+  du 18 février 2006, https://www.leganet.be/Legislation/JO/2011/JOS.01.02.2011.pdf;
+  Journal officiel de la République Démocratique du Congo, numéro spécial du 5 février 2011, Constitution de la
+  République Démocratique du Congo modifiée par la Loi n° 11/002 du 20 janvier 2011 (textes coordonnés),
+  https://www.leganet.be/Legislation/Droit%20Public/Constitution.2011.pdf;
+  all retrieved 28 October 2026 from the copies hosted by Leganet (www.leganet.be);
+  Journal officiel de la République Démocratique du Congo, numéro spécial du 25 octobre 2002, Loi n° 015/2002
+  du 16 octobre 2002 portant Code du travail, https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf,
+  retrieved 30 October 2026 from the copy hosted by Leganet;
+  Journal officiel de la République Démocratique du Congo, numéro spécial du 12 mars 2024, Code de procédure
+  pénale (textes coordonnés), from the Journal officiel's site, https://journalofficiel.cd/textes-phares/codes-en-vigueur,
+  retrieved 30 October 2026;
+  and, for checking only, Journal officiel de la RDC, https://journalofficiel.cd/textes-phares/constitution,
+  retrieved 29 October 2026, and Leganet's copy of the numéro spécial du 12 mars 2024, retrieved 30 October 2026.
+
+Neither the Journal officiel nor Leganet publishes a licence for the legal texts. They are official legal texts;
+their copyright status is not confirmed here, and they are reproduced with the attribution above.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line;
+spacing, apostrophes, quotes and list dashes were normalised; page numbers, running headers, the table of contents,
+the exposés des motifs and the signature lines were removed; the headings were gathered in one file; and the text
+was arranged as git commits credited to the laws concerned. The wording of the law was not changed. Neither the
+Journal officiel nor Leganet endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

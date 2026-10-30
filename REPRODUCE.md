@@ -55,7 +55,7 @@ When a law gives no date of its own, the default rule applies: No general rule i
 
 ## Checks
 
-Not yet run for this build.
+6 versions of 4 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 6 history commits and 10 tags (history tip `c1fc66f7941ecf01993f80c47e60c85199395ce6`).
 

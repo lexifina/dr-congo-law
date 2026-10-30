@@ -9,6 +9,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution de la République Démocratique du Congo du 18 février 2006 | 3 | As promulgated, in force 18 February 2006; revised by Loi n° 11/002, in force 20 January 2011 (8 articles and one heading); the Journal officiel's coordinated text of 5 February 2011 |
+| `code-conduite-agent-public/` | Décret-loi n° 017/2002 du 3 octobre 2002 portant Code de conduite de l’agent public de l’Etat | 1 | Complete text listed in force by the Journal officiel; all 33 articles, effective on signature on 3 October 2002 |
 | `code-du-travail/` | Loi n° 015/2002 du 16 octobre 2002 portant Code du travail | 1 | As promulgated, in force 16 October 2002 (Journal officiel, numéro spécial du 25 octobre 2002). **Not yet amended here:** Loi n° 16/010 du 15 juillet 2016 rewrote 15 articles and added two, so this is not today's text |
 | `code-procedure-penale/` | Décret du 6 août 1959 portant Code de procédure pénale | 1 | The Journal officiel's coordinated text, up to date to 12 March 2024 (J.O. numéro spécial du 12 mars 2024) |
 
@@ -38,6 +39,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 - **The Constitution fixes its own entry into force** (art. 229): it "entre en vigueur dès sa promulgation par le Président de la République". It was promulgated on 18 February 2006 ("Fait à Kinshasa, le 18 février 2006").
 - **Loi n° 11/002 fixes its own too** (art. 3): it "entre en vigueur à la date de sa promulgation", 20 January 2011. It was published in the Journal officiel of 1 February 2011.
 - **The Code du travail fixes its own entry into force** (art. 334): "La présente loi entre en vigueur à la date de sa promulgation", 16 October 2002. Loi n° 16/010, which amends it, enters into force thirty days after its own publication in the Journal officiel; that issue has not been sourced, so the 2016 changes are not in this record yet.
+- **The Code de conduite de l’agent public fixes its own entry into force** (art. 33): it enters into force on its signature, stated as 3 October 2002.
 - **The Code de procédure pénale starts on 12 March 2024**, the date of the Journal officiel numéro spécial that published its coordinated text ("mise à jour au 12 mars 2024"). Its own list names twelve earlier amending texts, from the Décret du 19 octobre 1959 to Ordonnance-loi n° 23/024 du 11 septembre 2023; they are listed in the commit but their changes are not replayed.
 - **The coordinated text is dated 5 February 2011**, the date of the Journal officiel numéro spécial that published it. It is a publisher's text, not a law.
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day, so a law that took effect that day may be missed before noon. Use `T23:59:59Z` as above, or the tool.
@@ -83,6 +85,7 @@ PyMuPDF for the two-column issue of 1 February 2011), Lexifina's code splits the
 | [Leganet, Journal officiel numéro spécial, 5 February 2011](https://www.leganet.be/Legislation/Droit%20Public/Constitution.2011.pdf) | The Constitution as revised by Loi n° 11/002 (textes coordonnés) | Version 3 |
 | [Leganet, Journal officiel numéro spécial, 25 October 2002](https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf) | Loi n° 015/2002 portant Code du travail, as published | The `code-du-travail/` version |
 | [Journal officiel de la RDC, codes en vigueur](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | The Code de procédure pénale, coordinated text of 12 March 2024 | The `code-procedure-penale/` version |
+| [Journal officiel de la RDC, codes en vigueur](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | The complete Décret-loi n° 017/2002, marked in force | The `code-conduite-agent-public/` version |
 | [Leganet, J.O. numéro spécial du 12 mars 2024] | A copy of the same coordinated text | Checking the Code de procédure pénale |
 | [Journal officiel de la RDC](https://journalofficiel.cd/textes-phares/constitution) | The official gazette; its site shows the coordinated text marked in force | Checking today's text; not consolidated, no dated versions |
 | [Leganet, JO/2011/JOS.05.02.2011.pdf](https://www.leganet.be/Legislation/JO/2011/JOS.05.02.2011.pdf) | A 2012 reprint of the 5 February 2011 issue | Not used: it differs from the Journal officiel's own text in 83 articles |

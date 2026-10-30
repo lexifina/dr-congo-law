@@ -12,6 +12,7 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Leganet (leganet.be): copy of the J.O. numéro spécial du 12 mars 2024 | <https://www.leganet.be/Legislation/JO/2024/JOS%2012.03.2024.Code.de.procedure.penale.LEGANET.2024.pdf> | 2026-10-30 | Official text; Leganet states no licence. |
 | Journal officiel, numéro spécial du 25 octobre 2002 (Code du travail), hosted by Leganet | <https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf> | 2026-10-30 | Official text; Leganet states no licence. |
 | Leganet (leganet.be): HTML edition of Loi n° 015/2002 | <https://www.leganet.be/Legislation/DroitSocial/Code%20du%20travail.%20loi.2002.htm> | 2026-10-30 | Leganet states no licence. |
+| Journal officiel de la RDC (journalofficiel.cd), Textes phares: codes en vigueur | <https://journalofficiel.cd/textes-phares/codes-en-vigueur> | 2026-10-30 | Official text; the site states no licence. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -22,20 +23,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution` | Constitution de la République Démocratique du Congo du 18 février 2006 | 3 | 2006-02-18 to 2011-02-05 |
 | `code-procedure-penale` | Décret du 6 août 1959 portant Code de procédure pénale | 1 | 2024-03-12 to 2024-03-12 |
 | `code-du-travail` | Loi n° 015/2002 du 16 octobre 2002 portant Code du travail | 1 | 2002-10-16 to 2002-10-16 |
+| `code-conduite-agent-public` | Décret-loi n° 017/2002 du 03 octobre 2002 portant Code de conduite de l’agent public de l’Etat | 1 | 2002-10-03 to 2002-10-03 |
 
-The build made 5 commits:
+The build made 6 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3 | first version of an act |
+| 4 | first version of an act |
 | 1 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futur`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 15 laws in the record.
-- 8 tags.
+- 16 laws in the record.
+- 10 tags.
 
 ## Dates
 
@@ -47,15 +49,15 @@ When a law gives no date of its own, the default rule applies: No general rule i
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6bb3f9cf6b113f0238580bab3011b90770cbc2820dcb866ca6971140faf3a192` (832104 bytes).
+- Corpus: sha256 `a53e93a7e0ba918c20e7c8a68d567b969dbc323bd78a20149637db0fa20d0e9f` (853978 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-5 versions of 3 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 6 history commits and 10 tags (history tip `c1fc66f7941ecf01993f80c47e60c85199395ce6`).
 
 ## Decisions made by hand
 
@@ -76,6 +78,8 @@ No second build of this corpus has been compared yet.
 - Code du travail: Loi n° 16/010 du 15 juillet 2016 (arts. 1er, 6, 7, 62, 119, 121, 125, 129, 190, 216 to 219, 241 and 321 rewritten; arts. 61 bis and 61 ter added) is not applied: it enters into force thirty days after its publication in the Journal officiel, and that issue and its date were not sourced. The last version here is therefore the 2002 text, not today’s.
 - Code du travail: misprints in the Journal officiel issue are kept as printed (for example art. 117 "Dute forme de drogue", art. 125 "1es établissements" and "de 19 heures à 17 heures", art. 147 "d’un(période", the formula’s "1a loi"); Leganet’s HTML edition reads differently in 44 paragraphs, all such misprints, "oe"/"œ" spellings or small words.
 - Code du travail: the two-column layout is read column by column; a paragraph ends at a line ending in . ; : ! or ?, or before a list item; the signature block printed beside arts. 332 to 334 is the unit "signature".
+- Code de conduite de l’agent public: one complete version from the Journal officiel’s in-force listing, dated 2002-10-03 because article 33 makes it effective on signature and the signature states "Fait à Kinshasa, le 3 octobre 2002".
+- Code de conduite de l’agent public: all 33 articles, title headings and the signature are retained; only the trailing underscore separator from the web page is excluded as editorial decoration.
 
 ## What AI did and did not do
 

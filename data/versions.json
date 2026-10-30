@@ -54,6 +54,20 @@
      "sha256": "6714d0d16da2756f32c3c2e9e6f00cbe34923990f6e8aa4e37598fdd6baca432"
     }
    ]
+  },
+  {
+   "slug": "code-conduite-agent-public",
+   "short": "Code de conduite de l’agent public",
+   "title": "Décret-loi n° 017/2002 du 03 octobre 2002 portant Code de conduite de l’agent public de l’Etat",
+   "url": "https://journalofficiel.cd/textes-phares/codes-en-vigueur",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 34,
+     "source_url": "https://journalofficiel.cd/textes-phares/codes-en-vigueur",
+     "sha256": "0627681371e78c96cf71ea29b4b033b583779628d3bdfa95167705997c53061d"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "20-code-procedure-penale.json": {
+   "acts": [
+    "code-procedure-penale"
+   ],
+   "sha256": "feb919e8479673fcb8641c5f495a1a9af11c6cae6e76e6af1b8cf4cf7de0da83"
+  },
+  "30-code-du-travail.json": {
+   "acts": [
+    "code-du-travail"
+   ],
+   "sha256": "7b613425b4579f6da71e2b1dc59f62f8ef7396c4e612d71141168b30086f1d1f"
+  },
+  "40-code-conduite-agent-public.json": {
+   "acts": [
+    "code-conduite-agent-public"
+   ],
+   "sha256": "cfd2e1a0051f0c8db28018acfe7972ac126bcb0a1be48cee4b5a8b8ea49473d4"
+  }
+ },
+ "schema": 1
+}

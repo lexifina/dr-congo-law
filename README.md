@@ -1,37 +1,43 @@
-# DR Congo: law history in git
+# RD Congo : l’historique du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of the Democratic Republic of the Congo as a git history: one file per article, each version committed on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit de la RD Congo dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is DR Congo's national law, which global-law reads at `dr-congo/national/acts/`.
+Le droit de la République démocratique du Congo sous forme d’historique git : un fichier par article, chaque version enregistrée au jour de son entrée en vigueur, et pour auteur de chaque commit la loi qui a apporté la modification. `git blame` désigne la loi à l’origine de chaque alinéa ; `git log` énumère toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** four acts, with six versions: the Constitution of 18 February 2006 (229 articles) in three versions, as promulgated, as revised by Loi n° 11/002 of 20 January 2011, and in the Journal officiel's coordinated text of 5 February 2011; and one version each of the Code du travail (Loi n° 015/2002 of 16 October 2002, as promulgated, 334 articles), the Code de procédure pénale (Décret du 6 août 1959, in the Journal officiel's coordinated text of 12 March 2024, 181 articles with those inserted since 1959) and the Code de conduite de l’agent public (Décret-loi n° 017/2002 of 3 October 2002, 33 articles). Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national de la RD Congo, que global-law lit dans `dr-congo/national/acts/`.
 
-Each act is a folder (`constitution/`, `code-du-travail/`, `code-procedure-penale/`, `code-conduite-agent-public/`) with one file per article: `code-du-travail/art-140.md` is Article 140 of the Code du travail, on annual leave. Headings are in each folder's `structure.md`.
+**Contenu actuel :** quatre textes, en six versions : la Constitution du 18 février 2006 (229 articles) en trois versions, telle que promulguée, telle que révisée par la loi n° 11/002 du 20 janvier 2011, et dans le texte coordonné du Journal officiel du 5 février 2011 ; et une version de chacun des textes suivants : le Code du travail (loi n° 015/2002 du 16 octobre 2002, tel que promulgué, 334 articles), le Code de procédure pénale (décret du 6 août 1959, dans le texte coordonné du Journal officiel du 12 mars 2024, 181 articles, y compris ceux insérés depuis 1959) et le Code de conduite de l’agent public (décret-loi n° 017/2002 du 3 octobre 2002, 33 articles). Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) énumère chaque disposition, le nombre de ses modifications et leurs dates.
 
-The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
+Chaque texte est un dossier (`constitution/`, `code-du-travail/`, `code-procedure-penale/`, `code-conduite-agent-public/`) comportant un fichier par article : `code-du-travail/art-140.md` est l’article 140 du Code du travail, relatif au congé annuel. Les intitulés figurent dans le `structure.md` de chaque dossier.
 
-## Questions as git commands
+Le texte est en français, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce registre.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 140 of the Code du travail (annual leave) | `git log -p --word-diff -- code-du-travail/art-140.md` |
-| Which law wrote each line of Article 140? | `git blame code-du-travail/art-140.md` |
-| Every version of Article 140, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-140.md` |
-| Article 140 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 code-du-travail 140` |
+| Toutes les modifications de l’article 140 du Code du travail (congé annuel) | `git log -p --word-diff -- code-du-travail/art-140.md` |
+| Quelle loi a écrit chaque ligne de l’article 140 ? | `git blame code-du-travail/art-140.md` |
+| Toutes les versions de l’article 140, avec le jour d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-140.md` |
+| L’article 140 tel qu’en vigueur le 1er janvier 2020 | `python tools/en_vigueur_au.py 2020-01-01 code-du-travail 140` |
 
-The Code du travail has one version here; for an article with two, try `constitution/art-071.md` (Article 71, the election of the President, rewritten by Loi n° 11/002).
+Le Code du travail figure ici en une seule version ; pour un article qui en compte deux, essayez `constitution/art-071.md` (article 71, relatif à l’élection du Président de la République, réécrit par la loi n° 11/002).
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce registre publiquement, gratuitement :
 
-- **[Ask Claude about the law of DR Congo](https://global-law.lexifina.com/v1/try_claude?country=dr-congo)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dr-congo)**: the same question in ChatGPT.
-- **[Search the law of DR Congo on our site](https://lexifina.com/law?country=dr-congo&q=cong%C3%A9+annuel)**: a search for "congé annuel" (annual leave), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdiction=dr-congo)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit de la RD Congo](https://global-law.lexifina.com/v1/try_claude?country=dr-congo)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=dr-congo)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit de la RD Congo sur notre site](https://lexifina.com/law?country=dr-congo&q=cong%C3%A9+annuel)** : une recherche de « congé annuel », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour les développeurs](https://global-law.lexifina.com/v1/search_law?query=cong%C3%A9+annuel&jurisdiction=dr-congo)** : la même recherche en JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le registre au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -39,56 +45,54 @@ python3 tools/countries.py add dr-congo/national/acts
 python3 tools/law.py show 2026-01-01 dr-congo/national/acts/code-du-travail/art-140.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone lance aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Kinshasa, on the day the version took effect, and carries it in its `In-force:` trailer (the day of signature is in `Enacted:`):
+Chaque commit est daté à midi, heure de Kinshasa (Africa/Kinshasa), du jour où la version est entrée en vigueur, et porte ce jour dans son trailer `In-force:` (le jour de la signature figure dans `Enacted:`) :
 
-- the Constitution: 18 February 2006, its promulgation (art. 229: in force "dès sa promulgation"); Loi n° 11/002: 20 January 2011, its promulgation (its art. 3); the coordinated text: 5 February 2011, the date of the Journal officiel numéro spécial that published it;
-- the Code du travail: 16 October 2002, its promulgation (art. 334); the Code de conduite de l’agent public: 3 October 2002, its signature (art. 33);
-- the Code de procédure pénale: 12 March 2024, the date of the Journal officiel numéro spécial that published its coordinated text ("mise à jour au 12 mars 2024").
+- la Constitution : le 18 février 2006, sa promulgation (art. 229 : en vigueur « dès sa promulgation ») ; la loi n° 11/002 : le 20 janvier 2011, sa promulgation (son art. 3) ; le texte coordonné : le 5 février 2011, date du numéro spécial du Journal officiel qui l’a publié ;
+- le Code du travail : le 16 octobre 2002, sa promulgation (art. 334) ; le Code de conduite de l’agent public : le 3 octobre 2002, sa signature (art. 33) ;
+- le Code de procédure pénale : le 12 mars 2024, date du numéro spécial du Journal officiel qui a publié son texte coordonné (« mise à jour au 12 mars 2024 »).
 
-Each change is credited to the law that made it (`Loi n° 11/002`); the committer is always Lexifina. The two coordinated texts are credited to the Journal officiel: that of 2011 as "unexplained", since no law made its 55 differences from the promulgated wording (punctuation, capitals, spelling, small words), and the Code de procédure pénale as the oldest version available, naming the twelve texts that amended it from 1959 to 2023.
+Chaque modification est attribuée à la loi qui l’a faite (`Loi n° 11/002`) ; le committer est toujours Lexifina. Les deux textes coordonnés sont attribués au Journal officiel : celui de 2011 en tant que modification « inexpliquée », aucune loi n’étant à l’origine de ses 55 différences avec la rédaction promulguée (ponctuation, majuscules, orthographe, petits mots), et le Code de procédure pénale en tant que plus ancienne version disponible, avec mention des douze textes qui l’ont modifié de 1959 à 2023.
 
-## How it is checked
+## Comment il est vérifié
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse and that there are no merge commits.
-- `tools/build.py` writes the history from that corpus in one pass, and a second build gave identical hashes; new acts are appended on top of `main` by `tools/append.py`, which rewrites nothing. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- Today's Constitution against the Journal officiel's own site: 901 of its 906 paragraphs appear there word for word, the other 5 only where the site's copy is broken.
-- A second copy for two codes: Leganet's HTML edition of the Code du travail agrees letter for letter in 1,066 of 1,110 paragraphs (the other 44 are misprints of the Journal officiel, kept as printed, "oe"/"œ" spellings or small words); all 181 articles of the Code de procédure pénale agree word for word with Leganet's copy of the same issue, apart from three words that copy splits across a line break.
+- `tools/check_repo.py` relit chaque version depuis git au jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit se lisent sans erreur et qu’il n’existe aucun commit de fusion.
+- `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et une seconde construction a donné des empreintes identiques ; les nouveaux textes sont ajoutés au-dessus de `main` par `tools/append.py`, qui ne réécrit rien. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- La Constitution actuelle, comparée au site même du Journal officiel : 901 de ses 906 alinéas y figurent mot pour mot, les 5 autres seulement là où la copie du site est défectueuse.
+- Une seconde copie pour deux codes : l’édition HTML du Code du travail de Leganet concorde lettre pour lettre pour 1 066 des 1 110 alinéas (les 44 autres sont des coquilles du Journal officiel, conservées telles qu’imprimées, des graphies « oe »/« œ » ou des petits mots) ; les 181 articles du Code de procédure pénale concordent tous mot pour mot avec la copie du même numéro tenue par Leganet, à l’exception de trois mots que cette copie coupe par un saut de ligne.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **Today's Code du travail.** Loi n° 16/010 of 15 July 2016 rewrote 15 articles and added two (61 bis and 61 ter); its Journal officiel issue and day of entry into force have not been sourced, so this record gives the 2002 text. Article 140 is not among them.
-- **The Code de procédure pénale before 2024**: the twelve amending texts are named, but their changes are not replayed.
-- **Most other law**, and the constitutions of 1960, 1964, 1967 and 2003. The Journal officiel is the only official source, is not consolidated and keeps no dated versions, so each act needs every amending law's own issue.
-- **Headings and non-operative text**: headings are in `structure.md`, not in the article files; the exposés des motifs are left out; texts published only as scanned images are not transcribed.
+- **Le Code du travail en vigueur aujourd’hui.** La loi n° 16/010 du 15 juillet 2016 a réécrit 15 articles et en a ajouté deux (61 bis et 61 ter) ; le numéro du Journal officiel qui l’a publiée et le jour de son entrée en vigueur n’ont pas été trouvés dans une source, de sorte que ce registre donne le texte de 2002. L’article 140 ne fait pas partie de ces articles.
+- **Le Code de procédure pénale avant 2024** : les douze textes modificatifs sont nommés, mais leurs modifications ne sont pas rejouées.
+- **La plupart des autres textes**, ainsi que les constitutions de 1960, 1964, 1967 et 2003. Le Journal officiel est la seule source officielle, n’est pas consolidé et ne conserve aucune version datée ; chaque texte exige donc le numéro propre de chaque loi modificative.
+- **Les intitulés et le texte non normatif** : les intitulés figurent dans `structure.md`, et non dans les fichiers des articles ; les exposés des motifs sont omis ; les textes publiés uniquement sous forme d’images numérisées ne sont pas transcrits.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la RDC](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | The official gazette; its "Textes phares" pages carry the coordinated texts it marks in force | no, today's text only | The Code de procédure pénale and the Code de conduite de l’agent public; the check of today's Constitution |
-| [Leganet](https://www.leganet.be/JO.htm) | Copies of Journal officiel issues, as PDFs with a text layer | each issue as published | The Constitution (JO of 18 February 2006), Loi n° 11/002 (JO of 1 February 2011), the coordinated text of 5 February 2011 and the Code du travail (JO of 25 October 2002); its copies of the codes for checking |
+| [Journal officiel de la RDC](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | Le journal officiel ; ses pages « Textes phares » présentent les textes coordonnés qu’il indique comme en vigueur | non, le seul texte actuel | Le Code de procédure pénale et le Code de conduite de l’agent public ; la vérification de la Constitution actuelle |
+| [Leganet](https://www.leganet.be/JO.htm) | Copies de numéros du Journal officiel, en PDF dotés d’une couche texte | chaque numéro tel que publié | La Constitution (JO du 18 février 2006), la loi n° 11/002 (JO du 1er février 2011), le texte coordonné du 5 février 2011 et le Code du travail (JO du 25 octobre 2002) ; ses copies des codes, pour vérification |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The texts are official texts of the Journal officiel de la République Démocratique du Congo, reproduced with attribution to it and to Leganet, which hosts the copies used; neither publishes a licence, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Les textes sont des textes officiels du Journal officiel de la République Démocratique du Congo, reproduits avec mention de celui-ci et de Leganet, qui héberge les copies utilisées, comme source ; aucun des deux ne publie de licence, et le statut de ces textes au regard du droit d’auteur n’est pas confirmé ici. L’historique, les messages de commit, les tableaux et les outils sont sous CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L’histoire du droit de la République démocratique du Congo dans git : un fichier par article, chaque version enregistrée au jour de son entrée en vigueur, avec pour auteur la loi qui a modifié le texte. Le dépôt contient quatre textes publiés au Journal officiel : la Constitution du 18 février 2006 en trois versions (le texte promulgué, le texte révisé par la loi n° 11/002 du 20 janvier 2011 et les textes coordonnés du 5 février 2011) et, en une version chacun, le Code du travail (loi n° 015/2002 du 16 octobre 2002, tel que promulgué), le Code de procédure pénale (décret du 6 août 1959, textes coordonnés mis à jour au 12 mars 2024) et le Code de conduite de l’agent public (décret-loi n° 017/2002 du 3 octobre 2002). **Le Code du travail n’est pas le texte en vigueur aujourd’hui** : la loi n° 16/010 du 15 juillet 2016 n’est pas appliquée. Texte en vigueur à une date : `python tools/en_vigueur_au.py 2020-01-01 code-du-travail 140`.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés

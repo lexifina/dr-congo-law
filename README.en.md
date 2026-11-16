@@ -63,6 +63,7 @@ Each change is credited to the law that made it (`Loi n° 11/002`); the committe
 - `tools/build.py` writes the history from that corpus in one pass, and a second build gave identical hashes; new acts are appended on top of `main` by `tools/append.py`, which rewrites nothing. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 - Today's Constitution against the Journal officiel's own site: 901 of its 906 paragraphs appear there word for word, the other 5 only where the site's copy is broken.
 - A second copy for two codes: Leganet's HTML edition of the Code du travail agrees letter for letter in 1,066 of 1,110 paragraphs (the other 44 are misprints of the Journal officiel, kept as printed, "oe"/"œ" spellings or small words); all 181 articles of the Code de procédure pénale agree word for word with Leganet's copy of the same issue, apart from three words that copy splits across a line break.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ Each change is credited to the law that made it (`Loi n° 11/002`); the committe
 See [`LICENSE`](LICENSE). The texts are official texts of the Journal officiel de la République Démocratique du Congo, reproduced with attribution to it and to Leganet, which hosts the copies used; neither publishes a licence, and their copyright status is not confirmed here. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

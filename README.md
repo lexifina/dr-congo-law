@@ -63,6 +63,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi n° 11/002`) 
 - `tools/build.py` écrit l’historique à partir de ce corpus en une seule passe, et une seconde construction a donné des empreintes identiques ; les nouveaux textes sont ajoutés au-dessus de `main` par `tools/append.py`, qui ne réécrit rien. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
 - La Constitution actuelle, comparée au site même du Journal officiel : 901 de ses 906 alinéas y figurent mot pour mot, les 5 autres seulement là où la copie du site est défectueuse.
 - Une seconde copie pour deux codes : l’édition HTML du Code du travail de Leganet concorde lettre pour lettre pour 1 066 des 1 110 alinéas (les 44 autres sont des coquilles du Journal officiel, conservées telles qu’imprimées, des graphies « oe »/« œ » ou des petits mots) ; les 181 articles du Code de procédure pénale concordent tous mot pour mot avec la copie du même numéro tenue par Leganet, à l’exception de trois mots que cette copie coupe par un saut de ligne.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -85,6 +86,10 @@ Voir [`LICENSE`](LICENSE). Les textes sont des textes officiels du Journal offic
 Aucun modèle d’IA n’a écrit, traduit ou corrigé de texte juridique, et aucun n’est exécuté lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

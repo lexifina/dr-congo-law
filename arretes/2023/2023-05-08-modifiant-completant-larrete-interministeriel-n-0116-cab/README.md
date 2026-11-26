@@ -2,7 +2,7 @@
 
 Journal officiel du 2023-07-15. Texte : Leganet, <https://www.leganet.be/Legislation/Dfiscal/operationsfoncieres/AIM%2008.05.2023.html>.
 
-En vigueur : 2023-05-08 (« Les Gouverneurs des Provinces, le Secrétaire général aux Affaires Foncières ainsi que le Directeur général de la DGRAD sont chargés, chacun en ce qui le concerne, de l'exécution du présent Arrêté qui entre en vigueur à la date de sa signature »).
+En vigueur : 2023-05-08 (« Les Gouverneurs des Provinces, le Secrétaire général aux Affaires Foncières ainsi que le Directeur général de la DGRAD sont chargés, chacun en ce qui le concerne, de l'exécution du présent Arrêté qui entre en vigueur à la date de sa signature. »).
 
 | Fichier | Début |
 | --- | --- |

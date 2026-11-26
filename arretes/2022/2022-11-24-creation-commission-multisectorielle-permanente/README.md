@@ -2,7 +2,7 @@
 
 Journal officiel du 2023-03-06. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20Public/SANTE/AIM%2024.11.2022.html>.
 
-En vigueur : 2022-11-24 (« Le Secrétaire général à la Santé Publique, Hygiène et Prévention est chargé de l'exécution du présent Arrêté qui entre en vigueur à la date de sa signature »).
+En vigueur : 2022-11-24 (« Le Secrétaire général à la Santé Publique, Hygiène et Prévention est chargé de l'exécution du présent Arrêté qui entre en vigueur à la date de sa signature. »).
 
 | Fichier | Début |
 | --- | --- |

@@ -1,41 +1,21 @@
 Arrêté n°CAB.MIN/FP/J-CK/SGA/CMRAP/JSB/ GMK/013/2015 du 30 juillet 2015 portant agrément provisoire du cadre organique des structures standards à compétences horizontales communes à toutes les administrations centrales des Ministères, Institutions et Services publics.
-
 Le Ministre de la Fonction Publique,
-
 Vu la Constitution, spécialement en ses articles 93 et 193;
-
 Vu la Loi n° 81-003 du 17 juillet 1981 portant Statut du personnel de carrière des services publics de l'Etat, telle que modifiée par l'Ordonnance-loi 82-011 du 19 mars 1982;
-
 Vu la Loi n° 11/011 du 13 juillet 2011 relative aux finances publiques;
-
 Vu l'Ordonnance n° 80-215 du 28 août 1980 portant création du Ministère de la Fonction Publique ;
-
 Vu l'Ordonnance n° 82-027du 19 mars 1982 fixant l'organisation et le cadre organique des départements du conseil exécutif et du commissariat général au Plan ;
-
 Vu l'Ordonnance n°14/078 du 07 décembre 2014 portant nomination des Vices-premiers Ministres, des Ministres d'Etat, des Ministres et Vice-ministres du Gouvernement de cohésion nationale;
-
 Vu l'Ordonnance n°15/14 du 21 mars 2015 portant organisation et fonctionnement du Gouvernement, modalités pratiques de collaboration entre le Président de la République, le Premier ministre, les Vices-premiers, les Ministres d'Etat, les Ministres et les Vice-ministres ;
-
 Vu l'Ordonnance n°15-015 du 21 mars 2015 fixant les attributions des Ministères ;
-
 Vu le Décret n° 12/028 du 03 août 2012 portant création, organisation et fonctionnement du Comité de Pilotage et de Coordination de la Modernisation de l'Administration Publique en République Démocratique du Congo ;
-
 Considérant le Programme d'Actions du Gouvernement (PAG 2012-2016) qui met un accent particulier sur la réforme de l'administration publique comme pilier essentiel à la refondation de l'Etat et ce, dans l'optique d'atteindre l'émergence du pays à l'horizon 2030 ;
-
 Considérant que la stratégie révisée de la réforme et modernisation de l'Administration publique adoptée au Comité de Pilotage et Modernisation de l'Administration Publique, retient dans l'un de ses piliers, la révision des cadres organiques, fondée essentiellement sur la recherche des voies et moyens permettant d'améliorer la gouvernance administrative, notamment par la rationalisation des systèmes d'organisation et de gestion des services publics axée sur les résultats ;
-
 Considérant les instructions de Son Excellence Monsieur le Premier ministre, contenues dans la lettre n° CAB/PM/CR/TWT/4189/2013 du 1 er juillet 2013 adressée aux membres du Gouvernement relative à la nécessité d'installer les structures standards à compétences horizontales communes à toutes les administrations centrales des Ministères, Institutions et Services publics ;
-
 Considérant les rapports techniques conformes établis par les différents ateliers d'évaluation sur la nécessité de la création et de l'implantation des structures, sur l'élaboration des projets des cadres organiques de ces structures et sur la validation des projets de ces mêmes structures ;
-
 Considérant la décision du Comité de pilotage suscité en date du 07 juillet 2015 validant le projet de cadre organique des structures standards, capables de prendre en compte les activités horizontales essentielles pour toutes ces structures conformément aux innovations relatives notamment aux Lois des Finances Publiques (LOFIP), des marchés publics et sur la décentralisation administrative et, l'introduction des Nouvelles Technologies de l'Information et de Communication (NTIC);
-
 Attendu qu'il y a lieu de mettre en place dans toutes les Administrations centrales des Ministères, Institutions et services publics des structures standards à compétences horizontales communes ;
-
 Attendu que l'implantation de ces structures nécessite la sélection et le recrutement interne des agents devant occuper ces postes selon le référentiel des emplois et qu'elle doit être progressive, en commençant par les Ministères pilotes ;
-
 Sur proposition du Secrétaire général à la Fonction Publique chargé du personnel actif ;
-
 Vu la nécessité et l'urgence ;
-
 ARRETE

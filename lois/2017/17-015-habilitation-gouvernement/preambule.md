@@ -1,11 +1,6 @@
 Loi n°17/015 du 24 décembre 2017 portant habilitation du Gouvernement
-
 Exposé des motifs
-
 Conscient de la nécessité des réformes structurelles pour promouvoir le développement du pays, le Président de la République a exhorté l 'Assemblée nationale et le Sénat, lors de son dernier discours sur l'état de la nation du 05avril 2017, à adopter un certain nombre de lois, notamment dans le domaine fiscal. Il s'agit des mesures qui touchent notamment à la réduction du nombre des produits d'accises et le réajustement des taux des droits d'accises, à la révision de la nomenclature des droits, taxes et redevances du pouvoir central, d'une part, et, d'autre part, des Provinces et Entités administratives décentralisées, dans le but de réduire le nombre des taxes pour lesquelles les taux seront fixés par voies d'arrêtés interministériels. Vu l'urgence d'engager ces réformes et au regard du calendrier constitutionnel du Parlement qui sera en vacances parlementaires, il s 'avère nécessaire d'habiliter le Gouvernement à prendre, par Ordonnances-lois, pendant un délai de trois mois, des mesures qui sont normalement du domaine de la loi. Telle est l'économie de la présente Loi.
-
 LOI
-
 L'Assemblée nationale et le Sénat ont adopté ;
-
 Le Président de la République promulgue la Loi dont la teneur suit :

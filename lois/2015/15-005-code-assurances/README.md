@@ -2,7 +2,7 @@
 
 Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Ass/Loi%2015%20mars%202015.html>.
 
-En vigueur : 2015-03-17 (« Des dispositions finales La présente Loi entre en vigueur une année après sa promulgation »).
+En vigueur : 2015-03-17 (« Des dispositions finales La présente Loi entre en vigueur une année après sa promulgation. »).
 
 | Fichier | Début |
 | --- | --- |

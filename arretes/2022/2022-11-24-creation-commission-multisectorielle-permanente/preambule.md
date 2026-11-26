@@ -1,19 +1,10 @@
 Vu l'Arrêté ministériel n°125O/CAB/MIN/SPHP/038/ DCA/CPh/2022 du 24 novembre 2022 modifiant et complétant l'Arrêté ministériel n°1250/CAB/MIN/ S/0002/DC/OWE/2021 du 27 février 2021 fixant les conditions d'exploitation des stupéfiants et des substances psychotropes à des fins médicales et scientifiques ;
-
 Considérant la résolution n° WHA 62.13 du 18 au 22 mai 2009 de l'OMS demandant aux Etats-membres de retenir comme priorité la réglementation des médicaments à base de plantes et d'entreprendre la collaboration régionale et internationale sur la réglementation des produits médicinaux à base de plantes et aussi d'adhérer au réseau mondial de coopération sur la réglementation des médicaments à base de plantes ;
-
 Considérant l'ampleur des innovations liées aux nouvelles technologies en matière de recherche scientifique et médicale ;
-
 Considérant la nécessité de prendre des mesures d'encadrement tendant à contrôler et à limiter la culture, la production, la détention, l'utilisation et la commercialisation des stupéfiants et des substances psychotropes en République Démocratique du Congo à des fins uniquement médicales et scientifiques ;
-
 Considérant les recommandations de l'Organe International de Contrôle des Stupéfiants (OICS) qui rappelle aux Gouvernements autorisant la culture du cannabis à des fins médicales l'obligation de mettre en place les mesures de contrôle prévues par l'article 23 de la Convention de 1961 telle que modifiée, qui impose notamment de créer un organisme qui est chargé de délimiter les régions où la culture sera autorisée et de délivrer des licences à cette fin, d'acheter les récoltes et d'en prendre matériellement possession dès que possible, et qui a seul le droit d'importer, d'exporter, de se livrer au commerce de gros et de conserver des stocks autres que ceux détenus par les fabricants ;
-
 Considérant le rappel par l'OICS aux Gouvernements autorisant l'usage de cannabinoïdes à des fins médicales, de surveiller et d'évaluer les risques de détournement vers le trafic ou d'autres conséquences non souhaitées que pourraient présenter les programmes en question ;
-
 Considérant la volonté politique exprimée par le Gouvernement de la République de rechercher des débouchés susceptibles d'avoir les moyens ade sa politique et de constituer une classe moyenne nationale ;
-
 Vu la nécessité et l'urgence ;
-
 ARRETE
-
 De la création

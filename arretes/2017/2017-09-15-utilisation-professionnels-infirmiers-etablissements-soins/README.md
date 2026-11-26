@@ -2,7 +2,7 @@
 
 Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20Public/SANTE/AM.002.15.09.2017.html>.
 
-En vigueur : 2017-09-15 (« Le Secrétaire général à la Santé et Inspecteur général de la Santé sont charges chacun en ce qui le concerne de l’exécution du présent Arrêté qui entre en vigueur à la date de sa signature »).
+En vigueur : 2017-09-15 (« Sont abrogées, toutes dispositions antérieures contraires au présent Arrêté qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

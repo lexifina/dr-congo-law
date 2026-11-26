@@ -2,7 +2,7 @@
 
 Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Eaux/Loi.15.026.31.12.2015.html>.
 
-En vigueur : 2015-12-31 (« La présente loi entre en vigueur à la date de sa promulgation »).
+En vigueur : 2015-12-31 (« La présente loi entre en vigueur à la date de sa promulgation. »).
 
 | Fichier | Début |
 | --- | --- |

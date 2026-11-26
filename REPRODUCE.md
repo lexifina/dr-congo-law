@@ -13,6 +13,9 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Journal officiel, numéro spécial du 25 octobre 2002 (Code du travail), hosted by Leganet | <https://www.leganet.be/Legislation/DroitSocial/Code_travail.pdf> | 2026-10-30 | Official text; Leganet states no licence. |
 | Leganet (leganet.be): HTML edition of Loi n° 015/2002 | <https://www.leganet.be/Legislation/DroitSocial/Code%20du%20travail.%20loi.2002.htm> | 2026-10-30 | Leganet states no licence. |
 | Journal officiel de la RDC (journalofficiel.cd), Textes phares: codes en vigueur | <https://journalofficiel.cd/textes-phares/codes-en-vigueur> | 2026-10-30 | Official text; the site states no licence. |
+| Leganet (leganet.be): HTML transcriptions of acts published in the Journal officiel, reached from its legislation tables and JO sommaires; the Code pénal (J.O. numéro spécial du 5 mars 2024), the Code de la famille of 1987 (Livres II to V) and Loi n° 16/008 | <https://www.leganet.be/legislation.htm>, <https://www.leganet.be/JO.htm> | from 2026-11-26 | Leganet states no licence; secondary copy, tagged `Source-status` in each commit. |
+
+Since 2026-11-26 the acts filed by type and year, and the Code pénal and the Code de la famille, are appended by a separate runner (`scripts/dr-congo-law/runner/`: `cd_fetch.py` crawls Leganet one request at a time, `cd_parse.py` splits each page into articles and reads its in-force clause, `cd_codes.py` builds the two codes, `cd_build.py` appends the commits with `git fast-import` and pushes fast-forward). It rewrites nothing: an act already published that a later parse changes gets an appended `Kind: correction` commit. The tables below describe the October build only.
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 

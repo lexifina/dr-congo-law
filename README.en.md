@@ -11,9 +11,9 @@ The law of the Democratic Republic of the Congo as a git history: one file per a
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is DR Congo's national law, which global-law reads at `dr-congo/national/acts/`.
 
-**What is in it now:** four acts, with six versions: the Constitution of 18 February 2006 (229 articles) in three versions, as promulgated, as revised by Loi n° 11/002 of 20 January 2011, and in the Journal officiel's coordinated text of 5 February 2011; and one version each of the Code du travail (Loi n° 015/2002 of 16 October 2002, as promulgated, 334 articles), the Code de procédure pénale (Décret du 6 août 1959, in the Journal officiel's coordinated text of 12 March 2024, 181 articles with those inserted since 1959) and the Code de conduite de l’agent public (Décret-loi n° 017/2002 of 3 October 2002, 33 articles). Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when.
+**What is in it now:** the Constitution of 18 February 2006 in three versions (as promulgated, as revised by Loi n° 11/002, and the coordinated text of 5 February 2011); five codes: the Code du travail, the Code de procédure pénale, the Code de conduite de l’agent public, the Code pénal (coordinated text of 5 March 2024) and the Code de la famille (1987, then as amended by Loi n° 16/008 of 2016); and some 450 laws, ordinances-laws, decrees, orders and provincial edicts, each as enacted on the day it took effect, most of them from 2000 on. Each act's `README.md` ([`constitution/README.md`](constitution/README.md)) lists every provision, how often it changed and when.
 
-Each act is a folder (`constitution/`, `code-du-travail/`, `code-procedure-penale/`, `code-conduite-agent-public/`) with one file per article: `code-du-travail/art-140.md` is Article 140 of the Code du travail, on annual leave. Headings are in each folder's `structure.md`.
+Each act is a folder with one file per article, filed by type and year ([STRUCTURE.md](STRUCTURE.md)): `constitution/`, `codes/<code>/`, `lois/<year>/`, `ordonnances-lois/`, `decrets-lois/`, `ordonnances/`, `decrets/`, `arretes/` and the provinces' `edits-provinciaux/` and `arretes-provinciaux/`. `codes/code-du-travail/art-140.md` is Article 140 of the Code du travail, on annual leave.
 
 The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in French, as the Journal officiel prints it. An English translation
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 140 of the Code du travail (annual leave) | `git log -p --word-diff -- code-du-travail/art-140.md` |
-| Which law wrote each line of Article 140? | `git blame code-du-travail/art-140.md` |
-| Every version of Article 140, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-140.md` |
-| Article 140 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 code-du-travail 140` |
+| Every change to Article 140 of the Code du travail (annual leave) | `git log -p --word-diff -- codes/code-du-travail/art-140.md` |
+| Which law wrote each line of Article 140? | `git blame codes/code-du-travail/art-140.md` |
+| Every version of Article 140, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-140.md` |
+| Article 140 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 codes/code-du-travail 140` |
 
 The Code du travail has one version here; for an article with two, try `constitution/art-071.md` (Article 71, the election of the President, rewritten by Loi n° 11/002).
 
@@ -42,7 +42,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add dr-congo/national/acts
-python3 tools/law.py show 2026-01-01 dr-congo/national/acts/code-du-travail/art-140.md
+python3 tools/law.py show 2026-01-01 dr-congo/national/acts/codes/code-du-travail/art-140.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -69,7 +69,7 @@ Each change is credited to the law that made it (`Loi n° 11/002`); the committe
 
 - **Today's Code du travail.** Loi n° 16/010 of 15 July 2016 rewrote 15 articles and added two (61 bis and 61 ter); its Journal officiel issue and day of entry into force have not been sourced, so this record gives the 2002 text. Article 140 is not among them.
 - **The Code de procédure pénale before 2024**: the twelve amending texts are named, but their changes are not replayed.
-- **Most other law**, and the constitutions of 1960, 1964, 1967 and 2003. The Journal officiel is the only official source, is not consolidated and keeps no dated versions, so each act needs every amending law's own issue.
+- **Consolidated versions of most acts**: the laws, ordinances, decrees and orders are filed as enacted, each in its own folder; amending acts are not yet replayed into the acts they amend. Acts whose page gives no in-force clause, or whose day of entry into force cannot be fixed from the page (for example "thirty days after publication" with no Journal officiel date), are held back, as are pages with an incomplete text. Also missing: the constitutions of 1960, 1964, 1967 and 2003.
 - **Headings and non-operative text**: headings are in `structure.md`, not in the article files; the exposés des motifs are left out; texts published only as scanned images are not transcribed.
 
 ## Sources
@@ -78,6 +78,7 @@ Each change is credited to the law that made it (`Loi n° 11/002`); the committe
 | --- | --- | --- | --- |
 | [Journal officiel de la RDC](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | The official gazette; its "Textes phares" pages carry the coordinated texts it marks in force | no, today's text only | The Code de procédure pénale and the Code de conduite de l’agent public; the check of today's Constitution |
 | [Leganet](https://www.leganet.be/JO.htm) | Copies of Journal officiel issues, as PDFs with a text layer | each issue as published | The Constitution (JO of 18 February 2006), Loi n° 11/002 (JO of 1 February 2011), the coordinated text of 5 February 2011 and the Code du travail (JO of 25 October 2002); its copies of the codes for checking |
+| [Leganet](https://www.leganet.be/legislation.htm) (an association's site, PPDS) | HTML transcriptions of the texts published in the Journal officiel, with the issue they appeared in | each act as enacted | The laws, ordinances, decrees and orders in `lois/`, `ordonnances-lois/`, `decrets/`, `arretes/` and the provinces' folders; tagged `Source-status: secondary copy (Leganet ...)` |
 
 ## Licence
 

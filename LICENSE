@@ -18,6 +18,15 @@ The legal texts come from official publications of the Democratic Republic of th
   and, for checking only, Journal officiel de la RDC, https://journalofficiel.cd/textes-phares/constitution,
   retrieved 29 October 2026, and Leganet's copy of the numéro spécial du 12 mars 2024, retrieved 30 October 2026.
 
+The laws, ordinances, decrees and orders filed by type and year (lois/, ordonnances-lois/, decrets-lois/,
+ordonnances/, decrets/, arretes/, edits-provinciaux/, arretes-provinciaux/) come from Leganet's HTML
+transcriptions of the texts published in the Journal officiel de la République Démocratique du Congo, Leganet
+(www.leganet.be, formerly leganet.cd), a non-governmental site of the association Partenariat pour le
+développement social (PPDS) that puts Congolese legal information online free of charge,
+https://www.leganet.be/legislation.htm and https://www.leganet.be/JO.htm, retrieved from 26 November 2026; each
+commit names its page in its Source trailer. Leganet states: "Les textes ne font que refléter les textes en
+possession des associations qui n'engagent pas leur responsabilité."
+
 Neither the Journal officiel nor Leganet publishes a licence for the legal texts. They are official legal texts;
 their copyright status is not confirmed here, and they are reproduced with the attribution above.
 

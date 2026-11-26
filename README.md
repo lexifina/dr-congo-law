@@ -11,9 +11,9 @@ Le droit de la République démocratique du Congo sous forme d’historique git 
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national de la RD Congo, que global-law lit dans `dr-congo/national/acts/`.
 
-**Contenu actuel :** quatre textes, en six versions : la Constitution du 18 février 2006 (229 articles) en trois versions, telle que promulguée, telle que révisée par la loi n° 11/002 du 20 janvier 2011, et dans le texte coordonné du Journal officiel du 5 février 2011 ; et une version de chacun des textes suivants : le Code du travail (loi n° 015/2002 du 16 octobre 2002, tel que promulgué, 334 articles), le Code de procédure pénale (décret du 6 août 1959, dans le texte coordonné du Journal officiel du 12 mars 2024, 181 articles, y compris ceux insérés depuis 1959) et le Code de conduite de l’agent public (décret-loi n° 017/2002 du 3 octobre 2002, 33 articles). Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) énumère chaque disposition, le nombre de ses modifications et leurs dates.
+**Contenu actuel :** la Constitution du 18 février 2006 en trois versions (telle que promulguée, telle que révisée par la loi n° 11/002, et le texte coordonné du 5 février 2011) ; cinq codes : le Code du travail, le Code de procédure pénale, le Code de conduite de l’agent public, le Code pénal (textes coordonnés du 5 mars 2024) et le Code de la famille (1987, puis tel que modifié par la loi n° 16/008 de 2016) ; et quelque 450 lois, ordonnances-lois, décrets, arrêtés et édits provinciaux, chacun tel qu’édicté, au jour de son entrée en vigueur, la plupart postérieurs à 2000. Le `README.md` de chaque texte ([`constitution/README.md`](constitution/README.md)) énumère chaque disposition, le nombre de ses modifications et leurs dates.
 
-Chaque texte est un dossier (`constitution/`, `code-du-travail/`, `code-procedure-penale/`, `code-conduite-agent-public/`) comportant un fichier par article : `code-du-travail/art-140.md` est l’article 140 du Code du travail, relatif au congé annuel. Les intitulés figurent dans le `structure.md` de chaque dossier.
+Chaque texte est un dossier comportant un fichier par article, classé par nature et par année ([STRUCTURE.md](STRUCTURE.md)) : `constitution/`, `codes/<code>/`, `lois/<année>/`, `ordonnances-lois/`, `decrets-lois/`, `ordonnances/`, `decrets/`, `arretes/` et, pour les provinces, `edits-provinciaux/` et `arretes-provinciaux/`. `codes/code-du-travail/art-140.md` est l’article 140 du Code du travail, relatif au congé annuel.
 
 Le texte est en français, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce registre.
 
@@ -21,10 +21,10 @@ Le texte est en français, tel que l’imprime le Journal officiel. Une traducti
 
 | Question | Commande |
 | --- | --- |
-| Toutes les modifications de l’article 140 du Code du travail (congé annuel) | `git log -p --word-diff -- code-du-travail/art-140.md` |
-| Quelle loi a écrit chaque ligne de l’article 140 ? | `git blame code-du-travail/art-140.md` |
-| Toutes les versions de l’article 140, avec le jour d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code-du-travail/art-140.md` |
-| L’article 140 tel qu’en vigueur le 1er janvier 2020 | `python tools/en_vigueur_au.py 2020-01-01 code-du-travail 140` |
+| Toutes les modifications de l’article 140 du Code du travail (congé annuel) | `git log -p --word-diff -- codes/code-du-travail/art-140.md` |
+| Quelle loi a écrit chaque ligne de l’article 140 ? | `git blame codes/code-du-travail/art-140.md` |
+| Toutes les versions de l’article 140, avec le jour d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-140.md` |
+| L’article 140 tel qu’en vigueur le 1er janvier 2020 | `python tools/en_vigueur_au.py 2020-01-01 codes/code-du-travail 140` |
 
 Le Code du travail figure ici en une seule version ; pour un article qui en compte deux, essayez `constitution/art-071.md` (article 71, relatif à l’élection du Président de la République, réécrit par la loi n° 11/002).
 
@@ -42,7 +42,7 @@ Les deux assistants lisent le registre au moyen du connecteur gratuit Global law
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add dr-congo/national/acts
-python3 tools/law.py show 2026-01-01 dr-congo/national/acts/code-du-travail/art-140.md
+python3 tools/law.py show 2026-01-01 dr-congo/national/acts/codes/code-du-travail/art-140.md
 ```
 
 Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone lance aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -69,7 +69,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi n° 11/002`) 
 
 - **Le Code du travail en vigueur aujourd’hui.** La loi n° 16/010 du 15 juillet 2016 a réécrit 15 articles et en a ajouté deux (61 bis et 61 ter) ; le numéro du Journal officiel qui l’a publiée et le jour de son entrée en vigueur n’ont pas été trouvés dans une source, de sorte que ce registre donne le texte de 2002. L’article 140 ne fait pas partie de ces articles.
 - **Le Code de procédure pénale avant 2024** : les douze textes modificatifs sont nommés, mais leurs modifications ne sont pas rejouées.
-- **La plupart des autres textes**, ainsi que les constitutions de 1960, 1964, 1967 et 2003. Le Journal officiel est la seule source officielle, n’est pas consolidé et ne conserve aucune version datée ; chaque texte exige donc le numéro propre de chaque loi modificative.
+- **Les versions consolidées de la plupart des textes** : les lois, ordonnances, décrets et arrêtés figurent tels qu’édictés, chacun dans son dossier ; les textes modificatifs ne sont pas encore reportés dans les textes qu’ils modifient. Les textes dont la page ne donne pas de clause d’entrée en vigueur, ou dont le jour d’entrée en vigueur ne peut être fixé à partir de la page (par exemple « trente jours après sa publication » sans date du Journal officiel), sont mis de côté, de même que les pages au texte incomplet. Manquent aussi les constitutions de 1960, 1964, 1967 et 2003.
 - **Les intitulés et le texte non normatif** : les intitulés figurent dans `structure.md`, et non dans les fichiers des articles ; les exposés des motifs sont omis ; les textes publiés uniquement sous forme d’images numérisées ne sont pas transcrits.
 
 ## Sources
@@ -78,6 +78,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi n° 11/002`) 
 | --- | --- | --- | --- |
 | [Journal officiel de la RDC](https://journalofficiel.cd/textes-phares/codes-en-vigueur) | Le journal officiel ; ses pages « Textes phares » présentent les textes coordonnés qu’il indique comme en vigueur | non, le seul texte actuel | Le Code de procédure pénale et le Code de conduite de l’agent public ; la vérification de la Constitution actuelle |
 | [Leganet](https://www.leganet.be/JO.htm) | Copies de numéros du Journal officiel, en PDF dotés d’une couche texte | chaque numéro tel que publié | La Constitution (JO du 18 février 2006), la loi n° 11/002 (JO du 1er février 2011), le texte coordonné du 5 février 2011 et le Code du travail (JO du 25 octobre 2002) ; ses copies des codes, pour vérification |
+| [Leganet](https://www.leganet.be/legislation.htm) (site associatif de l’ASBL PPDS) | Transcriptions HTML des textes publiés au Journal officiel, avec le numéro qui les a publiés | chaque texte tel qu’édicté | Les lois, ordonnances, décrets et arrêtés de `lois/`, `ordonnances-lois/`, `decrets/`, `arretes/` et des dossiers provinciaux ; marqués `Source-status: secondary copy (Leganet ...)` |
 
 ## Licence
 

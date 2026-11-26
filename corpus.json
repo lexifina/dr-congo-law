@@ -1,0 +1,29 @@
+{
+  "corpus": "cd/national/acts",
+  "name": "DR Congo law: the Constitution, the codes and the laws, ordinances, decrees and orders of the Democratic Republic of the Congo",
+  "label": "DR Congo",
+  "language": "fr",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-basis",
+      "Enacted",
+      "Published",
+      "Source",
+      "Source-status",
+      "Kind"
+    ],
+    "time": "12:00 Africa/Kinshasa (UTC+1)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "author": "the act that made the change (e.g. \"Loi n° 23/049\"); Lexifina for layout and documentation",
+  "citation": {
+    "file": "((?:codes/[^/]+)|(?:[a-z-]+/[0-9]{4}/[^/]+)|constitution)/art-0*([0-9]+[a-z-]*)\\.md",
+    "cites": "(^|[^0-9])(article|art\\.?) ?{n}\\b"
+  },
+  "sources": [
+    "https://www.leganet.be",
+    "https://journalofficiel.cd"
+  ]
+}

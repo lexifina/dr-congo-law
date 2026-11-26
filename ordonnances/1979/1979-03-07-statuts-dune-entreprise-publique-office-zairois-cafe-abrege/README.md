@@ -1,6 +1,6 @@
 # ORDONNANCE 79-059 du 7 mars 1979  portant statuts d’une entreprise publique dénommée Office zaïrois du café, en abrégé «Ozacaf». (J.O.Z., no7, 1er avril 1979, p. 6)
 
-Journal officiel du 1979-03-07. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/O.07.03.1979.html>.
+Journal officiel du 1979-04-01. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/O.07.03.1979.html>.
 
 En vigueur : 1979-03-07 (« — Le commissaire d’État au Portefeuille et celui à l’Agricul- ture et Développement rural sont chargés, chacun en ce qui le concer- ne de l’exécution de la présente ordonnance, qui entre en vigueur à la date de sa signature. »).
 

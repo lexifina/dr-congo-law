@@ -1,6 +1,6 @@
 # ARRÊTÉ DÉPARTEMENTAL 008 du 24 avril 1978. –   abrogeant l’arrêté interdépartemental CAB/EN/0037/72 du 12 août 1972 relatif au petit transport. (J.O.Z., n°13, 1er juillet 1978, p. 39)
 
-Journal officiel du 1978-04-24. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/transport/AD.008.24.04.1978.html>.
+Journal officiel du 1978-07-01. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/transport/AD.008.24.04.1978.html>.
 
 En vigueur : 1978-04-24 (« — Le présent arrêté entre en vigueur à la date de sa signature. »).
 

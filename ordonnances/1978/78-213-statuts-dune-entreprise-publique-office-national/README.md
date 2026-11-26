@@ -1,6 +1,6 @@
 # Ordonnance n° 78-213 du 5 mai 1978 portant statuts d’une entreprise publique dénommée Office national de développement de l’élevage (O.N.D.E.)
 
-Journal officiel du 1973-08-30. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Agriculture/ordonnance-78-213-05-05-1978-onde.htm>.
+Journal officiel du 1973-10-15. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Agriculture/ordonnance-78-213-05-05-1978-onde.htm>.
 
 En vigueur : 1978-05-05 (« — Le commissaire d’État à l’Agriculture et celui au Portefeuille sont chargés, chacun en ce qui le concerne, de l’exécution de la présente ordonnance, qui entre en vigueur à la date de sa signature »).
 

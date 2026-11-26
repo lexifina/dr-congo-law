@@ -1,6 +1,6 @@
 # DÉCRET 046-A/2003 du 28 mars 2003 portant création, organisation et fonctionnement d’un service spécialisé dénommé «Journal officiel de la République démocratique du Congo», en abrégé «J.O.R.D.C.»
 
-Journal officiel du 2003-03-28. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20administratif/Div/D.046.28.03.2003.htm>.
+Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20administratif/Div/D.046.28.03.2003.htm>.
 
 En vigueur : 2003-03-28 (« — Le directeur de cabinet du président de la République est chargé de l’exécution du présent décret qui entre en vigueur à la date de sa signature »).
 

@@ -1,6 +1,6 @@
 # ARRÊTÉ DÉPARTEMENTAL 002/BCE/ AGRIDRAL/86 du 29 janvier 1986 portant organisation de l’exportation du café zaïrois vers les pays non membres de l’O.I.C.. (J.O.Z., n°5, 1er mars 19856, p. 18)
 
-Journal officiel du 1986-01-29. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/AD.29.01.1986.html>.
+Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/AD.29.01.1986.html>.
 
 En vigueur : 1986-01-29 (« — Le présent arrêté, dont l’exécution est confiée à l’Ozacaf, sort ses effets à la date de sa signature »).
 

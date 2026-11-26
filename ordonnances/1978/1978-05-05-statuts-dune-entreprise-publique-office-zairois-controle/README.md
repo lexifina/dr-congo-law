@@ -1,6 +1,6 @@
 # ORDONNANCE 78-219 du 5 mai 1978  portant statuts d’une entreprise publique dénommée Office zaïrois de contrôle, en abrégé «Ozac». (J.O.Z., no10, 15 mai 1978, p. 77)
 
-Journal officiel du 1978-05-05. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/O.78.219.05.05.1978.html>.
+Journal officiel du 1978-05-15. Texte : Leganet, <https://www.leganet.be/Legislation/Droit%20economique/Reglementationproduits/O.78.219.05.05.1978.html>.
 
 En vigueur : 1978-05-05 (« — Le commissaire d’État au Commerce et celui au Porte- feuille sont chargés, chacun en ce qui le concerne, de l’exécution de la présente ordonnance, qui entre en vigueur à la date de sa signature. »).
 

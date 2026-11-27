@@ -2,7 +2,7 @@
 
 Texte : FAOLEX (LEX-FAOC171770), <https://faolex.fao.org/docs/pdf/Cng171770.pdf>.
 
-En vigueur : 2017-02-28 (« Chapitre X: Des dispositions finales Article 35 Le Ministre ayant le Développement Rural dans des attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
+En vigueur : 2017-04-03 (« Chapitre X: Des dispositions finales Article 35 Le Ministre ayant le Développement Rural dans des attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

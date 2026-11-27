@@ -2,7 +2,7 @@
 
 Texte : FAOLEX (LEX-FAOC174146), <https://faolex.fao.org/docs/pdf/Cng174146.pdf>.
 
-En vigueur : 2016-11-21 (« Le Ministre provincial ayant l'Environnement dans ses attributions est chargé de l'exécution du présent Arrêté qui sort ses effets à la date de sa signature »).
+En vigueur : 2016-12-21 (« Le Ministre provincial ayant l'Environnement dans ses attributions est chargé de l'exécution du présent Arrêté qui sort ses effets à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

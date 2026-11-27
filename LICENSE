@@ -27,6 +27,12 @@ https://www.leganet.be/legislation.htm and https://www.leganet.be/JO.htm, retrie
 commit names its page in its Source trailer. Leganet states: "Les textes ne font que refléter les textes en
 possession des associations qui n'engagent pas leur responsabilité."
 
+The acts tagged "Source-status: official (Journal officiel ...)" come from the Journal officiel de la République Démocratique du Congo's own site, https://journalofficiel.cd/ (the text the site gives for each act, from its public search listing), retrieved from 27 November 2026; each commit names the act's page in its Source trailer.
+
+The Code minier (Loi n° 007/2002, Journal officiel numéro spécial du 15 juillet 2002) and the Loi foncière (Loi n° 73-021 as amended by Loi n° 80-008, Journal officiel numéro spécial du 1er décembre 2004) come from the PDFs Leganet hosts; the Code de procédure civile (Décret du 7 mars 1960) and Book III of the Civil Code (Décret du 30 juillet 1888) from Leganet's HTML transcriptions; retrieved 26-27 November 2026.
+
+The OHADA uniform acts in ohada/ come from the Journal officiel de l'OHADA, n° 22 and n° 23 of 15 February 2011, as published by the Organisation pour l'Harmonisation en Afrique du Droit des Affaires at https://www.ohada.org/journal-officiel/ (PDFs under https://www.ohada.org/wp-content/uploads/2016/05/), retrieved 27 November 2026. The OHADA publishes no licence for them.
+
 Neither the Journal officiel nor Leganet publishes a licence for the legal texts. They are official legal texts;
 their copyright status is not confirmed here, and they are reproduced with the attribution above.
 

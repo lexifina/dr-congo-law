@@ -9,6 +9,7 @@
 | `ordonnances/<année>/...`, `decrets/<année>/...` | Ordonnances du Président de la République et décrets du Premier ministre |
 | `arretes/<année>/<date>-<objet>/` | Arrêtés ministériels, interministériels et autres, par date (leurs numéros sont trop longs pour un nom de dossier) |
 | `edits-provinciaux/<année>/...`, `arretes-provinciaux/<année>/<date>-<objet>/` | Édits des assemblées provinciales et arrêtés des gouverneurs de province |
+| `ohada/<acte-uniforme>/` | Actes uniformes de l'OHADA en vigueur en RDC (depuis le 12 septembre 2012, date d'entrée en vigueur du Traité pour la RDC, ou depuis leur propre entrée en vigueur) |
 
 Chaque dossier d'acte contient un fichier par article (`art-001.md` ; `art-034-bis.md` pour l'article 34 bis),
 `preambule.md` (exposé des motifs, visas) et un `README.md`. Aucun dossier ne dépasse 1 000 entrées.
@@ -31,4 +32,7 @@ dépôt n'est le jour où nous avons téléchargé quoi que ce soit.
 ## Sources
 
 Le Journal officiel (journalofficiel.cd) pour la Constitution et les premiers codes ; Leganet (leganet.be, autrefois
-leganet.cd, site associatif de l'ASBL PPDS) pour les autres actes, marqués `Source-status: secondary copy (Leganet ...)`.
+leganet.cd, site associatif de l'ASBL PPDS) pour les autres actes, marqués `Source-status: secondary copy (Leganet ...)` ;
+le site du Journal officiel pour les actes marqués `Source-status: official (Journal officiel ...)` ; le Journal officiel de
+l'OHADA (ohada.org) pour `ohada/`. Une loi sans clause d'entrée en vigueur entre en vigueur trente jours après sa
+publication au Journal officiel (Constitution, art. 142) : `In-force-basis: publication+30d (Constitution, art. 142)`.

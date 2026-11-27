@@ -26,7 +26,7 @@ The text is in French, as the Journal officiel prints it. An English translation
 | Every version of Article 140, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- codes/code-du-travail/art-140.md` |
 | Article 140 as in force on 1 January 2020 | `python tools/en_vigueur_au.py 2020-01-01 codes/code-du-travail 140` |
 
-The Code du travail has one version here; for an article with two, try `constitution/art-071.md` (Article 71, the election of the President, rewritten by Loi n° 11/002).
+Article 140 of the Code du travail has one version here; for an article with two, try `codes/code-du-travail/art-006.md` (Article 6, the age to work, rewritten by Loi n° 16/010) or `constitution/art-071.md` (Article 71, the election of the President, rewritten by Loi n° 11/002).
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -67,7 +67,7 @@ Each change is credited to the law that made it (`Loi n° 11/002`); the committe
 
 ## What it does not show
 
-- **Today's Code du travail.** Loi n° 16/010 of 15 July 2016 rewrote 15 articles and added two (61 bis and 61 ter); its Journal officiel issue and day of entry into force have not been sourced, so this record gives the 2002 text. Article 140 is not among them.
+- **Later amendments to the Code du travail.** Loi n° 16/010 of 15 July 2016 (15 articles rewritten, 61 bis and 61 ter added) is applied, in force on 28 August 2016, thirty days after the J.O. of 29 July 2016; nothing after it is.
 - **The Code de procédure pénale before 2024**: the twelve amending texts are named, but their changes are not replayed.
 - **Consolidated versions of most acts**: the laws, ordinances, decrees and orders are filed as enacted, each in its own folder; amending acts are not yet replayed into the acts they amend. Acts whose page gives no in-force clause, or whose day of entry into force cannot be fixed from the page (for example "thirty days after publication" with no Journal officiel date), are held back, as are pages with an incomplete text. Also missing: the constitutions of 1960, 1964, 1967 and 2003.
 - **Headings and non-operative text**: headings are in `structure.md`, not in the article files; the exposés des motifs are left out; texts published only as scanned images are not transcribed.

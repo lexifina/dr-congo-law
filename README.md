@@ -67,7 +67,7 @@ Chaque modification est attribuée à la loi qui l’a faite (`Loi n° 11/002`) 
 
 ## Ce qu’il ne montre pas
 
-- **Le Code du travail en vigueur aujourd’hui.** La loi n° 16/010 du 15 juillet 2016 a réécrit 15 articles et en a ajouté deux (61 bis et 61 ter) ; le numéro du Journal officiel qui l’a publiée et le jour de son entrée en vigueur n’ont pas été trouvés dans une source, de sorte que ce registre donne le texte de 2002. L’article 140 ne fait pas partie de ces articles.
+- **Les modifications ultérieures du Code du travail.** La loi n° 16/010 du 15 juillet 2016 (15 articles réécrits, 61 bis et 61 ter ajoutés) est appliquée, en vigueur le 28 août 2016, trente jours après le J.O. du 29 juillet 2016 ; rien de postérieur ne l’est.
 - **Le Code de procédure pénale avant 2024** : les douze textes modificatifs sont nommés, mais leurs modifications ne sont pas rejouées.
 - **Les versions consolidées de la plupart des textes** : les lois, ordonnances, décrets et arrêtés figurent tels qu’édictés, chacun dans son dossier ; les textes modificatifs ne sont pas encore reportés dans les textes qu’ils modifient. Les textes dont la page ne donne pas de clause d’entrée en vigueur, ou dont le jour d’entrée en vigueur ne peut être fixé à partir de la page (par exemple « trente jours après sa publication » sans date du Journal officiel), sont mis de côté, de même que les pages au texte incomplet. Manquent aussi les constitutions de 1960, 1964, 1967 et 2003.
 - **Les intitulés et le texte non normatif** : les intitulés figurent dans `structure.md`, et non dans les fichiers des articles ; les exposés des motifs sont omis ; les textes publiés uniquement sous forme d’images numérisées ne sont pas transcrits.

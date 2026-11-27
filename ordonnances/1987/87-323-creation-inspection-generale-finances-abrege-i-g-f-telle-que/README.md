@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°Sp) du None. Texte : <https://journalofficiel.cd/publication/019ee243-825c-701e-a1bc-7aabd3378557/apercu>.
 
-En vigueur : 1991-03-06 (« La présente Ordonnance-Loi entre en vigueur à la date de sa signature »).
+En vigueur : 1987-09-15 (« La présente Ordonnance-Loi entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

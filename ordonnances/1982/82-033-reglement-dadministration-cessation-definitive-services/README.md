@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°Sp) du None. Texte : <https://journalofficiel.cd/publication/01a033cd-0b64-7030-af4e-d69c7ec45f5f/apercu>.
 
-En vigueur : 1983-03-19 (« La présente Ordonnance sort ses effets à la date de sa signature »).
+En vigueur : 1982-03-19 (« La présente Ordonnance sort ses effets à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

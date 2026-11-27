@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°23) du 2017-12-01. Texte : <https://journalofficiel.cd/publication/019ee243-3949-721f-8c31-fa0e40db30ec/apercu>.
 
-En vigueur : 2017-04-19 (« La présente loi entre en vigueur à la date de sa promulgation. »).
+En vigueur : 2017-11-21 (« La présente loi entre en vigueur à la date de sa promulgation. »).
 
 | Fichier | Début |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°24) du 2018-12-15. Texte : <https://journalofficiel.cd/publication/019ee243-2cc3-72c8-81b2-a3ff0733daad/apercu>.
 
-En vigueur : 2018-11-18 (« Le Ministre de l’Urbanisme et Habitat est chargé de l’exécution du présent Décret, qui entre en vigueur à la date de sa signature. »).
+En vigueur : 2018-11-19 (« Le Ministre de l’Urbanisme et Habitat est chargé de l’exécution du présent Décret, qui entre en vigueur à la date de sa signature. »).
 
 | Fichier | Début |
 | --- | --- |

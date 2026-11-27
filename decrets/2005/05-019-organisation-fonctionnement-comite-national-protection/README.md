@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°7) du None. Texte : <https://journalofficiel.cd/publication/019ee246-e79c-73b3-b834-5f5560496955/apercu>.
 
-En vigueur : 2005-03-29 (« Le Ministre de la Recherche Scientifique est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
+En vigueur : 2005-09-29 (« Le Ministre de la Recherche Scientifique est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

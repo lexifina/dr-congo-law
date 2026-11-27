@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°7) du 2012-03-31. Texte : <https://journalofficiel.cd/publication/019ee244-6b90-72bd-9704-f5b04b6d7c97/apercu>.
 
-En vigueur : 2011-08-09 (« Le Ministre du Plan est chargé de l’exécution du présent Décret qui entre en vigueur à la date de sa signature »).
+En vigueur : 2011-08-13 (« Le Ministre du Plan est chargé de l’exécution du présent Décret qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

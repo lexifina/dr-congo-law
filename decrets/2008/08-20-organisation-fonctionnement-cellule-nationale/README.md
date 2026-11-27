@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°Sp) du 2008-10-21. Texte : <https://journalofficiel.cd/publication/019ee245-b53e-73a7-ba8d-51fb288c9ae6/apercu>.
 
-En vigueur : 2008-02-24 (« TITRE V : DES DISPOSITIONS FINALES Article 29 Le Ministre ayant les Finances dans ses attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
+En vigueur : 2008-09-24 (« TITRE V : DES DISPOSITIONS FINALES Article 29 Le Ministre ayant les Finances dans ses attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

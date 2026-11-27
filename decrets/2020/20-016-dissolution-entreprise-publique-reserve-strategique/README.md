@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°11) du 2020-06-01. Texte : <https://journalofficiel.cd/publication/019ee242-d73a-7192-9764-c59b4c5ecb92/apercu>.
 
-En vigueur : 2020-05-15 (« Le Ministre ayant le Portefeuille dans ses attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
+En vigueur : 2020-05-20 (« Le Ministre ayant le Portefeuille dans ses attributions est chargé de l'exécution du présent Décret qui entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |

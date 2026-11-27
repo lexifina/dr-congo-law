@@ -2,7 +2,7 @@
 
 Journal officiel (JO N°14) du 2003-07-14. Texte : <https://journalofficiel.cd/publication/019ee246-a53a-7068-bd6b-4db77a84d3d4/apercu>.
 
-En vigueur : 2003-03-29 (« assurer la Police Aéronautique Article 10 Le présent arrêté entre en vigueur à la date de sa signature »).
+En vigueur : 2003-03-30 (« assurer la Police Aéronautique Article 10 Le présent arrêté entre en vigueur à la date de sa signature »).
 
 | Fichier | Début |
 | --- | --- |
